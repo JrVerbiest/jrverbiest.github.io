@@ -151,10 +151,6 @@ Hands-on engineer who likes to solve engineering problems, with demonstrated his
 
 ## Courses
 
-- **Pluralsight** subscription
-
-  
-
 - [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf), DataCamp
 
 - [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf), DataCamp
