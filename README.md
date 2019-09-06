@@ -1,7 +1,11 @@
 # Joeri Verbiest, PhD MSc
 
-<br>
-Hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. Skills in electronic (system) design, PCB design, test/measurements and Python. Always eager to learn, to improve and further expand these skills. Today, expanding my skills in machine learning using tools as scikit-learn, PyTorch and Keras and currently enrolled in the [Udacity](https://www.udacity.com) [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
+## About
+
+I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. Today, I am currently enrolled in the [Udacity Nanodegree](https://www.udacity.com) to gain knowledge about [Machine Learning](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). 
+
+*Skill set*: electronic (system) design, PCB design, test/measurements, Python and machine learning (tools: scikit-learn, PyTorch, Keras, AWS Sagemaker).
+
 <br>
 
 ---
@@ -263,4 +267,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 3 September 2019*
+*Last update: 5 September 2019*
