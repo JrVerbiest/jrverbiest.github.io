@@ -14,7 +14,7 @@ My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programmin
 
   - *Period: January 2018 – present @ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
 
-    Task: System engineering support. 
+    Task: System engineering support. PCB design, assembly and testing. 
 
     Tools: SIMetrix Circuit Design and Simulation (Spice), Python, Altium Designer (PCB design) and different measurement equipment.
 
