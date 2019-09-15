@@ -108,25 +108,21 @@ My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programmin
   
   **Objectives:** Test Python code using **unit tests** and build a **Python package**. Build predictive models using a variety of **unsupervised and supervised machine learning** techniques. Understand cloud deployment terminology and best practices. Use **Amazon SageMaker** to **deploy** machine learning models **to production environments**, such a sa web application or piece of hardware. **A/B test** two different deployed models and evaluate their performance. Utilize an **API** to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
   
-  - *Software Engineering Fundamentals: Build a Python Package.* 
-  
-    Write a Python package using software engineering best practices for writing production level code.
-    
-  - *Machine Learning in Production. Deploy a Sentiment Analysis Model.*
+  - Project 1: Machine Learning in Production. Deploy a Sentiment Analysis Model.
   
     Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
   
-  - *Machine Learning Case Studies. Plagiarism Detector.*
+  - Project 2: Machine Learning Case Studies. Plagiarism Detector.
   
     Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
   
-  - *Machine Learning Capstone*
+  - Project 3: Machine Learning Capstone
   
     Complete a final project that involves data exploration and machine learning.
   
 
 
-- [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](http://jrverbiest.eu/docs/Udacity_Data_Science_Term_1.png) projects
+- [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](http://jrverbiest.eu/docs/Udacity_Data_Science_Term_1.png)
 
   **Objectives:** learn the skills you need to perform well as a data scientist with a focus on machine learning (supervised, unsupervised and neural networks).
 
@@ -185,6 +181,8 @@ My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programmin
 - [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf), DataCamp
 
 - [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf), Dataquest
+
+- Python: The Big Picture, Pluralsight
 
   
 
