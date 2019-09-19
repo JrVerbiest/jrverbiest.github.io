@@ -200,10 +200,16 @@ My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programmin
 
 <br>
 
-## Side Projects
+## Side Projects & Case Studies
 
-- Machine Learning
-
+- Machine Learning Projects
+  - Urban Sound
+- [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
+  - VOICED Database
+  - The Chinook Database (SQL)
+  - Freesound General-Purpose Audio Tagging Challenge
+  - PhysioNet 2016 Challenge
+  - MNIST
 
 <br>
 
