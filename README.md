@@ -2,9 +2,9 @@
 
 ## About
 
-I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. I am currently enrolled in online courses and working on a small (personal) project to gain further knowledge in Machine Learning. 
+I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. I am currently enrolled in online courses and working on a small project to gain further knowledge in Machine Learning. 
 
-My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programming (tool: Python), electronic (system) and PCB design (tool: Altium Designer).
+Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (tool: Python), electronic (system) and PCB design (tool: Altium Designer).
 
 
 
@@ -106,7 +106,7 @@ My skill set: machine learning (tools: scikit-learn, PyTorch, Keras), programmin
 
 - *[Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)* (ongoing)
   
-  **Objectives:** Test Python code using unit tests and build a Python package. Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a sa web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
+  **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a sa web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
   
   - Project 1: Machine Learning in Production. Deploy a Sentiment Analysis Model.
   
@@ -271,4 +271,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 19 September 2019*
+*Last update: 22 September 2019*
