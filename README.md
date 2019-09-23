@@ -130,7 +130,7 @@ Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (too
   
 
 
-- [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](http://jrverbiest.eu/docs/Udacity_Data_Science_Term_1.png)
+- [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
 
   **Objectives:** learn the skills you need to perform well as a data scientist with a focus on machine learning (supervised, unsupervised and neural networks).
 
@@ -154,7 +154,7 @@ Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (too
     
     [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
 
-- [*AI Programming with Python, introduction to neural networks*](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- [*AI Programming with Python, introduction to neural networks*](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
   Course content and tools: Python, NumPy, Pandas, Seaborn, PyTorch, linear algebra and deep learning.
 
@@ -164,7 +164,7 @@ Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (too
     
     [Link to Project](https://github.com/JrVerbiest/Udacity_AI_Programming_with_Python_Nanodegree)
 
-- [*Introduction to Programming Nanodegree*](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
+- [*Introduction to Programming Nanodegree*](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
 
   Course content and tools: HTML, CSS, Python incl. Object-Oriented programming and an introduction in data science using Jupyter notebook, NumPy, Pandas, Matplotlib and Seaborn.  
 
