@@ -4,8 +4,6 @@
 
 I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. I am currently enrolled in online courses and working on a small project to gain further knowledge in Machine Learning. 
 
-Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (tool: Python), electronic (system) and PCB design (tool: Altium Designer).
-
 
 
 ---
@@ -211,7 +209,7 @@ Skills: machine learning (tools: scikit-learn, PyTorch, Keras), programming (too
 ## Side Projects & Case Studies
 
 - Machine Learning Projects
-  - Urban Sound
+  - [Urban Sound](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
   - VOICED Database
   - The Chinook Database (SQL)
@@ -279,4 +277,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 23 September 2019*
+*Last update: 27 September 2019*
