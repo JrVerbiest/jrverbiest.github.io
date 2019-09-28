@@ -10,57 +10,57 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
 
 ## Work Experience
 
-- **Senior Consultant** @ VeroTech, Leuven, Belgium since January 2018
+- **Senior Consultant** @ VeroTech, Leuven, Belgium
 
-  - *Period: January 2018 – present @ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
+  - *Active @ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
 
-    Task: System engineering support. PCB design, assembly and testing. 
+    Task: System engineering support: PCB design, assembly and testing. 
 
-    Tools: SIMetrix Circuit Design and Simulation (Spice), Python, Altium Designer (PCB design) and different measurement equipment.
+    Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
-- **Project Manager** @ Peira, Turnhout, Belgium (August 2017 - December 2017)
+- **Project Manager** @ Peira, Turnhout, Belgium
 
   Responsible for: a. formulation of technical solutions; b. communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; c. provides input for technical specifications, requirements and documentation.
 
-- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin (February 2016 – July 2017)
+- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin
 
-  - *Period: March 2017 – July 2017 @ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
+  - *@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
 
     Project: an application in the area Electron Paramagnetic Resonance (EPR).
 
     Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
 
-  - *Period: February 2016 – February 2017 @ Bruker micro-CT, Kontich, Belgium.* 
+  - *@ Bruker micro-CT, Kontich, Belgium.* 
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
     Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C and Python) microcontroller based design (Atmel) for low level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
 
-- **Research Engineer** @ Pepric, Leuven, Belgium (March 2012 - January 2016)
+- **Research Engineer** @ Pepric, Leuven, Belgium
 
   Responsible for: technology development of an ex-vivo instrument for quantification of magnetic nanoparticles.
 
   Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project [*Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
-- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium (August 2009 - March 2012)
+- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium
 
   Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in framework of European project [*PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
 
   Used software and measurement tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
 
-- **Product Generation Engineer** @ NMDG, Leuven, Belgium (April 2007 - July 2009)
+- **Product Generation Engineer** @ NMDG, Leuven, Belgium
 
   Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next generation phase reference generator).
 
   Used software and measurement tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
-- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium (November 2006 - March 2007)
+- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium 
 
   Achievements: proof of concept and a prototype design.
 
   Used design software tools: CST Microwave Office, Matlab and Advanced Design System
 
-- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium (September 2002 - December 2006)
+- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application) .
 
@@ -70,7 +70,7 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
 
   Other activities: a. treasurer IEEE Student Branch Leuven (2003-2005), b. supervision study projects in the course Wireless and Mobile Communications, c. supervision of different (Master) thesis. d. author of several scientific publications (see publication list).
 
-- **Summer job**, Clock-o-Matic, Holsbeek, Belgium (August 2001)
+- **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
   Task: a. solves component failure by lightning (surge immunity). b. feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
@@ -110,13 +110,13 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
   
     Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
   
-    - Project: work in progress (deadline 31 October 2019)
+    - Project: work in progress
   
   - Project 2: Machine Learning Case Studies. Plagiarism Detector.
   
     Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
   
-    - Project: work in progress  (deadline 31 October 2019)
+    - Project: work in progress
   
   - Project 3: Machine Learning Capstone
   
@@ -124,7 +124,7 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
     
     - [Project Specification](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Project%20Specification.md)
     - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
-    - Project: work in progress  (deadline 28 November 2019)
+    - Project: work in progress
   
 
 
@@ -277,4 +277,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 27 September 2019*
+*Last update: 28 September 2019*
