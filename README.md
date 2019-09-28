@@ -1,4 +1,4 @@
-# Joeri Verbiest, PhD MSc
+# Joeri Verbiest
 
 ## About
 
