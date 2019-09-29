@@ -110,7 +110,7 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
   
     Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
   
-    - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis)
+    - [Link to Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis)
   
   - Project 2: Machine Learning Case Studies. Plagiarism Detector.
   
