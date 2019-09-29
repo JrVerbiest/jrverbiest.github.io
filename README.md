@@ -110,13 +110,13 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
   
     Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
   
-    - Project: work in progress
+    - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis)
   
   - Project 2: Machine Learning Case Studies. Plagiarism Detector.
   
     Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
   
-    - Project: work in progress
+    - Project (not started)
   
   - Project 3: Machine Learning Capstone
   
@@ -277,4 +277,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 28 September 2019*
+*Last update: 29 September 2019*
