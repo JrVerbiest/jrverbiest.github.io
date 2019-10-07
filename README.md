@@ -4,7 +4,7 @@
 
 I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. 
 
-Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) and working on a project and small case studies to gain knowledge in machine learning and deep learning. 
+Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) and working on a project and small case studies in machine learning and deep learning. 
 
 <br>
 
@@ -278,4 +278,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 2 October 2019*
+*Last update: 6 October 2019*
