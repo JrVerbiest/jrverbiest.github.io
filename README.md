@@ -124,6 +124,8 @@ Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https:/
   
     A final project that involves data exploration and machine learning.
     
+    - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
+    
     - [Project proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
     - Project report: work in progress
   
