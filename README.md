@@ -211,7 +211,7 @@ Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https:/
 ## Side Projects & Case Studies
 
 - Machine Learning Projects
-  - [Urban Sound](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
+  - [Urban Sound](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
   - VOICED Database
   - The Chinook Database (SQL)
