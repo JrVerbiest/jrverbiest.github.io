@@ -2,9 +2,7 @@
 
 ## About
 
-I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills. 
-
-Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) and working on a project and small case studies in machine learning and deep learning using tools as scikit-learn, Keras (Tensorflow), PyTorch and Amazon SageMaker.
+I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills.
 
 <br>
 
@@ -118,7 +116,7 @@ Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https:/
   
     Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
   
-    - Project (not started)
+    - Project (work in progress)
   
   - Project 3: Machine Learning Capstone
   
@@ -126,7 +124,7 @@ Currently, I am enrolled in the [*Machine Learning Engineer Nanodegree*](https:/
     
     - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
     - [Project proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
-    - Project report: work in progress
+    - Project report (work in progress)
   
 
 
@@ -279,4 +277,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 13 October 2019*
+*Last update: 1 November 2019*
