@@ -116,7 +116,7 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
   
     Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
   
-    - Project (work in progress)
+    - [Link to Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection)
   
   - Project 3: Machine Learning Capstone
   
@@ -277,4 +277,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 1 November 2019*
+*Last update: 8 November 2019*
