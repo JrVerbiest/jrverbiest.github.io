@@ -24,7 +24,7 @@ My Toolbox:
 
   Project: 
 
-  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.
+  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. (Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.)
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -231,7 +231,7 @@ My Toolbox:
 ## Side Projects & Case Studies
 
 - Deep Learning Projects
-  - [Urban Sound](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
+  - [Urban Sound (UrbanSound8k)](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
   - VOICED Database
   - The Chinook Database (SQL)
