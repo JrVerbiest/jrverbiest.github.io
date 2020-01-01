@@ -2,7 +2,17 @@
 
 ## About
 
-I am a hands-on engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. My research oriented background in engineering and my experience working on different kinds of projects has allowed me to bring the best of both worlds and establish a good set of skills. I am always eager to learn, to improve and further expand these skills.
+I am an engineer who likes to solve engineering problems, with demonstrated history of working in research and industry. 
+
+Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
+
+My research interests focus mainly on Artificial Intelligence at the Edge, Machine Learning on microcontrollers (TinyML) and IoT. 
+
+My Toolbox: 
+
+- Hardware Tools: Jetson Nano™ Developer Kit from Nvidia and STM32 ARM microcontrollers from STMicroelectronics)
+- Software Tools: Python, Keras, [Tensorflow Lite for microcontrollers](https://www.tensorflow.org/lite/microcontrollers), [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html), ...
+- Cloud Computing Tools: AWS Sagemaker
 
 <br>
 
@@ -10,9 +20,15 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
 
 ## Work Experience
 
+- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
+
+  Project: 
+
+  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.
+
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
-  - *Active @ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
+  - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
 
     Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer. 
 
@@ -190,6 +206,12 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
 
 - Python: The Big Picture, Pluralsight
 
+- AWS Developer: The Big Picture, Pluralsight
+
+- AWS IoT: The Big Pictures, Pluralsight
+
+- Docker and Kubernetes: The Big Picture, Pluralsight
+
   
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium.
@@ -208,7 +230,7 @@ I am a hands-on engineer who likes to solve engineering problems, with demonstra
 
 ## Side Projects & Case Studies
 
-- Machine Learning Projects
+- Deep Learning Projects
   - [Urban Sound](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
   - VOICED Database
@@ -277,4 +299,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 15 November 2019*
+*Last update: 1 January 2020*
