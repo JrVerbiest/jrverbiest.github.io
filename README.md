@@ -4,7 +4,9 @@
 
 I am an engineer (PhD MSc) who likes to solve engineering problems, with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence and IoT, with special interest in Machine Learning on microcontrollers (TinyML). 
 
-My Research Toolbox: 
+<br>
+
+**My Research Toolbox**
 
 - Hardware Tools: 
   - Jetson Nano™ Developer Kit from Nvidia
