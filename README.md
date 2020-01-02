@@ -4,7 +4,7 @@
 
 I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence at the Edge, Machine Learning on microcontrollers (TinyML) and IoT. 
 
-
+<br>
 
 **My Research Toolbox**
 
