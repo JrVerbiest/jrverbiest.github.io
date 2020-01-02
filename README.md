@@ -4,18 +4,11 @@
 
 I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence at the Edge, Machine Learning on microcontrollers (TinyML) and Internet of Things (IoT)
 
-**My Research Toolbox**
+**My Toolbox**
 
-- Hardware
-  - Jetson Nano™ Developer Kit from Nvidia
-  - STM32L4 Discovery kit IoT node from STMicroelectronics
-- Software
-  - Python
-  - Keras
-  - [Tensorflow Lite for microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
-  - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
-- Cloud Computing
-  - Amazon SageMaker cloud machine learning platform
+- Hardware: Jetson Nano™ Developer Kit from Nvidia and STM32L4 Discovery kit IoT node from STMicroelectronics
+- Software: Python, Keras, [Tensorflow Lite for microcontrollers](https://www.tensorflow.org/lite/microcontrollers) and [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+- Cloud Computing: Amazon SageMaker Cloud Machine Learning Platform
 
 <br>
 
