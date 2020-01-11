@@ -15,10 +15,8 @@ I am an engineer with demonstrated history of working in research and industry. 
   Project: 
 
   - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
-
-    Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.
-
-    Responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware. This IoT platform makes it possible to send raw (air quality) sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms are explored such as Jetson Nano and STM microcontrollers. Key programming languages in the project are Python and C/C++.
+Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.
+    Responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. This IoT platform makes it possible to send raw (air quality) sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms and tools are explored (Jetson Nano and STM32 ARM based microcontrollers). Key programming languages in the project are: Python and C/C++.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
