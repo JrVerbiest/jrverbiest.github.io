@@ -202,6 +202,8 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 - Docker and Kubernetes: The Big Picture, Pluralsight
 
+- Scrum Master Fundamentals - Foundations, Pluralsight
+
   
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium.
@@ -289,4 +291,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 10 January 2020*
+*Last update: 11 January 2020*
