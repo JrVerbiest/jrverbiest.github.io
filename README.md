@@ -2,7 +2,9 @@
 
 ## About
 
-I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence at the Edge, Internet of Things (IoT),  Artificial Intelligence of Things (AIoT) and Machine Learning on microcontrollers (TinyML).
+I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
+
+My research interests focus mainly on Artificial Intelligence at the Edge, Internet of Things (IoT),  Artificial Intelligence of Things (AIoT) and Machine Learning on microcontrollers (TinyML).
 
 <br>
 
@@ -14,11 +16,11 @@ I am an engineer with demonstrated history of working in research and industry. 
 
   Project: 
 
-  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
+  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
 
-    Hogere Zeevaartschool, Karel De Grote Hogeschool and VITO.
+    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
-    Responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. This IoT platform makes it possible to send raw (air quality) sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms and tools are explored (Jetson Nano and STM32 ARM based microcontrollers). Key programming languages in the project are: Python and C/C++.
+    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. The IoT platform sends raw air quality sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms and tools are explored (Jetson Nano, STM32 ARM based microcontrollers, ...). Key programming languages: Python and C/C++.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -182,33 +184,49 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 ## Courses
 
-- [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf), DataCamp
+**DataCamp**
 
-- [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf), DataCamp
+- [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf)
+- [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf)
+- [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+- [Python Data Science Toolbox (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Python%20Data%20Science%20Toolbox%20Part1%20Course.pdf)
+- [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf)
+- [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf)
+- [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf)
 
-- [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf), DataCamp
+**Dataquest**
 
-- [Python Data Science Toolbox (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Python%20Data%20Science%20Toolbox%20Part1%20Course.pdf), DataCamp
+- [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf)
 
-- [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf), DataCamp
+**Pluralsight**
 
-- [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf), DataCamp
+- Python: The Big Picture
 
-- [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf), DataCamp
+- Unit Testing with Python (*)
 
-- [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf), Dataquest
+- Docker and Kubernetes: The Big Picture
 
-- Python: The Big Picture, Pluralsight
+- Agile Fundamentals (*)
 
-- AWS Developer: The Big Picture, Pluralsight
+- Scrum Master Fundamentals - Foundations
 
-- AWS IoT: The Big Pictures, Pluralsight
+- Integrating Connected IoT Microcontrollers with Amazon FreeRTOS (*)
 
-- Docker and Kubernetes: The Big Picture, Pluralsight
+- AWS Developer: The Big Picture
 
-- Scrum Master Fundamentals - Foundations, Pluralsight
+- AWS IoT: The Big Pictures
 
-  
+- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (*)
+
+- Integrating AWS IoT Core in Your Application (*)
+
+- Connecting IoT Devices and AWS with Amazon Greengrass (*)
+
+- Flask: Getting Started (*)
+
+  (*): ongoing courses
+
+**Syntra**
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium.
 
@@ -226,14 +244,8 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 ## Side Projects & Case Studies
 
-- Deep Learning Projects
-  - [Urban Sound (UrbanSound8k)](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
-- [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
-  - VOICED Database
-  - The Chinook Database (SQL)
-  - Freesound General-Purpose Audio Tagging Challenge
-  - PhysioNet 2016 Challenge
-  - MNIST
+- Deep Learning Projects: [UrbanSound8k](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
+- [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
 <br>
 
@@ -295,4 +307,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 11 January 2020*
+*Last update: 12 January 2020*
