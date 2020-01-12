@@ -202,8 +202,7 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 
 - Python: The Big Picture
 - Unit Testing with Python (x)
-- Docker and Kubernetes: The Big Picture
-- Agile Fundamentals (x)
+- Docker and Kubernetes: The Big PictureAgile Fundamentals (x)
 - Scrum Master Fundamentals - Foundations
 - Integrating Connected IoT Microcontrollers with Amazon FreeRTOS (x)
 - AWS Developer: The Big Picture
@@ -212,6 +211,7 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 - Integrating AWS IoT Core in Your Application (x)
 - Connecting IoT Devices and AWS with Amazon Greengrass (x)
 - Flask: Getting Started (x)
+  
   (x): ongoing courses
 
 **Syntra**
