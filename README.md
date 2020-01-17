@@ -202,7 +202,8 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 
 - Python: The Big Picture
 - Unit Testing with Python (x)
-- Docker and Kubernetes: The Big PictureAgile Fundamentals (x)
+- Docker and Kubernetes: The Big Picture
+- Agile Fundamentals (x)
 - Scrum Master Fundamentals - Foundations
 - Integrating Connected IoT Microcontrollers with Amazon FreeRTOS (x)
 - AWS Developer: The Big Picture
