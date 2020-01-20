@@ -203,32 +203,21 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 - Python: The Big Picture
 - Unit Testing with Python (x)
 - Docker and Kubernetes: The Big Picture
-<<<<<<< HEAD
 
 - Agile Fundamentals
 
 - Scrum Master Fundamentals - Foundations
 
-=======
 - Agile Fundamentals (x)
 - Scrum Master Fundamentals - Foundations
-- Integrating Connected IoT Microcontrollers with Amazon FreeRTOS (x)
->>>>>>> 13087bb67f2b4d11a7659c4017ff40f27481fd2f
 - AWS Developer: The Big Picture
 - AWS IoT: The Big Pictures
-<<<<<<< HEAD
 
-- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (*)
-
-  (*): ongoing courses
-=======
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
-- Integrating AWS IoT Core in Your Application (x)
-- Connecting IoT Devices and AWS with Amazon Greengrass (x)
-- Flask: Getting Started (x)
-  
+
   (x): ongoing courses
->>>>>>> 13087bb67f2b4d11a7659c4017ff40f27481fd2f
+
+
 
 
 **Syntra**
