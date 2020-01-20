@@ -209,13 +209,9 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 - Scrum Master Fundamentals - Foundations
 - AWS Developer: The Big Picture
 - AWS IoT: The Big Pictures
-
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
 
   (x): ongoing courses
-
-
-
 
 **Syntra**
 
