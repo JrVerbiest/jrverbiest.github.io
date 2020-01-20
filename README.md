@@ -200,15 +200,13 @@ My research interests focus mainly on Artificial Intelligence at the Edge, Inter
 
 **Pluralsight**
 
-- Python: The Big Picture
-- Unit Testing with Python (x)
-- Docker and Kubernetes: The Big Picture
-- Agile Fundamentals
-- Scrum Master Fundamentals - Foundations
 - Agile Fundamentals
 - Scrum Master Fundamentals - Foundations
 - AWS Developer: The Big Picture
 - AWS IoT: The Big Pictures
+- Docker and Kubernetes: The Big Picture
+- Python: The Big Picture
+- Unit Testing with Python (x)
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
 
   (x): ongoing courses
