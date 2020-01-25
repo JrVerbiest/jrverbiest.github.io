@@ -4,7 +4,7 @@
 
 I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
 
-My research interest focus mainly on Artificial Intelligence at the Edge, Internet of Things (IoT),  Artificial Intelligence of Things (AIoT) and Machine Learning on microcontrollers (TinyML).
+My research interests focus mainly on Artificial Intelligence at the Edge, Internet of Things (IoT),  Artificial Intelligence of Things (AIoT) and Machine Learning on microcontrollers (TinyML).
 
 <br>
 
@@ -20,7 +20,7 @@ My research interest focus mainly on Artificial Intelligence at the Edge, Intern
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
-    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. The IoT platform sends raw air quality sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms and tools are explored (Jetson Nano, STM32 ARM based microcontrollers, ...). Key programming languages: Python and C/C++.
+    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. The IoT platform sends raw air quality sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms and tools are explored (Jetson Nano, STM32 ARM based microcontrollers, ...), programming languages are mainly Python and C/C++.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -292,4 +292,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 23 January 2020*
+*Last update: 25 January 2020*
