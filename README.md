@@ -16,7 +16,7 @@ My research interests focus mainly on Artificial Intelligence at the Edge and Ma
 
   Project: 
 
-  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
+  - [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
@@ -292,4 +292,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 28 January 2020*
+*Last update: 29 January 2020*
