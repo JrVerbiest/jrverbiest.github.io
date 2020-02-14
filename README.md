@@ -206,7 +206,6 @@ My (research) interests focus mainly on Artificial Intelligence at the Edge and 
 - AWS IoT: The Big Pictures
 - Docker and Kubernetes: The Big Picture
 - Python: The Big Picture
-- Unit Testing with Python (x)
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
 
   (x): ongoing courses
