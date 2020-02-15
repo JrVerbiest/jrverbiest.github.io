@@ -216,6 +216,10 @@ My (research) interests focus mainly on Artificial Intelligence at the Edge and 
 
   Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
 
+**Other**
+
+- SensorTile Curriculum: Introduction to Embedded Systems with SensorTile [Online](https://www.st.com/content/st_com/en/campaigns/sensortile-edu.html)
+
 <br>
 
 ## Training
@@ -226,9 +230,8 @@ My (research) interests focus mainly on Artificial Intelligence at the Edge and 
 
 <br>
 
-## Side Projects & Case Studies
+## PET Projects
 
-- Deep Learning Projects: [UrbanSound8k](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
 <br>
@@ -291,4 +294,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 9 February 2020*
+*Last update: 15 February 2020*
