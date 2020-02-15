@@ -2,9 +2,7 @@
 
 ## About
 
-I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
-
-My research interests focus mainly on Artificial Intelligence at the Edge and Machine Learning on microcontrollers (TinyML).
+I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence at the Edge and Machine Learning on microcontrollers (TinyML).
 
 <br>
 
@@ -292,4 +290,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 28 January 2020*
+*Last update: 2 February 2020*
