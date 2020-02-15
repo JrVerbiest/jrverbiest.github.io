@@ -2,7 +2,9 @@
 
 ## About
 
-I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. My research interests focus mainly on Artificial Intelligence at the Edge and Machine Learning on microcontrollers (TinyML).
+I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
+
+My (research) interests focus mainly on Artificial Intelligence at the Edge and Machine Learning on microcontrollers (TinyML).
 
 <br>
 
@@ -14,11 +16,11 @@ I am an engineer with demonstrated history of working in research and industry. 
 
   Project: 
 
-  - [Tetra project HBC.2019.2033](https://www.hzs.be/nl/component/hzs/?view=news_article&articleId=272) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
+  - [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
-    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using mainly off-the-self hardware components. The IoT platform sends raw air quality sensor data, acquired on inland ships, to the Cloud. During the project different hardware platforms are explored.
+    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using off-the-self hardware components. The IoT platform sends air quality sensor data, acquired on inland ships, to the Cloud.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -204,7 +206,6 @@ I am an engineer with demonstrated history of working in research and industry. 
 - AWS IoT: The Big Pictures
 - Docker and Kubernetes: The Big Picture
 - Python: The Big Picture
-- Unit Testing with Python (x)
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
 
   (x): ongoing courses
@@ -225,9 +226,8 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 <br>
 
-## Side Projects & Case Studies
+## PET Projects
 
-- Deep Learning Projects: [UrbanSound8k](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
 <br>
@@ -290,4 +290,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 2 February 2020*
+*Last update: 15 February 2020*
