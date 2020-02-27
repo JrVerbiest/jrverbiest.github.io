@@ -2,9 +2,7 @@
 
 ## About
 
-I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
-
-My (research) interests focus mainly on Artificial Intelligence at the Edge and Machine Learning on microcontrollers (TinyML).
+I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium.
 
 <br>
 
@@ -20,7 +18,7 @@ My (research) interests focus mainly on Artificial Intelligence at the Edge and 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
-    Inside the project responsible for the wireless (4G) IoT platform design (system, software and firmware design) using off-the-self hardware components. The IoT platform sends air quality sensor data, acquired on inland ships, to the Cloud.
+    KdG is responsible for the wireless IoT platform design (system, software and firmware design).
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -298,4 +296,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 15 February 2020*
+*Last update: 22 February 2020*
