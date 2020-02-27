@@ -18,7 +18,7 @@ I am an engineer with demonstrated history of working in research and industry. 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO.
 
-    KdG is responsible for the wireless IoT platform design (system, software and firmware design).
+    KdG is responsible for the IoT platform design (system, software and firmware design).
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -296,4 +296,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 22 February 2020*
+*Last update: 27 February 2020*
