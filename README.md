@@ -12,6 +12,8 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 - **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
+  *IoT & Artificial intelligence (AI on the edge, machine learning on embedded systems and TinyML)*
+
   Project: 
 
   - [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. 
@@ -199,19 +201,12 @@ I am an engineer with demonstrated history of working in research and industry. 
 **Pluralsight**
 
 - Agile Fundamentals
-
 - Scrum Master Fundamentals - Foundations
-
 - AWS Developer: The Big Picture
-
 - AWS IoT: The Big Pictures
-
 - Docker and Kubernetes: The Big Picture
-
 - Python: The Big Picture
-
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
-
 - Mining Data from Time Series (x)
 
   (x): ongoing courses
