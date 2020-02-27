@@ -204,10 +204,7 @@ I am an engineer with demonstrated history of working in research and industry. 
 - AWS IoT: The Big Pictures
 - Docker and Kubernetes: The Big Picture
 - Python: The Big Picture
-- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (x)
-- Mining Data from Time Series (x)
-
-  (x): ongoing courses
+- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (ongoing)
 
 **Syntra**
 
