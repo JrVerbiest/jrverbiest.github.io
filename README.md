@@ -12,9 +12,13 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 - **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
-  *IoT & Artificial intelligence (AI on the edge, machine learning on embedded systems and TinyML)*
+  *IoT & Artificial intelligence*
 
-  Project: 
+  *AI on the edge and machine learning on embedded systems (TinyML)*
+
+  
+
+  Project:
 
   - [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. 
 
@@ -286,4 +290,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 27 February 2020*
+*Last update: 29 February 2020*
