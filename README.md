@@ -280,8 +280,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-<<<<<<< HEAD
 *Last update: 1 March 2020*
-=======
-*Last update: 29 February 2020*
->>>>>>> 1bff81ed03eb66ddb01489270f7e03252c1fdcf6
