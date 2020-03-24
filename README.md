@@ -4,6 +4,8 @@
 
 I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium.
 
+Research interests: IoT and machine learning.
+
 <br>
 
 ---
@@ -18,7 +20,7 @@ I am an engineer with demonstrated history of working in research and industry. 
 
   ° *Artificial Intelligence at the Edge*
 
-  Tools: nVidia Jetson Nano, STM32L4 Discovery kit and AWS Sagemaker
+  Tools: nVidia Jetson Nano, STM32L4 Discovery kit and AWS SageMaker
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
