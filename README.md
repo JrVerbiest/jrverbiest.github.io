@@ -12,7 +12,13 @@ I am an engineer with demonstrated history of working in research and industry. 
 
 - **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
-  Project: [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021): Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
+  ° *Project: [Tetra project HBC.2019.2033](http://elgas.hzs.be) (1 January 2020 - 30 November 2021)*
+
+  Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
+
+  ° *Artificial Intelligence at the Edge*
+
+  Tools: nVidia Jetson Nano, STM32L4 Discovery kit and AWS Sagemaker
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -280,4 +286,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 15 March 2020*
+*Last update: 24 March 2020*
