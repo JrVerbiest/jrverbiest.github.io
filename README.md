@@ -2,9 +2,7 @@
 
 <br>
 
-I am an engineer with demonstrated history of working in research and industry. Currently, I am a researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium.
-
-Research interests: IoT and machine learning.
+Engineer with demonstrated history of working in research and industry. Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium.
 
 <br>
 
@@ -244,8 +242,6 @@ Research interests: IoT and machine learning.
 
 System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. [**Patent**](https://patents.google.com/patent/WO2016128353A1/en)
 
-[![>Patent](http://www.jrverbiest.eu/image/patent.png)](http://www.jrverbiest.eu/docs/WO2016128353-PAMPH-612.pdf)
-
 <br>
 
 ### Articles in International Journals
@@ -288,4 +284,4 @@ System and method for determining a quantity of magnetic particles. (Inventor) P
 
 ---
 
-*Last update: 24 March 2020*
+*Last update: 28 March 2020*
