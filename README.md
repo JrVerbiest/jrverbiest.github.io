@@ -16,9 +16,9 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
   Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
 
-  ° *Artificial Intelligence at the Edge*
+  ° *Machine Learning at the Edge*
 
-  Tools: nVidia Jetson Nano, STM32L4 Discovery kit and AWS SageMaker
+  Personal research project that focus on machine learning at the Edge using embedded system such as nVidia Jetson Nano and STM32L4 Discovery kit for machine learning inference and AWS SageMaker for training.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
