@@ -240,7 +240,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 ### Patent
 
-System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. [**Patent**](https://patents.google.com/patent/WO2016128353A1/en)
+- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. [**Patent**](https://patents.google.com/patent/WO2016128353A1/en)
 
 <br>
 
