@@ -12,13 +12,15 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 - **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
-  ° *Project: [Tetra project HBC.2019.2033](https://researchportal.be/nl/project/effecten-van-luchtkwaliteit-op-de-gezondheid-accommodaties-van-schepen-elgas-monitoring-van) (1 January 2020 - 30 November 2021)*
+  ° *Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental) (1 January 2020 - 30 November 2021)*
 
-  Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen (ELGAS): monitoring van omgevingsparameters, risicoanalyse en aanbevelingen. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
+
+  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
 
   ° *Machine Learning at the Edge*
 
-  Personal research project that focus on machine learning at the Edge using embedded system such as nVidia Jetson Nano and STM32L4 Discovery kit for machine learning inference and AWS SageMaker for training.
+  Research that focus on machine learning at the Edge.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
