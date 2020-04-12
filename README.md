@@ -16,11 +16,11 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
 
-  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design).
+  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design). *Project ongoing*
 
   ° *Machine Learning at the Edge*
 
-  Research that focus on machine learning at the Edge ([GitHub](https://jrverbiest.github.io/AIoT_Node/)).
+  Research that focus on machine learning at the Edge, more [GitHub](https://jrverbiest.github.io/AIoT_Node/). *Project ongoing*
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -227,7 +227,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 ## PET Projects
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
-- [Marvin](https://jrverbiest.github.io/Marvin/) an AI R&D Robot platform.
+- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform. *Project ongoing*
 
 <br>
 
