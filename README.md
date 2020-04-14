@@ -20,7 +20,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
   ° *Machine Learning at the Edge*
 
-  Research that focus on machine learning at the Edge, more on [GitHub](https://jrverbiest.github.io/AIoT_Node/). *Project ongoing*
+  Research that focus on machine learning at the Edge, more on [GitHub](https://jrverbiest.github.io/AIo/). *Project ongoing*
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
