@@ -20,7 +20,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
   ° *Machine Learning at the Edge*
 
-  Research that focus on machine learning at the Edge, more on [GitHub](https://jrverbiest.github.io/AIoT/). *Project ongoing*
+  Research that focus on machine learning at the Edge.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -228,6 +228,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 - [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform. *Project ongoing*
+- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things. *Project ongoing* 
 
 <br>
 
@@ -287,4 +288,4 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 ---
 
-*Last update: 16 April 2020*
+*Last update: 17 April 2020*
