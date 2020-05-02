@@ -223,8 +223,16 @@ Engineer with demonstrated history of working in research and industry. Currentl
 ## PET Projects
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
+
+- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
+
+  <p align="center">   <img width="360" height="205" src="https://github.com/JrVerbiest/AIoT/raw/master/img/AIoT.jpg"> </p>
+
+  
+
 - [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform. ***Project ongoing.***
-- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things. 
+
+  <p align="center">   <img width="177" height="250" src="https://jrverbiest.github.io/Marvin/img/Marvin.png"> </p>
 
 <br>
 
@@ -284,4 +292,4 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 ---
 
-*Last update: 24 April 2020*
+*Last update: 2 May 2020*
