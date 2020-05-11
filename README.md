@@ -226,7 +226,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
   
 
-- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things. **Project ongoing.**
+- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
   
 
@@ -234,7 +234,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 
 
-- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform. **Project ongoing.**
+- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform.
 
   
 
@@ -298,4 +298,4 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 ---
 
-*Last update: 10 May 2020*
+*Last update: 11 May 2020*
