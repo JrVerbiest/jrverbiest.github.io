@@ -234,7 +234,7 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 
 
-- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform.
+- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform (PET-Project).
 
   
 
@@ -298,4 +298,4 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 ---
 
-*Last update: 11 May 2020*
+*Last update: 16 May 2020*
