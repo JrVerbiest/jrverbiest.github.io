@@ -12,6 +12,12 @@ Engineer with demonstrated history of working in research and industry. Currentl
 
 - **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
+  ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
+
+  <p align="center">   <img width="355" height="473" src="./img/AIoT.jpg"> </p>
+
+  
+
   ° *Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental) (1 January 2020 - 30 November 2021)*
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
@@ -223,16 +229,6 @@ Engineer with demonstrated history of working in research and industry. Currentl
 ## PET Projects
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
-
-  
-
-- [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
-
-  
-
-<p align="center">   <img width="355" height="473" src="./img/AIoT.jpg"> </p>
-
-
 
 - [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform (PET-Project).
 
