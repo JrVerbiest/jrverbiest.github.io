@@ -1,12 +1,14 @@
-# Joeri Verbiest, PhD MSc MEng
+# Joeri Verbiest
 
 <br>
 
-Engineer, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium.
+Engineer, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: Internet of Things (IoT), Artificial Intelligence of Things (AIoT), artificial intelligence on ultra low power embedded (IoT) sensor systems and machine learning on microcontrollers (tinyML).
+
+In my spare time I perform research about artificial intelligence in robotics. In the framework of this research I created, by personal funding, the AI R&D Robot platform [Marvin](https://jrverbiest.github.io/Marvin/).
 
 
 
-*Research interests:* artificial intelligence on ultra low power embedded (IoT) sensor systems, machine learning on microcontrollers (tinyML) and artificial intelligence in robotics. 
+<p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
 
 <br>
 
@@ -18,6 +20,8 @@ Engineer, +17y experience, with demonstrated history of working in research and 
 
   ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
+  A R&D platform to show the potential of machine learning and deep learning on embedded devices. The platform consists of the [nVidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
+
   <p align="center">   <img width="355" height="473" src="./img/AIoT.jpg"> </p>
 
   
@@ -26,7 +30,7 @@ Engineer, +17y experience, with demonstrated history of working in research and 
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
 
-  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform design (system, software and firmware design). *Project ongoing*
+  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system, software and firmware design). *Project ongoing*
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -232,13 +236,7 @@ Engineer, +17y experience, with demonstrated history of working in research and 
 
 ## PET Projects
 
-- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform.
-
-  
-
-<p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
-
-*Marvin is an R&D project realized by personal funding.*
+- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform (realized by personal funding).
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
@@ -300,4 +298,4 @@ Engineer, +17y experience, with demonstrated history of working in research and 
 
 ---
 
-*Last update: 16 June 2020*
+*Last update: 21 June 2020*
