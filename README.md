@@ -2,7 +2,7 @@
 
 <br>
 
-Engineer, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: Internet of Things (IoT), Artificial Intelligence of Things (AIoT), artificial intelligence on ultra low power embedded (IoT) sensor systems and machine learning on microcontrollers (tinyML).
+Engineer, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: Artificial Intelligence of Things (AIoT), artificial intelligence on ultra low power embedded (IoT) sensor systems and machine learning on microcontrollers (tinyML).
 
 In my spare time I perform research about artificial intelligence in robotics. In the framework of this research I created, by personal funding, the AI R&D Robot platform [Marvin](https://jrverbiest.github.io/Marvin/).
 
