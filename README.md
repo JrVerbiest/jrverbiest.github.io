@@ -2,9 +2,9 @@
 
 <br>
 
-Engineer, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: Artificial Intelligence of Things (AIoT), artificial intelligence on ultra low power embedded (IoT) sensor systems and machine learning on microcontrollers (tinyML).
+Engineer and researcher, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: artificial intelligence on ultra low power embedded sensor systems and machine learning on microcontrollers (tinyML).
 
-In my spare time I perform research about artificial intelligence in robotics. In the framework of this research I created, by personal funding, the AI R&D Robot platform [Marvin](https://jrverbiest.github.io/Marvin/).
+In my spare time I am working on an experimental AI Robot platform: [Marvin](https://jrverbiest.github.io/Marvin/).
 
 
 
@@ -236,7 +236,7 @@ In my spare time I perform research about artificial intelligence in robotics. I
 
 ## PET Projects
 
-- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Robot platform (realized by personal funding).
+- [Marvin](https://jrverbiest.github.io/Marvin/): AI Robot platform.
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
@@ -298,4 +298,4 @@ In my spare time I perform research about artificial intelligence in robotics. I
 
 ---
 
-*Last update: 21 June 2020*
+*Last update: 13 July 2020*
