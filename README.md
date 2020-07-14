@@ -4,8 +4,6 @@
 
 Engineer and researcher, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: artificial intelligence on ultra low power embedded sensor systems and machine learning on microcontrollers (tinyML).
 
-In my spare time I am working on an experimental AI Robot platform: [Marvin](https://jrverbiest.github.io/Marvin/).
-
 
 
 <p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
@@ -298,4 +296,4 @@ In my spare time I am working on an experimental AI Robot platform: [Marvin](htt
 
 ---
 
-*Last update: 13 July 2020*
+*Last update: 14 July 2020*
