@@ -1,12 +1,14 @@
-# Joeri Verbiest
+# Joeri Verbiest - PhD MSc
 
 <br>
 
-Engineer and researcher, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: artificial intelligence on ultra low power embedded sensor systems and machine learning on microcontrollers (tinyML).
+**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, senior researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. Research topics are: artificial intelligence on low power embedded sensor systems and machine learning on microcontrollers (tinyML).
 
 
 
 <p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
+
+<center> AI Robot platform Marvin. <center>
 
 <br>
 
@@ -18,7 +20,7 @@ Engineer and researcher, +17y experience, with demonstrated history of working i
 
   ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
-  A R&D platform to show the potential of machine learning and deep learning on embedded devices. The platform consists of the [nVidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
+  A R&D platform to show the potential of machine learning on embedded devices. The platform consists of the [nVidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
 
   <p align="center">   <img width="355" height="473" src="./img/AIoT.jpg"> </p>
 
