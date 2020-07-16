@@ -8,8 +8,6 @@
 
 <p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
 
-<center> AI Robot platform Marvin. <center>
-
 <br>
 
 ---
