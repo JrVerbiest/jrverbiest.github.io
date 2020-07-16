@@ -14,7 +14,7 @@ Engineer and researcher, +17y experience, with demonstrated history of working i
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
+- **Senior researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
   ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
@@ -296,4 +296,4 @@ Engineer and researcher, +17y experience, with demonstrated history of working i
 
 ---
 
-*Last update: 14 July 2020*
+*Last update: 16 July 2020*
