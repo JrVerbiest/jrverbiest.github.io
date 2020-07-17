@@ -2,7 +2,7 @@
 
 <br>
 
-**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9). Currently, senior researcher at [Karel de Grote (KdG) University of Applied Science and Arts](https://www.kdg.be/en), [NxT Media Technology](https://www.kdg.be/en/education/study-programmes-dutch/multimedia-and-communication-technology/multimedia-technology), Campus Hoboken, Antwerp, Belgium. 
+**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9).
 
 
 
