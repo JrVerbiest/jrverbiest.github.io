@@ -20,7 +20,7 @@
 
   A R&D platform to show the potential of machine learning on embedded devices. The platform consists of the [nVidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
 
-  <p align="center">   <img width="355" height="473" src="./img/AIoT.jpg"> </p>
+  <p align="center">   <img width="178" height="236" src="./img/AIoT.jpg"> </p>
 
   
 
@@ -235,6 +235,8 @@
 ## PET Projects
 
 - [Marvin](https://jrverbiest.github.io/Marvin/): AI Robot platform.
+
+  <p align="center">   <img width="178" height="237" src="./img/Marvin.jpg"> </p>
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
