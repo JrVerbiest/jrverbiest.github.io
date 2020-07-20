@@ -2,11 +2,7 @@
 
 <br>
 
-**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept (TRL 1-3) to product (TRL 9).
-
-
-
-<p align="center">   <img width="355" height="473" src="./img/Marvin.jpg"> </p>
+**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -234,7 +230,7 @@
 
 ## PET Projects
 
-- [Marvin](https://jrverbiest.github.io/Marvin/): AI Robot platform.
+- [Marvin](https://jrverbiest.github.io/Marvin/): AI R&D Robot platform.
 
   <p align="center">   <img width="178" height="237" src="./img/Marvin.jpg"> </p>
 
@@ -298,4 +294,4 @@
 
 ---
 
-*Last update: 16 July 2020*
+*Last update: 20 July 2020*
