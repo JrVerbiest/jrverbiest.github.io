@@ -6,6 +6,10 @@
 
 <br>
 
+<p align="center">   <img width="360" height="470" src="./img/Marvin.jpg"> </p>
+
+<br>
+
 ---
 
 ## Work Experience
@@ -294,4 +298,4 @@
 
 ---
 
-*Last update: 20 July 2020*
+*Last update: 29 July 2020*
