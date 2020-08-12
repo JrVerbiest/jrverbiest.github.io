@@ -18,7 +18,7 @@
 
   ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
-  A R&D platform to show the potential of machine learning on embedded devices. The platform consists of the [nVidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
+  A AIoT platform to show the potential of machine learning on embedded devices. The platform consists of the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
 
   <p align="center">   <img width="178" height="236" src="./img/AIoT.jpg"> </p>
 
@@ -192,6 +192,8 @@
 
 ## Courses
 
+A selection of courses.
+
 **DataCamp**
 
 - [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf)
@@ -201,6 +203,7 @@
 - [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf)
 - [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf)
 - [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf)
+- ...
 
 **Dataquest**
 
@@ -215,6 +218,7 @@
 - Docker and Kubernetes: The Big Picture
 - Python: The Big Picture
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker
+- ...
 
 **Syntra**
 
@@ -242,7 +246,7 @@
 
 <br>
 
-## Art - Photography
+## Art & Photography
 
 - **Education**
   - Art Academy Temse, division Bornem (2007-2009) 
@@ -298,4 +302,4 @@
 
 ---
 
-*Last update: 29 July 2020*
+*Last update: 12 August 2020*
