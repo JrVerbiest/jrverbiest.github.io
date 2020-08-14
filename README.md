@@ -18,7 +18,7 @@
 
   ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
 
-  A AIoT platform to show the potential of machine learning on embedded devices. The platform consists of the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
+  A platform to show the potential of machine learning on embedded devices. The platform consists of the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
 
   <p align="center">   <img width="178" height="236" src="./img/AIoT.jpg"> </p>
 
@@ -302,4 +302,4 @@ A selection of courses.
 
 ---
 
-*Last update: 12 August 2020*
+*Last update: 14 August 2020*
