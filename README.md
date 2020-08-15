@@ -18,14 +18,6 @@
 
 - **Senior researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
-  ° [AIoT](https://jrverbiest.github.io/AIoT/) - Artificial Intelligence of Things.
-
-  A platform to show the potential of machine learning on embedded devices. The platform consists of the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) (bottom) and the [STM32L4 Discovery kit IoT node, B-L475E-IOT01A](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html) (top).
-
-  <p align="center">   <img width="178" height="236" src="./img/AIoT.jpg"> </p>
-
-  
-
   ° *Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental) (1 January 2020 - 30 November 2021)*
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
