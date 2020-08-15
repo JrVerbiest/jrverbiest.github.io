@@ -8,6 +8,8 @@
 
 <p align="center">   <img width="360" height="470" src="./img/Marvin.jpg"> </p>
 
+[Marvin](https://jrverbiest.github.io/Marvin/): AI R&D Robot platform.
+
 <br>
 
 ---
@@ -302,4 +304,4 @@ A selection of courses.
 
 ---
 
-*Last update: 14 August 2020*
+*Last update: 15 August 2020*
