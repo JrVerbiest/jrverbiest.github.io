@@ -2,7 +2,7 @@
 
 <br>
 
-**Engineer & researcher**, +17y experience, with demonstrated history of working in research and industry, from proof of concept to product.
+**Engineer & researcher**, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
