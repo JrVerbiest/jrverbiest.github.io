@@ -8,7 +8,11 @@
 
 <p align="center">   <img width="360" height="470" src="./img/Marvin.jpg"> </p>
 
-[Marvin](https://jrverbiest.github.io/Marvin/): AI R&D Robot platform.
+[AI R&D Robot platform Marvin](https://jrverbiest.github.io/Marvin/)
+
+<p align="center">   <img width="360" height="470" src="./img/AIoT.jpg"> </p>
+
+[AIoT Platform - Sheila](https://jrverbiest.github.io/AIoT/)
 
 <br>
 
@@ -296,4 +300,4 @@ A selection of courses.
 
 ---
 
-*Last update: 15 August 2020*
+*Last update: 30 August 2020*
