@@ -242,6 +242,8 @@ A selection of courses.
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
+- [STM32]( https://jrverbiest.github.io/STM32/): Play around with STM32 (Nucleo-L476)
+
 <br>
 
 ## Art & Photography
@@ -300,4 +302,4 @@ A selection of courses.
 
 ---
 
-*Last update: 30 August 2020*
+*Last update: 4 September 2020*
