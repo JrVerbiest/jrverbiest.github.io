@@ -10,10 +10,6 @@
 
 [AI R&D Robot platform Marvin](https://jrverbiest.github.io/Marvin/)
 
-<p align="center">   <img width="360" height="470" src="./img/AIoT.jpg"> </p>
-
-[AIoT Platform - Sheila](https://jrverbiest.github.io/AIoT/)
-
 <br>
 
 ---
@@ -22,7 +18,7 @@
 
 - **Senior researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
-  ° *Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental) (1 January 2020 - 30 November 2021)*
+  ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
 
@@ -302,4 +298,4 @@ A selection of courses.
 
 ---
 
-*Last update: 4 September 2020*
+*Last update: 17 September 2020*
