@@ -2,7 +2,7 @@
 
 <br>
 
-**Engineer & researcher**, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
+Engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -16,13 +16,13 @@
 
 ## Work Experience
 
-- **Senior researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
+- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
 
   ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
 
-  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system, software and firmware design). *Project ongoing*
+  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system, software and firmware design).
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -111,6 +111,7 @@
   Thesis + intership @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
   Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
+  
 
 <br>
 
@@ -184,9 +185,7 @@
 
 <br>
 
-## Courses
-
-A selection of courses.
+## Courses (selection)
 
 **DataCamp**
 
@@ -246,7 +245,9 @@ A selection of courses.
 
 - **Education**
   - Art Academy Temse, division Bornem (2007-2009) 
+  
   - Art academy “De Lei”, Leuven (2005-2006) 
+  
 
 <br>
 
@@ -254,7 +255,7 @@ A selection of courses.
 
 ### Patent
 
-- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. [**Patent**](https://patents.google.com/patent/WO2016128353A1/en)
+- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. 
 
 <br>
 
@@ -272,9 +273,9 @@ A selection of courses.
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Antennas for Wireless Biomedical Applications", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 13-24, 2004.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004.
+- J.R. Verbiest and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
 
-  <br>
+<br>
 
 ### Articles in International Conference Proceedings
 
@@ -298,4 +299,4 @@ A selection of courses.
 
 ---
 
-*Last update: 17 September 2020*
+*Last update: 19 September 2020*
