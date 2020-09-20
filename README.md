@@ -6,7 +6,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 <br>
 
-<p align="center">   <img width="360" height="470" src="./img/Marvin.jpg"> </p>
+<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
 [AI R&D Robot platform Marvin](https://jrverbiest.github.io/Marvin/)
 
@@ -20,9 +20,9 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
   ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS)
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS).
 
-  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system, software and firmware design).
+  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system integration, software and firmware design).
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium
 
@@ -299,4 +299,4 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 ---
 
-*Last update: 19 September 2020*
+*Last update: 20 September 2020*
