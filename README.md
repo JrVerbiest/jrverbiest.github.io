@@ -66,7 +66,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
   Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next generation phase reference generator).
 
-  Used software and measurement tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
+  Software & measurement tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium 
 
