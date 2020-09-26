@@ -237,7 +237,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
 
-- [STM32]( https://jrverbiest.github.io/STM32/): Play around with STM32 (Nucleo-L476)
+- [STM32]( https://jrverbiest.github.io/STM32/): Small STM32 projects
 
 <br>
 
@@ -299,4 +299,4 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 ---
 
-*Last update: 20 September 2020*
+*Last update: 26 September 2020*
