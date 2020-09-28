@@ -2,7 +2,7 @@
 
 <br>
 
-Engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
+Creative engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -16,7 +16,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium
+- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium - Contract
 
   ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
@@ -24,7 +24,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
   Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system integration, software and firmware design).
 
-- **Senior Consultant** @ VeroTech, Leuven, Belgium
+- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
 
@@ -32,11 +32,11 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
     Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
-- **Project Manager** @ Peira, Turnhout, Belgium
+- **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
   Responsible for: a. formulation of technical solutions; b. communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; c. provides input for technical specifications, requirements and documentation.
 
-- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin
+- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
   - *@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
 
@@ -50,19 +50,19 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
     Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C and Python) microcontroller based design (Atmel) for low level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
 
-- **Research Engineer** @ Pepric, Leuven, Belgium
+- **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
   Responsible for: technology development of an ex-vivo instrument for quantification of magnetic nanoparticles.
 
   Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project [*Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
-- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium
+- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
   Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in framework of European project [*PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
 
   Used software and measurement tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
 
-- **Product Generation Engineer** @ NMDG, Leuven, Belgium
+- **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
   Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next generation phase reference generator).
 
@@ -108,7 +108,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 - **Industrial Engineer Electricity (MSc, Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Thesis + intership @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
+  Thesis & intership @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
   Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
   
@@ -215,7 +215,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 **Syntra**
 
-- **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium.
+- **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
 
   Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
 
@@ -299,4 +299,4 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 ---
 
-*Last update: 26 September 2020*
+*Last update: 28 September 2020*
