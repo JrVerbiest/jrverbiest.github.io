@@ -224,7 +224,6 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 ## Training
 
 - **EMC PCB Design**, One day course, Canrinus Consultancy, Netherlands, 2016.
-
 - **Safety procedures and equipment**, One day training, AR Benelux, 2016.
 
 <br>
@@ -245,7 +244,6 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 - **Education**
   - Art Academy Temse, division Bornem (2007-2009) 
-  
   - Art academy “De Lei”, Leuven (2005-2006) 
   
 
