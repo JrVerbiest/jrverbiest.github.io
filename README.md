@@ -16,7 +16,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium - Contract
+- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract
 
   ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
@@ -297,4 +297,4 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ---
 
-*Last update: 28 September 2020*
+*Last update: 29 September 2020*
