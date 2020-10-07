@@ -230,14 +230,11 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ## PET Projects
 
-- [Marvin](https://jrverbiest.github.io/Marvin/): AI R&D Robot platform.
-
+- [AI R&D Robot platform, Marvin](https://jrverbiest.github.io/Marvin/)
   <p align="center">   <img width="178" height="237" src="./img/Marvin.jpg"> </p>
-
-- [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies): VOICED Database, The Chinook Database (SQL), Freesound General-Purpose Audio Tagging Challenge,PhysioNet 2016 Challenge and MNIST
-
-- [STM32]( https://jrverbiest.github.io/STM32/): Small STM32 projects
-
+- [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
+- [STM32]( https://jrverbiest.github.io/STM32/)
+- [AIoT](https://jrverbiest.github.io/AIoT/)
 <br>
 
 ## Art & Photography
@@ -297,4 +294,4 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ---
 
-*Last update: 29 September 2020*
+*Last update: 7 October 2020*
