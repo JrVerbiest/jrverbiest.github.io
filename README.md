@@ -185,7 +185,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <br>
 
-## Courses (selection)
+## Courses (a selection)
 
 **DataCamp**
 
@@ -238,9 +238,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
   
   
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
-
 - [STM32]( https://jrverbiest.github.io/STM32/)
-
 - [AIoT](https://jrverbiest.github.io/AIoT/)
 <br>
 
@@ -301,4 +299,4 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ---
 
-*Last update: 7 October 2020*
+*Last update: 24 October 2020*
