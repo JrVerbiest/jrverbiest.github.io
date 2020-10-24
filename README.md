@@ -239,8 +239,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
   
 - [Data Science & Machine Learning Case Studies](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
 - [STM32]( https://jrverbiest.github.io/STM32/)
-- [AIoT](https://jrverbiest.github.io/AIoT/)
-<br>
+  <br>
 
 ## Art & Photography
 
