@@ -1,7 +1,5 @@
 # Joeri Verbiest - PhD MSc
 
-<br>
-
 Creative engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
