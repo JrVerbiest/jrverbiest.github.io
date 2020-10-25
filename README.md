@@ -8,7 +8,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
-[AI R&D Robot platform Marvin](https://jrverbiest.github.io/Marvin/)
+Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform build around the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
 
 <br>
 
@@ -16,7 +16,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract
+- **Researcher** @ KdG University of Applied Science and Arts - NxT Media Technology, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (until 31 December 2020)
 
   ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
 
@@ -185,45 +185,36 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <br>
 
-## Courses (a selection)
+## Courses (selection)
 
-**DataCamp**
+- [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf) (DataCamp)
+- [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf) (DataCamp)
+- [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf) (DataCamp)
+- [Python Data Science Toolbox (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Python%20Data%20Science%20Toolbox%20Part1%20Course.pdf) (DataCamp)
+- [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf) (DataCamp)
+- [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf) (DataCamp)
+- [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf) (DataCamp)
 
-- [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf)
-- [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf)
-- [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
-- [Python Data Science Toolbox (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Python%20Data%20Science%20Toolbox%20Part1%20Course.pdf)
-- [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf)
-- [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf)
-- [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf)
-- ...
+- [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf) (Dataquest)
 
-**Dataquest**
-
-- [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf)
-
-**Pluralsight**
-
-- Agile Fundamentals
-- Scrum Master Fundamentals - Foundations
-- AWS Developer: The Big Picture
-- AWS IoT: The Big Pictures
-- Docker and Kubernetes: The Big Picture
-- Python: The Big Picture
-- Build, Train, and Deploy Machine Learning Models with AWS SageMaker
-- ...
-
-**Syntra**
-
-- **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
-
-  Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
+- Agile Fundamentals (Pluralsight)
+- Scrum Master Fundamentals - Foundations (Pluralsight)
+- AWS Developer: The Big Picture (Pluralsight)
+- AWS IoT: The Big Pictures (Pluralsight)
+- Docker and Kubernetes: The Big Picture (Pluralsight)
+- Python: The Big Picture (Pluralsight)
+- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (Pluralsight)
 
 <br>
 
 ## Training
 
+- **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
+
+  Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
+
 - **EMC PCB Design**, One day course, Canrinus Consultancy, Netherlands, 2016.
+
 - **Safety procedures and equipment**, One day training, AR Benelux, 2016.
 
 <br>
@@ -298,4 +289,4 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 ---
 
-*Last update: 24 October 2020*
+*Last update: 25 October 2020*
