@@ -6,13 +6,15 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <br>
 
+## PET Project
+
+
+
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
 Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform build around the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
 
 <br>
-
----
 
 ## Work Experience
 
@@ -222,16 +224,8 @@ Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform bu
 ## Projects
 
 - [Marvin](https://jrverbiest.github.io/Marvin/)
-  
-  
-  <p align="center">   <img width="178" height="237" src="./img/Marvin.jpg"> </p>
-  
-  
-  
 - [STM32]( https://jrverbiest.github.io/STM32/)
-
 - [Data Science & Machine Learning](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
-
   <br>
 
 ## Art & Photography
@@ -239,8 +233,6 @@ Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform bu
 - **Education**
   - Art Academy Temse, division Bornem (2007-2009) 
   - Art academy “De Lei”, Leuven (2005-2006) 
-  
-
 <br>
 
 ## Publications
