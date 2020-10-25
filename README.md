@@ -10,7 +10,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
-Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform build around the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
+Hello I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform build around the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
 
 <br>
 
