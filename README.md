@@ -187,6 +187,7 @@ Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform bu
 
 ## Courses (selection)
 
+- Tiny Machine Learning (TinyML) (fundamentels, applications and deploying)
 - [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf) (DataCamp)
 - [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf) (DataCamp)
 - [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf) (DataCamp)
@@ -194,9 +195,7 @@ Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform bu
 - [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf) (DataCamp)
 - [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf) (DataCamp)
 - [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf) (DataCamp)
-
 - [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf) (Dataquest)
-
 - Agile Fundamentals (Pluralsight)
 - Scrum Master Fundamentals - Foundations (Pluralsight)
 - AWS Developer: The Big Picture (Pluralsight)
@@ -204,6 +203,7 @@ Meet [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform bu
 - Docker and Kubernetes: The Big Picture (Pluralsight)
 - Python: The Big Picture (Pluralsight)
 - Build, Train, and Deploy Machine Learning Models with AWS SageMaker (Pluralsight)
+- ...
 
 <br>
 
