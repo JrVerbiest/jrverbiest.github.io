@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-Creative engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
+Engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -10,7 +10,7 @@ Creative engineer, +18y experience, with demonstrated history of working in rese
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
-Hello I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform build around the [NVIDIA® Jetson Nano™ Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit).
+Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform.
 
 <br>
 
@@ -281,4 +281,4 @@ Hello I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platf
 
 ---
 
-*Last update: 25 October 2020*
+*Last update: 26 October 2020*
