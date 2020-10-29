@@ -48,7 +48,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C and Python) microcontroller based design (Atmel) for low level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
+    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller based design (Atmel) for low level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -119,7 +119,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
-  **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a sa web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
+  **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
   
   - Project 1: Machine Learning in Production. Deploy a Sentiment Analysis Model.
   
