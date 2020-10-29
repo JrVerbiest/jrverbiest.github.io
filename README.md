@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-Engineer, +18y experience, with demonstrated history of working in research and industry, from proof of concept to product.
+Engineer with demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -10,7 +10,7 @@ Engineer, +18y experience, with demonstrated history of working in research and 
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
-Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot platform.
+Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 <br>
 
