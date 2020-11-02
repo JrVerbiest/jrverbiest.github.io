@@ -185,9 +185,10 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 <br>
 
-## Courses (selection)
+## Courses
 
-- Tiny Machine Learning (TinyML) (fundamentels, applications and deploying)
+- Tiny Machine Learning (TinyML) (fundamentels, applications and deploying) (edX)
+- Microcontroller Embedded C Programming: absolute beginners (Udemy)
 - [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf) (DataCamp)
 - [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf) (DataCamp)
 - [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf) (DataCamp)
@@ -281,4 +282,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 29 October 2020*
+*Last update: 2 November 2020*
