@@ -18,17 +18,15 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 - **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (until 31 December 2020)
 
-  ° Project: [Tetra project HBC.2019.2033](https://researchportal.be/en/project/effects-air-quality-theaccommodations-ships-human-health-monitoring-environmental)
+  - TETRA Project: Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS). 
 
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS).
+    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. 
 
-  Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. KdG is responsible for the IoT platform (system integration, software and firmware design).
+    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and software design using Python.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
-  - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* 
-
-    Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer. 
+  - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer. 
 
     Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
