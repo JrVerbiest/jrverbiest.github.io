@@ -98,7 +98,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
   Thesis: Exposure of Human Blood to an Electromagnetic field and the numerical model.
 
-  The numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+  In the thesis a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
 
   Extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimization.
 
@@ -278,4 +278,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 2 November 2020*
+*Last update: 4 November 2020*
