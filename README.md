@@ -219,6 +219,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 ## Projects
 
 - [Marvin](https://jrverbiest.github.io/Marvin/)
+- [AIoT](https://jrverbiest.github.io/AIoT/)
 - [STM32]( https://jrverbiest.github.io/STM32/)
 - [Data Science & Machine Learning](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
   <br>
@@ -278,4 +279,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 4 November 2020*
+*Last update: 5 November 2020*
