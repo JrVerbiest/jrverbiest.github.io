@@ -4,7 +4,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 <br>
 
-## PET Project
+## PET Project - Marvin
 
 
 
@@ -16,7 +16,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (until 31 December 2020)
+- **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract
 
   - TETRA Project: Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS). Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. 
 
@@ -279,4 +279,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 5 November 2020*
+*Last update: 8 November 2020*
