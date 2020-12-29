@@ -216,7 +216,7 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 <br>
 
-## Projects
+## PET Projects
 
 - [Marvin](https://jrverbiest.github.io/Marvin/)
 - [AIoT](https://jrverbiest.github.io/AIoT/)
@@ -279,4 +279,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 8 November 2020*
+*Last update: 29 December 2020*
