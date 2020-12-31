@@ -206,6 +206,10 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ## Training
 
+- **Technology Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2020
+
+- **Technology Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020
+
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
 
   Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
@@ -279,4 +283,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 29 December 2020*
+*Last update: 31 December 2020*
