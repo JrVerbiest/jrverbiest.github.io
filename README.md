@@ -4,16 +4,6 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 <br>
 
-## PET Project - Marvin
-
-
-
-<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
-
-Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
-
-<br>
-
 ## Work Experience
 
 - **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract
@@ -222,19 +212,21 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ## PET Projects
 
-- [Marvin](https://jrverbiest.github.io/Marvin/)
+- Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
+<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
+
 - [AIoT](https://jrverbiest.github.io/AIoT/)
 - [STM32]( https://jrverbiest.github.io/STM32/)
 - [Data Science & Machine Learning](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
-  <br>
 
+<br>
 ## Art & Photography
 
 - **Education**
   - Art Academy Temse, division Bornem (2007-2009) 
   - Art academy “De Lei”, Leuven (2005-2006) 
-<br>
 
+<br>
 ## Publications
 
 ### Patent
@@ -283,4 +275,4 @@ Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
 
 ---
 
-*Last update: 31 December 2020*
+*Last update: 15 January 2020*
