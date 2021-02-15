@@ -2,11 +2,15 @@
 
 Engineer with demonstrated history of working in research and industry, from proof of concept to product.
 
+Key-words: Embedded Machine Learning, AIoT and Embedded Sensor Intelligence (ESI). 
+
 <br>
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract
+- **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
+
+  Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
 
   - TETRA Project: Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS). Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. 
 
@@ -220,6 +224,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 - [Data Science & Machine Learning](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
 
 <br>
+
 ## Art & Photography
 
 - **Education**
