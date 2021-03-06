@@ -2,7 +2,7 @@
 
 Engineer with demonstrated history of working in research and industry, from proof of concept to product.
 
-Key-words: Embedded Machine Learning, AIoT and Embedded Sensor Intelligence (ESI). 
+Key-words: Embedded Machine Learning & Embedded Sensor Intelligence. 
 
 <br>
 
@@ -280,4 +280,4 @@ Key-words: Embedded Machine Learning, AIoT and Embedded Sensor Intelligence (ESI
 
 ---
 
-*Last update: 15 January 2020*
+*Last update: 6 March 2021*
