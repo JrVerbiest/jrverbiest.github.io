@@ -10,7 +10,7 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
 
-  Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
+  Line of Research: Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
 
   - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations, 1 January 2020 - 30 November 2021. 
 
@@ -202,13 +202,15 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
 ## Training
 
-- **Technology Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2020
+- **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
 
-- **Technology Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020
+- **Technology Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
+
+- **Technology Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
 
-  Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django)
+  Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django).
 
 - **EMC PCB Design**, One day course, Canrinus Consultancy, Netherlands, 2016.
 
