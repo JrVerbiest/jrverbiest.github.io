@@ -8,7 +8,7 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
 ## Work Experience
 
-- **Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
+- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
 
   Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
 
