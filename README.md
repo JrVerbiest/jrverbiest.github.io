@@ -12,9 +12,11 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
   Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
 
-  - TETRA Project: Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations (ELGAS). Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and VITO. 
+  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations, 1 January 2020 - 30 November 2021. 
 
-    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
+    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
+    
+    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: SBC Raspberry Pi, Teltonika RUT955 router and Python.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -280,4 +282,4 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
 ---
 
-*Last update: 6 March 2021*
+*Last update: 7 March 2021*
