@@ -2,15 +2,13 @@
 
 Engineer with demonstrated history of working in research and industry, from proof of concept to product.
 
-Key-words: Embedded Machine Learning & Embedded Sensor Intelligence. 
-
 <br>
 
 ## Work Experience
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
 
-  Line of Research: Scalable Cloud (SC) & Embedded Sensor Intelligence (ESI)
+  Line of Research: Embedded Sensor Intelligence (ESI)
 
   - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations, 1 January 2020 - 30 November 2021. 
 
@@ -284,4 +282,4 @@ Key-words: Embedded Machine Learning & Embedded Sensor Intelligence.
 
 ---
 
-*Last update: 7 March 2021*
+*Last update: 12 March 2021*
