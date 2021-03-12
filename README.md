@@ -222,8 +222,6 @@ Engineer with demonstrated history of working in research and industry, from pro
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
 - [AIoT](https://jrverbiest.github.io/AIoT/)
-- [STM32]( https://jrverbiest.github.io/STM32/)
-- [Data Science & Machine Learning](https://github.com/JrVerbiest/Data_Science_Machine_Learning_Case_Studies)
 
 <br>
 
