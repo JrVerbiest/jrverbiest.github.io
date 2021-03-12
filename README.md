@@ -218,10 +218,9 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ## PET Projects
 
-- Hello, I'am [Marvin](https://jrverbiest.github.io/Marvin/), an AI R&D Robot.
+- [AIoT](https://jrverbiest.github.io/AIoT/) (Embedded Platform)
+- [Marvin](https://jrverbiest.github.io/Marvin/) (AI R&D Platform).
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
-
-- [AIoT](https://jrverbiest.github.io/AIoT/)
 
 <br>
 
