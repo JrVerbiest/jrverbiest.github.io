@@ -6,16 +6,14 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ## Work Experience
 
-- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract (31 December 2021)
-
-  Line of Research: Embedded Sensor Intelligence (ESI)
+- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract until 31 December 2021
 
   - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations, 1 January 2020 - 30 November 2021. 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
-    
+  
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: SBC Raspberry Pi, Teltonika RUT955 router and Python.
-
+  
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer. 
@@ -279,4 +277,4 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ---
 
-*Last update: 12 March 2021*
+*Last update: 2 April2021*
