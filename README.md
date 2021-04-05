@@ -8,7 +8,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract until 31 December 2021
 
-  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations, 1 January 2020 - 30 November 2021. 
+  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
@@ -277,4 +277,4 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ---
 
-*Last update: 2 April2021*
+*Last update: 5 April2021*
