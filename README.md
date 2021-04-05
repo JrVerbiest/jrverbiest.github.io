@@ -6,7 +6,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ## Work Experience
 
-- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract until 31 December 2021
+- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium
 
   - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
 
