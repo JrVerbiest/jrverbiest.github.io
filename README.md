@@ -214,10 +214,9 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 <br>
 
-## PET Projects
+## PET Project
 
-- [AIoT](https://jrverbiest.github.io/AIoT/) (Embedded Platform)
-- [Marvin](https://jrverbiest.github.io/Marvin/) (AI R&D Platform).
+- [Marvin](https://jrverbiest.github.io/Marvin/) AI R&D Robot Platform.
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
 <br>
@@ -277,4 +276,5 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ---
 
-*Last update: 5 April2021*
+*Last update: 11 April 2021*
+
