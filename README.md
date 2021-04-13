@@ -12,7 +12,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
-    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: SBC Raspberry Pi, Teltonika RUT955 router and Python.
+    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -173,8 +173,10 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 <br>
 
-## Courses
+## Online Courses
 
+- The Complete 2021 Web Development Bootcamp (Udemy)
+- Introduction to Embedded Machine Learning (Coursera)
 - Tiny Machine Learning (TinyML) (fundamentels, applications and deploying) (edX)
 - Microcontroller Embedded C Programming: absolute beginners (Udemy)
 - [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf) (DataCamp)
@@ -223,9 +225,8 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ## Art & Photography
 
-- **Education**
-  - Art Academy Temse, division Bornem (2007-2009) 
-  - Art academy “De Lei”, Leuven (2005-2006) 
+- Art Academy Temse, division Bornem (2007-2009) 
+- Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
 ## Publications
@@ -276,5 +277,5 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ---
 
-*Last update: 11 April 2021*
+*Last update: 13 April 2021*
 
