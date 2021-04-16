@@ -200,6 +200,8 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ## Training
 
+- **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
+
 - **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
 
 - **Technology Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
