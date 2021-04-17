@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-Engineer with demonstrated history of working in research and industry, from proof of concept to product.
+Engineer with a demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -36,23 +36,23 @@ Engineer with demonstrated history of working in research and industry, from pro
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller based design (Atmel) for low level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
+    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
-  Responsible for: technology development of an ex-vivo instrument for quantification of magnetic nanoparticles.
+  Responsible for: technology development of an ex-vivo instrument for the quantification of magnetic nanoparticles.
 
   Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project [*Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
-  Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in framework of European project [*PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
+  Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project [*PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
 
   Used software and measurement tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
-  Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next generation phase reference generator).
+  Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
 
   Software & measurement tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
@@ -64,9 +64,9 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
 
-  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application) .
+  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
-  Research topic: Design of antennas used on the human body. Research that focused on the design of small low cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
+  Research topic: Design of antennas used on the human body. Research that focused on the design of small low-cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
 
   Used design software tools: CST Microwave Office, Matlab and Advanced Design System
 
@@ -96,7 +96,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 - **Industrial Engineer Electricity (MSc, Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Thesis & intership @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
+  Thesis & internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
   Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
   
@@ -137,13 +137,13 @@ Engineer with demonstrated history of working in research and industry, from pro
 
   - Project 1: Supervised Learning. Finding Donors for CharityML
 
-    CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, an algorithm is build that best identifies potential donors. The goal will be to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield.
+    CharityML is a fictitious charity organization that provides financial support for people learning machine learning. To improve donor outreach effectiveness, an algorithm is built that best identifies potential donors. The goal will be to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield.
 
     [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
 
   - Project 2: Deep Learning. Create an Image Classifier
 
-    In this project, an image classification application is implement using a deep learning model on a dataset of images and the trained model is used to classify new images. First, develop code in a Jupyter notebook using PyTorch, second convert it into a python application that you will run from the command line of your system.
+    In this project, an image classification application is implemented using a deep learning model on a dataset of images and the trained model is used to classify new images. First, develop code in a Jupyter notebook using PyTorch, second convert it into a python application that you will run from the command line of your system.
 
     This project is the same as the final AI Programming with Python Nanodegree project.
 
@@ -151,7 +151,7 @@ Engineer with demonstrated history of working in research and industry, from pro
 
   - Project 3: Unsupervised Learning. Creating Customer Segments
 
-    The data and design for this project is provided by Arvato Financial Services. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company.
+    The data and design for this project is provided by Arvato Financial Services. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
     
     [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
 
@@ -204,15 +204,15 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 - **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
 
-- **Technology Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
+- **Technology-Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
 
-- **Technology Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
+- **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
 
-  Course content: Python incl. Object-Oriented programming (OOP) (with a small introduction in database, SQLite and Django).
+  Course content: Python incl. Object-Oriented Programming (OOP) (with a small introduction in databases (SQLite) and Django).
 
-- **EMC PCB Design**, One day course, Canrinus Consultancy, Netherlands, 2016.
+- **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
 
 - **Safety procedures and equipment**, One day training, AR Benelux, 2016.
 
@@ -279,5 +279,5 @@ Engineer with demonstrated history of working in research and industry, from pro
 
 ---
 
-*Last update: 13 April 2021*
+*Last update: 17 April 2021*
 
