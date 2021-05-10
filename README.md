@@ -105,6 +105,8 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ## Udacity Nanodegrees
 
+- Full Stack JavaScript Developer - Ongoing
+  
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
   **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
@@ -279,5 +281,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 17 April 2021*
+*Last update: 10 Mayl 2021*
 
