@@ -176,8 +176,6 @@ Engineer with a demonstrated history of working in research and industry, from p
 ## Online Courses
 
 - TensorFlow Developer Certificate in 2021: Zero to Mastery (ZTM) - Ongoing
-- Complete Node.js Developer in 2021: Zero to Mastery (ZTM) - Ongoing
-
 - Introduction to Embedded Machine Learning (Coursera)
 - Tiny Machine Learning (TinyML) (fundamentels, applications and deploying) (edX)
 - Microcontroller Embedded C Programming: absolute beginners (Udemy)
@@ -281,5 +279,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 18 May 2021*
+*Last update: 21 May 2021*
 
