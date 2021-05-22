@@ -78,6 +78,14 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 <br>
 
+## PET Project
+
+- [Marvin](https://jrverbiest.github.io/Marvin/) AI R&D Platform.
+
+<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
+
+<br>
+
 ## Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -218,13 +226,6 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 <br>
 
-## PET Project
-
-- [Marvin](https://jrverbiest.github.io/Marvin/) AI R&D Robot Platform.
-<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
-
-<br>
-
 ## Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009) 
@@ -279,5 +280,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 21 May 2021*
+*Last update: 22 May 2021*
 
