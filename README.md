@@ -113,6 +113,14 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ## Udacity Nanodegrees
 
+- C++ Nanodegree - Ongoing
+  
+  - C++ Foundations, project: OpenStreetMap Route Planner
+  - Object-Oriented Programming (OOP), project: System Monitor
+  - Memory Management, project: Memory Management Chatbot
+  - Concurrency, project: Concurrent Traffic Simulator
+  - Capstone Project
+  
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
   **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
@@ -183,7 +191,6 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ## Online Courses
 
-- TensorFlow Developer Certificate in 2021: Zero to Mastery (ZTM) - Ongoing
 - Introduction to Embedded Machine Learning (Coursera)
 - Tiny Machine Learning (TinyML) (fundamentels, applications and deploying) (edX)
 - Microcontroller Embedded C Programming: absolute beginners (Udemy)
@@ -280,5 +287,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 22 May 2021*
+*Last update: 27 May 2021*
 
