@@ -8,8 +8,10 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium
 
-  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
+  Machine Learning & Embedded Systems. 
 
+  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
+  
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
