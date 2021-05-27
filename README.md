@@ -114,12 +114,11 @@ Engineer with a demonstrated history of working in research and industry, from p
 ## Udacity Nanodegrees
 
 - C++ Nanodegree - Ongoing
-  
-  - C++ Foundations, project: OpenStreetMap Route Planner
-  - Object-Oriented Programming (OOP), project: System Monitor
-  - Memory Management, project: Memory Management Chatbot
-  - Concurrency, project: Concurrent Traffic Simulator
-  - Capstone Project
+  - C++ Foundations. (Project OpenStreetMap Route Planner)
+  - Object-Oriented Programming (OOP). (Project System Monitor)
+  - Memory Management. (Project Memory Management Chatbot)
+  - Concurrency. (Project Concurrent Traffic Simulator)
+  - Final Capstone (Project TBD)
   
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
