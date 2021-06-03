@@ -104,7 +104,7 @@ Engineer with a demonstrated history of working in research and industry, from p
 
   Extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimization.
 
-- **Industrial Engineer Electricity (MSc, Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Engineering Electricity (M. Eng., Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Thesis & internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
@@ -116,11 +116,11 @@ Engineer with a demonstrated history of working in research and industry, from p
 ## Udacity Nanodegrees
 
 - C++ Nanodegree - Ongoing
-  - C++ Foundations. (Project OpenStreetMap Route Planner)
-  - Object-Oriented Programming (OOP). (Project System Monitor)
-  - Memory Management. (Project Memory Management Chatbot)
-  - Concurrency. (Project Concurrent Traffic Simulator)
-  - Final Capstone (Project TBD)
+  - C++ Foundations. Project: OpenStreetMap Route Planner.
+  - Object-Oriented Programming (OOP). Project: System Monitor.
+  - Memory Management. Project: Memory Management Chatbot.
+  - Concurrency. Project: Concurrent Traffic Simulator.
+  - Final Capstone Project: Embedded Machine learning.
   
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
@@ -288,5 +288,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 27 May 2021*
+*Last update: 3 June 2021*
 
