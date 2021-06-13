@@ -109,19 +109,13 @@ Engineer with a demonstrated history of working in research and industry, from p
   Thesis & internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
   Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
-  
 
 <br>
 
 ## Udacity Nanodegrees
 
-- C++ Nanodegree - Ongoing
-  - C++ Foundations. Project: OpenStreetMap Route Planner.
-  - Object-Oriented Programming (OOP). Project: System Monitor.
-  - Memory Management. Project: Memory Management Chatbot.
-  - Concurrency. Project: Concurrent Traffic Simulator.
-  - Final Capstone Project: Embedded Machine learning.
-  
+- *C++ Nanodegree* - Ongoing
+
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
   **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
@@ -145,7 +139,6 @@ Engineer with a demonstrated history of working in research and industry, from p
     - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
     - [Project proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
     - [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf)
-  
 
 
 - [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
@@ -288,5 +281,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 3 June 2021*
+*Last update: 13 June 2021*
 
