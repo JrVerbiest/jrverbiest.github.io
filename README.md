@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-Engineer with a demonstrated history of working in research and industry, from proof of concept to product.
+**Engineer** with a demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -8,9 +8,11 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium
 
-  Machine Learning & Embedded Systems. 
+  Machine Learning & Embedded Systems. Fixed Term Contract.
 
-  - Elgas (TETRA-Project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
+  - *ML@E2dge.* Machine Learning @ the Extreme Edge. PWO-project.
+  
+  - *Elgas.* Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. 
   
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
@@ -82,7 +84,7 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ## PET Project
 
-- [Marvin](https://jrverbiest.github.io/Marvin/) AI R&D Platform.
+- Marvin an AI R&D Platform.
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
@@ -281,5 +283,5 @@ Engineer with a demonstrated history of working in research and industry, from p
 
 ---
 
-*Last update: 13 June 2021*
+*Last update: 19 June 2021*
 
