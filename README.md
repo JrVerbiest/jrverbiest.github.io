@@ -10,11 +10,11 @@
 
   Machine Learning & Embedded Systems. Fixed Term Contract.
 
-  - *ML@E2dge.* Machine Learning @ the Extreme Edge. PWO-project.
+  - **ML@E2dge.** Machine Learning @ the Extreme Edge. PWO-project. 
   
-  - *Elgas.* Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. 
+    ML@E2dge looks at how tinyML can be applied in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor system. The project shows the possibilities of the tinyML technology in healthcare, more specific in a rehabilitation application. In addition, from the viewpoint of the end-user, the requirements for future end-point sensor devices are determined.
   
-    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
+  - [**Elgas.**](https://www.kdg.be/ELGAS) Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
@@ -115,8 +115,6 @@
 <br>
 
 ## Udacity Nanodegrees
-
-- *C++ Nanodegree* - Ongoing
 
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
   
@@ -283,5 +281,5 @@
 
 ---
 
-*Last update: 19 June 2021*
+*Last update: 26 June 2021*
 
