@@ -12,7 +12,7 @@
 
   - **ML@E2dge.** Machine Learning @ the Extreme Edge. PWO-project. 
   
-    ML@E2dge looks at how we use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project shows the possibilities of the tinyML technology in healthcare, more specific in a rehabilitation science application. In addition, from the end-user viewpoint, the requirements for future end-point sensor devices are determined.
+    ML@E2dge looks at how we use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project shows the possibilities of the tinyML technology in healthcare, more specific an application for rehabilitation science. In addition, from the end-user viewpoint, the requirements for future end-point sensor devices are determined.
   
   - [**Elgas.**](https://www.kdg.be/ELGAS) Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
