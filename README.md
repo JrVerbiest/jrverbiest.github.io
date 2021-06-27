@@ -6,7 +6,7 @@
 
 ## Work Experience
 
-- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed Term Contract.
+- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
 
   Research: Machine Learning & Embedded Sensor Systems. 
 
@@ -281,5 +281,5 @@
 
 ---
 
-*Last update: 26 June 2021*
+*Last update: 27 June 2021*
 
