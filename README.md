@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-**Engineer** with a demonstrated history of working in research and industry, from proof of concept to product.
+**Senior Researcher & Engineer** with a demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -12,9 +12,7 @@
 
   - **ML@E2dge.** Machine Learning @ the Extreme Edge. PWO-project. ML@E2dge looks at how we can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project shows the potential of the tinyML technology in a healthcare application, more specific in an application for rehabilitation science.
   
-  - [**Elgas.**](https://www.kdg.be/ELGAS) Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
-  
-    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
+  - [**Elgas.**](https://www.kdg.be/ELGAS) Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -82,7 +80,7 @@
 
 ## PET Project
 
-- Marvin an AI R&D Platform.
+- **Marvin** an AI R&D Platform.
 
 <p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
 
@@ -115,93 +113,13 @@
 ## Udacity Nanodegrees
 
 - *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-  
-  **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
-  
-  - Project 1: Machine Learning in Production. Deploy a Sentiment Analysis Model.
-  
-    Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
-  
-    - [Link to Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis)
-  
-  - Project 2: Machine Learning Case Studies. Plagiarism Detector.
-  
-    Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
-  
-    - [Link to Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection)
-  
-  - Project 3: Machine Learning Capstone
-  
-    A final project that involves data exploration and machine learning.
-    
-    - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
-    - [Project proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
-    - [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf)
 
 
 - [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
 
-  **Objectives:** learn the skills you need to perform well as a data scientist with a focus on machine learning (supervised, unsupervised and neural networks).
-
-  - Project 1: Supervised Learning. Finding Donors for CharityML
-
-    CharityML is a fictitious charity organization that provides financial support for people learning machine learning. To improve donor outreach effectiveness, an algorithm is built that best identifies potential donors. The goal will be to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield.
-
-    [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
-
-  - Project 2: Deep Learning. Create an Image Classifier
-
-    In this project, an image classification application is implemented using a deep learning model on a dataset of images and the trained model is used to classify new images. First, develop code in a Jupyter notebook using PyTorch, second convert it into a python application that you will run from the command line of your system.
-
-    This project is the same as the final AI Programming with Python Nanodegree project.
-
-    [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
-
-  - Project 3: Unsupervised Learning. Creating Customer Segments
-
-    The data and design for this project is provided by Arvato Financial Services. Apply unsupervised learning techniques on demographic and spending data for a sample of German households. Preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers to optimize customer outreach for a mail-order company.
-    
-    [Link to Project](https://github.com/JrVerbiest/Udacity_Data_Scientist_Nanodegree)
-
 - [*AI Programming with Python, introduction to neural networks*](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
-  Course content and tools: Python, NumPy, Pandas, Seaborn, PyTorch, linear algebra and deep learning.
-
-  - Project: Image Classifier Project using PyTorch
-
-    In this project, an image classification application is implement using a deep learning model on a dataset of images and the trained model is used to classify new images. First, develop code in a Jupyter notebook, second convert it into a python application that you will run from the command line of your system.
-    
-    [Link to Project](https://github.com/JrVerbiest/Udacity_AI_Programming_with_Python_Nanodegree)
-
 - [*Introduction to Programming Nanodegree*](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
-
-  Course content and tools: HTML, CSS, Python incl. Object-Oriented programming and an introduction in data science using Jupyter notebook, NumPy, Pandas, Matplotlib and Seaborn.  
-
-  [Link to Projects](https://github.com/JrVerbiest/Udacity_Intro_to_Programming_Nanodegree)
-
-<br>
-
-## Online Courses
-
-- Introduction to Embedded Machine Learning (Coursera)
-- Tiny Machine Learning (TinyML) (fundamentels, applications and deploying) (edX)
-- Microcontroller Embedded C Programming: absolute beginners (Udemy)
-- [Introduction to R Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Introduction%20to%20R.pdf) (DataCamp)
-- [Intro to Python for Data Science Course](http://www.jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intro%20to%20Python%20Data%20Science%20Course.pdf) (DataCamp)
-- [Intermediate Python for Data Science Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf) (DataCamp)
-- [Python Data Science Toolbox (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Python%20Data%20Science%20Toolbox%20Part1%20Course.pdf) (DataCamp)
-- [Importing Data in Python (Part 1) Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Importing%20Data%20in%20Python%20Part%201.pdf) (DataCamp)
-- [Cleaning Data in Python Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20Cleaning%20Data%20in%20Python.pdf) (DataCamp)
-- [pandas Foundation Course](http://jrverbiest.eu/docs/Statement%20of%20Accomplishment%20pandas%20Foundation%20course.pdf) (DataCamp)
-- [SQL Fundamentals](http://jrverbiest.eu/docs/joeri-verbiest-sql-fundamentals.pdf) (Dataquest)
-- Agile Fundamentals (Pluralsight)
-- Scrum Master Fundamentals - Foundations (Pluralsight)
-- AWS Developer: The Big Picture (Pluralsight)
-- AWS IoT: The Big Pictures (Pluralsight)
-- Docker and Kubernetes: The Big Picture (Pluralsight)
-- Python: The Big Picture (Pluralsight)
-- Build, Train, and Deploy Machine Learning Models with AWS SageMaker (Pluralsight)
-- ...
 
 <br>
 
@@ -279,5 +197,5 @@
 
 ---
 
-*Last update: 1 July 2021*
+*Last update: 4 July 2021*
 
