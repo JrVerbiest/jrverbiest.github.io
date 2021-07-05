@@ -12,7 +12,7 @@
 
   - **ML@E2dge** (PWO-project). 
   
-    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how the developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates whether tinyML technology has the potential for use in rehabilitation science applications. During the project, we will design a workflow and establish a guideline for developers. The project aims to contribute to the improvement and innovation of professional practice.
+    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates the potential of tinyML for rehabilitation science applications, and a guideline for developers is created.
   
   - [**Elgas**](https://www.kdg.be/ELGAS) (TETRA-Project). 
   
