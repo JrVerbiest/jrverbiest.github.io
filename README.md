@@ -10,9 +10,13 @@
 
   Research: Machine Learning & Embedded Sensor Systems. 
 
-  - **ML@E2dge.** Machine Learning @ the Extreme Edge. PWO-project. ML@E2dge looks at how we can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project shows the potential of the tinyML technology in a healthcare application, more specific in an application for rehabilitation science.
+  - **ML@E2dge** (PWO-project). 
   
-  - [**Elgas.**](https://www.kdg.be/ELGAS) Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. TETRA-Project. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
+    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how the developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates whether tinyML technology has the potential for use in rehabilitation science applications. During the project, we will design a workflow and establish a guideline for developers. The project aims to contribute to the improvement and innovation of professional practice.
+  
+  - [**Elgas**](https://www.kdg.be/ELGAS) (TETRA-Project). 
+  
+    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -197,5 +201,5 @@
 
 ---
 
-*Last update: 4 July 2021*
+*Last update: 5 July 2021*
 
