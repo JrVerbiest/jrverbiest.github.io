@@ -82,14 +82,6 @@
 
 <br>
 
-## PET Project
-
-- **Marvin** an AI R&D Platform.
-
-<p align="center">   <img width="240" height="310" src="./img/Marvin.jpg"> </p>
-
-<br>
-
 ## Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -108,7 +100,7 @@
 
 - **Master of Engineering Electricity (M. Eng., Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Thesis & internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
+  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
   Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
 
@@ -201,5 +193,5 @@
 
 ---
 
-*Last update: 8 July 2021*
+*Last update: 13 July 2021*
 
