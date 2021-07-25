@@ -10,13 +10,17 @@
 
   Research: Machine Learning & Embedded Sensor Systems. 
 
-  - **PWO-project - ML@E2dge** 
+  - **PWO-project - ML@E2dge** (1 September 2021 - 31 August 2023) 
   
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates the potential of tinyML for rehabilitation science applications. In addition, a guideline for developers is created.
   
-  - **TETRA-project - [Elgas](https://www.kdg.be/ELGAS)**
+  - **TETRA-project - [Elgas](https://www.kdg.be/ELGAS)** (1 January 2020 - 30 November 2022)
   
-    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 1 January 2020 - 30 November 2021. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
+    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
+    
+    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
+    
+    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -193,5 +197,5 @@
 
 ---
 
-*Last update: 13 July 2021*
+*Last update: 25 July 2021*
 
