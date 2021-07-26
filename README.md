@@ -20,7 +20,7 @@
   
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates the potential of tinyML for rehabilitation science applications. In addition, a guideline for developers is created.
   
-  - **TETRA-project - [Elgas](https://www.kdg.be/ELGAS)** (1 January 2020 - 30 November 2022)
+  - **TETRA-project - [Elgas](https://www.kdg.be/ELGAS)** (1 January 2020 - 30 November 2021)
   
     Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
     
@@ -108,7 +108,7 @@
 
   Extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimization.
 
-- **Master of Engineering Electricity (M. Eng., Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Engineering Electricity (MEng., Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
