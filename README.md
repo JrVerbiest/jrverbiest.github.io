@@ -4,9 +4,9 @@
 
 <br>
 
-## Projects
+## Project
 
-- [Marvin](https://jrverbiest.github.io/Marvin/)  AI R&D Platform
+- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Platform
 
 <br>
 
@@ -203,5 +203,5 @@
 
 ---
 
-*Last update: 25 July 2021*
+*Last update: 26 July 2021*
 
