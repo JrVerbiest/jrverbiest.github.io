@@ -1,6 +1,6 @@
 # Joeri Verbiest - PhD MSc
 
-**Senior Researcher & Engineer** with a demonstrated history of working in research and industry, from proof of concept to product.
+**Engineer & Researcher** with a demonstrated history of working in research and industry, from proof of concept to product.
 
 <br>
 
@@ -16,7 +16,7 @@
 
   Research: Machine Learning & Embedded Sensor Systems. 
 
-  - **PWO-project - ML@E2dge** (1 September 2021 - 31 July 2023) 
+  - **PWO-project - ML@E2dge** (1 September 2021 - 30 June 2023) 
   
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates the potential of tinyML for rehabilitation science applications. In addition, a guideline for developers is created.
   
@@ -203,5 +203,5 @@
 
 ---
 
-*Last update: 31 July 2021*
+*Last update: 8 August 2021*
 
