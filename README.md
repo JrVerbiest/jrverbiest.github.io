@@ -4,12 +4,6 @@
 
 <br>
 
-## Project
-
-- [Marvin](https://jrverbiest.github.io/Marvin/) - AI R&D Platform
-
-<br>
-
 ## Work Experience
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
@@ -203,5 +197,5 @@
 
 ---
 
-*Last update: 9 August 2021*
+*Last update: 10 August 2021*
 
