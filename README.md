@@ -8,13 +8,11 @@
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
 
-  Research: Machine Learning & Embedded Sensor Systems. 
+  - **PWO-project ML@E2dge**
 
-  - **PWO-project - ML@E2dge**
-  
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems. The project investigates the potential of tinyML for rehabilitation science applications. In addition, a guideline for developers is created.
   
-  - **TETRA-project - [Elgas](https://www.kdg.be/ELGAS)** (1 January 2020 - 30 November 2021)
+  - **TETRA-project [Elgas](https://www.kdg.be/ELGAS)** ° 1 January 2020 - 30 November 2021
   
     Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. 
     
@@ -197,5 +195,5 @@
 
 ---
 
-*Last update: 10 August 2021*
+*Last update: 15 August 2021*
 
