@@ -8,7 +8,7 @@
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
 
-  - [**ML@E2dge**](https://mlate2dge.github.io) - PWO-project, 1 October 2021 - ongoing. Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+  - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 October 2021 - ongoing. Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
   - **[Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021. Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
@@ -80,17 +80,17 @@
 
 # Projects
 
-- **ML@E2dge** (PWO-project). Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+- **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project. Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-- [**Elgas**](https://www.kdg.be/ELGAS) (Tetra project), Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
+- **[Elgas](https://www.kdg.be/ELGAS)** - Tetra project, Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
 
-- [**MULTIFUN**](https://cordis.europa.eu/project/id/262943) (European Project, FP7), Multifunctional Nanotechnology for selective detection and Treatment of cancer.
+- **[MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project, FP7. Multifunctional Nanotechnology for selective detection and Treatment of cancer.
 
-- [**PANAMA**](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) (European Project), Power Amplifier aNd Antennas for mobile Applications.
+- **[PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for mobile Applications.
 
 - **Project Antenna design for medical implant**, project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
-- [**Marvin**](https://jrverbiest.github.io/Marvin/) - R&D AI-platform, realized by personal funding. 
+- **[Marvin](https://jrverbiest.github.io/Marvin/)** - R&D AI-platform, realized by personal funding. 
 
   
 
