@@ -8,9 +8,9 @@
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
 
-  - **ML@E2dge** (PWO-project). Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+  - [**ML@E2dge**](https://mlate2dge.github.io) - PWO-project, 1 October 2021 - ongoing. Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-  - **[Elgas](https://www.kdg.be/ELGAS)** (TETRA-project). Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
+  - **[Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021. Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
   
@@ -205,5 +205,5 @@
 
 ---
 
-*Last update: 19 September 2021*
+*Last update: 2 October 2021*
 
