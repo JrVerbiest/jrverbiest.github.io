@@ -11,13 +11,15 @@
   - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 October 2021 - ongoing. 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
-  
+
   - **[Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021.
-  
+
     Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
-    
+
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
-  
+
+    [Cloud-Based Data Logger Tutorial](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
@@ -217,5 +219,5 @@
 
 ---
 
-*Last update: 2 October 2021*
+*Last update: 16 October 2021*
 
