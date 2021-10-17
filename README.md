@@ -18,7 +18,7 @@
 
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
 
-    [Cloud-Based Data Logger Tutorial](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+    [Tuorial: Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -219,5 +219,5 @@
 
 ---
 
-*Last update: 16 October 2021*
+*Last update: 17 October 2021*
 
