@@ -104,7 +104,7 @@
 
 - **Project Antenna design for medical implant**, project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
-- **[Marvin](https://jrverbiest.github.io/Marvin/)** - R&D AI-platform, realized by personal funding. 
+- **Marvin** - R&D AI-platform, realized by personal funding. 
 
   
 
@@ -219,5 +219,5 @@
 
 ---
 
-*Last update: 17 October 2021*
+*Last update: 3 November 2021*
 
