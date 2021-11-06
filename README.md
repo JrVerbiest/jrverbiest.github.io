@@ -1,6 +1,8 @@
 # Joeri Verbiest - PhD MSc
 
-**Engineer & Researcher** with a demonstrated history of working in research and industry, from proof of concept to product.
+**Electronics Engineer - Researcher Embedded Machine learning** 
+
+Engineer with +19y experience and a demonstrated history of working in research and industry: telecommunication, RF, preclinical imaging and medical.
 
 <br>
 
@@ -18,7 +20,7 @@
 
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
 
-    [Tuorial: Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+    [Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -86,7 +88,7 @@
 
 # Projects
 
-- **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project. 
+- **[ML@E2dge](https://mlate2dge.github.io)** - PWO project. 
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
@@ -217,7 +219,9 @@
 
 <br>
 
+[LinkedIn](https://www.linkedin.com/in/joeriverbiest/)
+
 ---
 
-*Last update: 3 November 2021*
+*Last update: 6 November 2021*
 
