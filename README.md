@@ -169,7 +169,8 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Art & Photography
 
-- Art Academy Temse, division Bornem (2007-2009) 
+- Art Academy Temse, division Bornem (2007-2009)
+
 - Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
