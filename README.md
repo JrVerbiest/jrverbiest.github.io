@@ -141,6 +141,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 - [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
 - [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 - [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
+
 <br>
 
 ## Training
@@ -153,6 +154,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
   Course content: Python incl. Object-Oriented Programming (OOP) (with a small introduction in databases (SQLite) and Django).
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
 - **Safety procedures and equipment**, One day training, AR Benelux, 2016.
+
 <br>
 
 ## Art & Photography
