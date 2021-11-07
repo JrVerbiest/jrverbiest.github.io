@@ -146,21 +146,13 @@ Engineer with +19y experience and a demonstrated history of working in research 
 ## Training
 
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
-
 - **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
-
 - **Technology-Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
-
 - **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
-
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
-
   Course content: Python incl. Object-Oriented Programming (OOP) (with a small introduction in databases (SQLite) and Django).
-
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
-
 - **Safety procedures and equipment**, One day training, AR Benelux, 2016.
-
 <br>
 
 ## Art & Photography
