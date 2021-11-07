@@ -136,14 +136,15 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Udacity Nanodegrees
 
-- *[Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/)* - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- Machine Learning DevOps Engineer - Ongoing
+- [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 
 
-- [*Data Scientist Nanodegree: Machine Learning for Data Scientists*](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
+- [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
 
-- [*AI Programming with Python, introduction to neural networks*](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
-- [*Introduction to Programming Nanodegree*](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
+- [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) - [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
 
 <br>
 
@@ -223,5 +224,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 6 November 2021*
+*Last update: 7 November 2021*
 
