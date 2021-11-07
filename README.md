@@ -108,7 +108,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Marvin** - R&D AI-platform, realized by personal funding. 
 
-  
+<br>
 
 ## Education
 
