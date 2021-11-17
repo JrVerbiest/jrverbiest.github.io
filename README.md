@@ -1,8 +1,8 @@
 # Joeri Verbiest - PhD MSc
 
-**Electronics Engineer - Researcher Embedded Machine learning** 
+**Electronics Engineer - Researcher (Embedded Machine learning)** 
 
-Engineer with +20y experience and a demonstrated history of working in research and industry: telecommunication, RF, preclinical imaging and medical.
+Engineer with +19y experience and a demonstrated history of working in research and industry: telecommunication, RF, preclinical imaging and medical.
 
 <br>
 
@@ -10,7 +10,7 @@ Engineer with +20y experience and a demonstrated history of working in research 
 
 - **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
 
-  - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 October 2021 - 31 December 2022 (ongoing). 
+  - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 September 2021 - ongoing. 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
@@ -224,5 +224,5 @@ Engineer with +20y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 11 November 2021*
+*Last update: 17 November 2021*
 
