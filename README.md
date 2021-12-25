@@ -91,7 +91,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 - **[ML@E2dge](https://mlate2dge.github.io)** - PWO project. 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-- [**Marvin**](http://jrverbiest.github.io/Marvin/) - R&D AI-platform, realized by personal funding. 
+- **[Marvin](http://jrverbiest.github.io/Marvin/)** - R&D AI-platform, realized by personal funding. 
 
 - **[Elgas](https://www.kdg.be/ELGAS)** - Tetra project.
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
