@@ -89,24 +89,20 @@ Engineer with +19y experience and a demonstrated history of working in research 
 # Projects
 
 - **[ML@E2dge](https://mlate2dge.github.io)** - PWO project. 
-
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-- **[Elgas](https://www.kdg.be/ELGAS)** - Tetra project.
+- [**Marvin**](http://jrverbiest.github.io/Marvin/) - R&D AI-platform, realized by personal funding. 
 
+- **[Elgas](https://www.kdg.be/ELGAS)** - Tetra project.
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
 
 - **[MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project, FP7. 
-
   Multifunctional Nanotechnology for selective detection and Treatment of cancer.
 
 - **[PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. 
-
   Power Amplifier aNd Antennas for mobile Applications.
 
 - **Project Antenna design for medical implant**, project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
-
-- **Marvin** - R&D AI-platform, realized by personal funding. 
 
 <br>
 
@@ -224,5 +220,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 17 November 2021*
+*Last update: 25 December 2021*
 
