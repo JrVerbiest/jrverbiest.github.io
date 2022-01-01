@@ -1,4 +1,4 @@
-# dr. ir. Ing. Joeri R. Verbiest - PhD MSc MEng
+# Joeri R. Verbiest
 
 **Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University** 
 
