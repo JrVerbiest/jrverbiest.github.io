@@ -1,18 +1,26 @@
-# Joeri Verbiest - PhD MSc
+# dr. ir. Ing. Joeri R. Verbiest - PhD MSc MEng
 
-**Electronics Engineer - Researcher (Embedded Machine learning)** 
+**Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University** 
 
-Engineer with +19y experience and a demonstrated history of working in research and industry: telecommunication, RF, preclinical imaging and medical.
+Engineer with +19y experience and a demonstrated history of working in research and industry, and currently working as Senior Researcher (embedded machine learning) at Karel de Grote-Hogeschool and as Technical Developer at Hasselt University.
+
+[My LinkedIn](https://www.linkedin.com/in/joeriverbiest/)
 
 <br>
 
 ## Work Experience
 
-- **Senior Researcher** @ KdG University of Applied Science and Arts, Campus Hoboken, Antwerp, Belgium - Fixed-term contract.
+- **Technical Developer** @ Hasselt University, Hasselt, Belgium - Replacement contract (vervangingsovereenkomst), 20% FTE (until 31 December 2022).
+
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract, 80% FTE (until 31 December 2022).
+
+  Research projects:
 
   - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 September 2021 - ongoing. 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+
+    Keywords: machine learning, embedded sensor systems and tinyML
 
   - **[Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021.
 
@@ -20,6 +28,8 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
 
+    Keyword: IoT
+    
     [Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
@@ -132,7 +142,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Udacity Nanodegrees
 
-- Machine Learning DevOps Engineer - Ongoing
+- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) - Ongoing
 
 - [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) - [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 
@@ -216,9 +226,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/joeriverbiest/)
-
 ---
 
-*Last update: 25 December 2021*
+*Last update: 1 January 2022*
 
