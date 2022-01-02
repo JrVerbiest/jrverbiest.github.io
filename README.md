@@ -1,8 +1,6 @@
 # Joeri R. Verbiest
 
-**Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University** 
-
-Engineer with +19y experience and a demonstrated history of working in research and industry, and currently working as Senior Researcher (embedded machine learning) at Karel de Grote-Hogeschool and as Technical Developer at Hasselt University.
+Engineer with +19y experience and a demonstrated history of working in research and industry, and currently working as researcher (embedded machine learning) at Karel de Grote-Hogeschool and as technical developer at Hasselt University.
 
 [My LinkedIn](https://www.linkedin.com/in/joeriverbiest/)
 
@@ -184,7 +182,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ### Patent
 
-- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: WO/2016/128353, Pub. Date: 18 August 2016. 
+- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0), Pub. Date: 18 August 2016. 
 
 <br>
 
@@ -228,5 +226,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 1 January 2022*
+*Last update: 2 January 2022*
 
