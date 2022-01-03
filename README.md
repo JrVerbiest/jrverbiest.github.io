@@ -8,7 +8,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Work Experience
 
-- **Technical Developer** @ Hasselt University, Hasselt, Belgium - Replacement contract (vervangingsovereenkomst), 20% FTE (until 31 December 2022).
+- **Technical Developer** @ Hasselt University, Faculty Rehabilitation Science, Hasselt, Belgium - Replacement contract (vervangingsovereenkomst), 20% FTE (until 31 December 2022).
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract, 80% FTE (until 31 December 2022).
 
@@ -226,5 +226,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 2 January 2022*
+*Last update: 3 January 2022*
 
