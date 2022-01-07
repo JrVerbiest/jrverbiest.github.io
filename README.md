@@ -8,7 +8,9 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Work Experience
 
-- **Technical Developer** @ Hasselt University, Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract, 20% FTE.
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract, 20% FTE.
+
+  ° Development support.
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract, 80% FTE.
 
@@ -226,5 +228,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 4 January 2022*
+*Last update: 7 January 2022*
 
