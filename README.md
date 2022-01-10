@@ -1,6 +1,6 @@
 # Joeri R. Verbiest
 
-Engineer with +19y experience and a demonstrated history of working in research and industry, and currently working as researcher (embedded machine learning) at Karel de Grote-Hogeschool and as technical developer at Hasselt University.
+Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences.
 
 [My LinkedIn](https://www.linkedin.com/in/joeriverbiest/)
 
@@ -228,5 +228,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 7 January 2022*
+*Last update: 9 January 2022*
 
