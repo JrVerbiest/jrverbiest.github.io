@@ -8,19 +8,13 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract, 20% FTE.
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract (20% FTE).
 
-  ° Development support.
-
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract, 80% FTE.
-
-  Research projects:
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
   - **[ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 September 2021 - ongoing. 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
-
-    Keywords: machine learning, embedded sensor systems and tinyML
 
   - **[Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021.
 
@@ -28,8 +22,6 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
 
-    Keyword: IoT
-    
     [Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
@@ -228,5 +220,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 9 January 2022*
+*Last update: 29 January 2022*
 
