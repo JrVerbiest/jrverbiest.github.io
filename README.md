@@ -10,7 +10,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO-project, 1 September 2021 - ongoing. 
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - ongoing. 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
@@ -18,7 +18,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
     Hardware tools: IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), SBC (Nvidia Jetson) and MCU (nrf 52840)
     Keywords: (tiny) machine learning, machine learning operations (MLOps), embedded sensor systems and wearables.
 
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - TETRA-project, 1 January 2020 - 30 November 2021.
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
 
     Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
 
@@ -90,7 +90,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-# Projects
+## 🔬Projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO project. 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
@@ -110,7 +110,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-## Education
+## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
 
@@ -134,7 +134,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-## Udacity Nanodegrees
+## 🎓 Udacity Nanodegrees
 
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) - [Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 
@@ -148,7 +148,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-## Training
+## 📚 Training
 
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
 
@@ -174,7 +174,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 - Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
-## Publications
+## ✎ Publications
 
 ### Patent
 
