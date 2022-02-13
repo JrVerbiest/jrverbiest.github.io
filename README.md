@@ -14,7 +14,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-    Software tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, Edge Impulse Development Studio and C++.
+    Software tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, [Edge Impulse Development Studio](https://www.edgeimpulse.com) and C++.
     Hardware tools: IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), SBC (Nvidia Jetson) and MCU (nrf 52840)
     Keywords: (tiny) machine learning, machine learning operations (MLOps), embedded sensor systems and wearables.
 
@@ -22,9 +22,13 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
 
-    KdG is responsible for the (IoT) platform (system integration, software and firmware design). Used hardware & software: Raspberry Pi, Teltonika RUT955 router and Python.
+    KdG is responsible for the (IoT) platform (system integration, software and firmware design). 
 
     [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+    
+    Software tools: Python
+    
+    Hardware tools: Raspberry Pi and Teltonika RUT955 router.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
