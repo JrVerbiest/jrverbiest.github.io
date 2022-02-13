@@ -4,7 +4,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-## Work Experience
+## 🛠️ Work Experience
 
 - **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract (20% FTE).
 
@@ -167,7 +167,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 <br>
 
-## Art & Photography
+## 📷 Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
 
