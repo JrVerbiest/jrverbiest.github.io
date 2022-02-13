@@ -15,7 +15,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
     Software tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, [Edge Impulse Development Studio](https://www.edgeimpulse.com) and C++.
-    Hardware tools: IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), SBC (Nvidia Jetson) and MCU (nrf 52840)
+    Hardware tools: IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080, SBC (Nvidia Jetson) and MCU (nrf 52840)
     Keywords: (tiny) machine learning, machine learning operations (MLOps), embedded sensor systems and wearables.
 
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
