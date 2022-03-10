@@ -1,12 +1,18 @@
 # Joeri R. Verbiest
 
-Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences. [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
+Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences. 
+
+[🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
 <br>
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium - , Fixed-term contract (20% FTE).
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, Fixed-term contract (20% FTE).
+
+  Task: support in research activities (data processing, ...)
+
+  🔨 Tools: Python
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
@@ -14,29 +20,20 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-    Use case: cyclic/periodic motion (ex. gait).
-
-    Software tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, [Edge Impulse Development Studio](https://www.edgeimpulse.com) and C++.
-    Hardware tools: IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080, SBC (Nvidia Jetson) and MCU (nrf 52840)
-    Keywords: (tiny) machine learning, machine learning operations (MLOps), embedded sensor systems and wearables.
-
+    🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080, SBC (Nvidia Jetson) and MCU (nrf 52840)
+    Keywords: (tiny) machine learning, embedded sensor systems and wearables.
+    
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
-
-    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
-
-    KdG is responsible for the (IoT) platform (system integration, software and firmware design). 
-
-    [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
-    
-    Software tools: Python
-    
-    Hardware tools: Raspberry Pi and Teltonika RUT955 router.
-
+  
+    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  
+    🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
+  
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
 
-    Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
+    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
@@ -60,25 +57,25 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
   Responsible for: technology development of an ex-vivo instrument for the quantification of magnetic nanoparticles.
 
-  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
-  Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
+  Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
 
-  Used software and measurement tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
+  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
   Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
 
-  Software & measurement tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
+  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium 
 
   Achievements: proof of concept and a prototype design.
 
-  Used design software tools: CST Microwave Office, Matlab and Advanced Design System
+  🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
 
@@ -86,7 +83,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
   Research topic: Design of antennas used on the human body. Research that focused on the design of small low-cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
 
-  Used design software tools: CST Microwave Office, Matlab and Advanced Design System
+  🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
   Other activities: a. treasurer IEEE Student Branch Leuven (2003-2005), b. supervision study projects in the course Wireless and Mobile Communications, c. supervision of different (Master) thesis. d. author of several scientific publications (see publication list).
 
@@ -228,5 +225,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 13 February 2022*
+*Last update: 6 March 2022*
 
