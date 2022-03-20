@@ -10,9 +10,9 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, Fixed-term contract (20% FTE).
 
-  Task: support in research activities. Ex. data cleaning, data processing, signal processing, .....
+  Task: support in research activities (data cleaning, data processing, signal processing, ....)
 
-  🛠️ Software tools: Python (pandas, ...), MATLAB (Statistics and Machine Learning Toolbox & Signal Processing Toolbox), ...
+  🔨 Tools: Python (pandas, ...), MATLAB (Statistics and Machine Learning Toolbox & Signal Processing Toolbox), ...
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
@@ -20,7 +20,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-    🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, Weight and Biases, Hydra, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080, SBC (Nvidia Jetson) and MCU (nrf 52840)
+    🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080 and MCU (nrf 52840)
     Keywords: (tiny) machine learning, embedded sensor systems and wearables.
     
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
@@ -225,5 +225,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 12 March 2022*
+*Last update: 20 March 2022*
 
