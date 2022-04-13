@@ -16,24 +16,24 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - ongoing. 
+  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - ongoing. 
 
-    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-    🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080 and MCU (nrf 52840)
-    Keywords: (tiny) machine learning, embedded sensor systems and wearables.
-    
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
+  🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080 and MCU (nrf 52840)
+  Keywords: (tiny) machine learning, embedded sensor systems and wearables.
   
-    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-    🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  
+  🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
-  - *@ Cochlear Technology Centre (CTC), Mechelen, Belgium.* Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
+  ***@ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
 
-    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
+  🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
@@ -41,17 +41,17 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
-  - *@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
+  ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
 
-    Project: an application in the area Electron Paramagnetic Resonance (EPR).
+  Project: an application in the area Electron Paramagnetic Resonance (EPR).
 
-    Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
+  Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
 
-  - *@ Bruker micro-CT, Kontich, Belgium.* 
+  ***@ Bruker micro-CT, Kontich, Belgium.*** 
 
-    Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
+  Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
+  Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -95,11 +95,11 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## 🔬Projects
 
-- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO project. 
+- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
-- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra project.
+- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project.
   Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
-- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project, FP7. 
+- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). 
   Multifunctional Nanotechnology for selective detection and Treatment of cancer.
 - **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. 
   Power Amplifier aNd Antennas for mobile Applications.
@@ -219,5 +219,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 27 March 2022*
+*Last update: 12 April2022*
 
