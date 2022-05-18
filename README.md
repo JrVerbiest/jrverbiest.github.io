@@ -1,5 +1,9 @@
 # Joeri R. Verbiest
 
+## Engineer, Researcher & Developer
+
+#### Senior Researcher @ Karel de Grote-Hogeschool ▪️ Technical Developer @ Hasselt University
+
 Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences. 
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
@@ -12,7 +16,7 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
   Task: support in research activities (data cleaning, data processing, signal processing, ....)
 
-  🔨 Tools: Python (pandas, ...), MATLAB (Statistics and Machine Learning Toolbox & Signal Processing Toolbox), ...
+  🔨 Tools: Python (pandas, ...)
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
@@ -219,5 +223,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 12 April2022*
+*Last update: 18 May 2022*
 
