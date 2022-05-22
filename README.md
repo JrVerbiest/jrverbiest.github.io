@@ -20,11 +20,11 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
 
-  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - ongoing. 
+  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - 31 July 2023 (ongoing). 
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-  🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, MLflow, [Edge Impulse Development Studio](https://www.edgeimpulse.com), C++, IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), GPU (NVIDIA® Geforce RTX 3080 and MCU (nrf 52840)
+  🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), [Edge Impulse Development Studio](https://www.edgeimpulse.com), IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda) and Single Board Computer and MCU.
   Keywords: (tiny) machine learning, embedded sensor systems and wearables.
   
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
@@ -223,5 +223,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 18 May 2022*
+*Last update: 22 May 2022*
 
