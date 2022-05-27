@@ -2,9 +2,13 @@
 
 ## Engineer, Researcher & Developer
 
-#### Senior Researcher @ Karel de Grote-Hogeschool ▪️ Technical Developer @ Hasselt University
+#### Senior Researcher @ Karel de Grote-Hogeschool 
+
+#### Technical Developer @ Hasselt University
 
 Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences. 
+
+Experience in electronic engineering, data science and machine learning.
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
@@ -12,20 +16,19 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, Fixed-term contract (20% FTE).
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term contract (20% FTE) - (vervangingscontract / replacement contract), until 31 December 2022.
 
-  Task: support in research activities (data cleaning, data processing, signal processing, ....)
+  Task: technical/engineering support for the research activities: data pre-processing, signal processing, ...
 
   🔨 Tools: Python (pandas, ...)
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE).
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE), until 31 July 2023.
 
   **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - 31 July 2023 (ongoing). 
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-  🔨 Tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), [Edge Impulse Development Studio](https://www.edgeimpulse.com), IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda), IMU sensors (Xsens MTi-3, Xsens DOT and MTw Awinda) and Single Board Computer and MCU.
-  Keywords: (tiny) machine learning, embedded sensor systems and wearables.
+  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda) and Single Board Computer (Nvidia Jetson Nano) and MCU (Nordic nrf52840).
   
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
@@ -223,5 +226,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 22 May 2022*
+*Last update: 27 May 2022*
 
