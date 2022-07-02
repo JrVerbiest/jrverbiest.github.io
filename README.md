@@ -1,14 +1,10 @@
 # Joeri R. Verbiest
 
-## Engineer, Researcher & Developer
+#### PhD, MSc▪️Engineer, Researcher & Developer ▪️Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University
 
-#### Senior Researcher @ Karel de Grote-Hogeschool 
+I am an (electronic) engineer with +19y experience and a demonstrated history of working in research and industry. In recent years shift my focus more on data science and machine learning, with a special interest for use in healthcare applications.
 
-#### Technical Developer @ Hasselt University
-
-Engineer with +19y experience and a demonstrated history of working in research and industry. Currently working as a Researcher at Karel de Grote-Hogeschool Campus Hoboken and as Technical Developer at Hasselt University, research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences. 
-
-Experience in electronic engineering, data science and machine learning.
+Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (part-time, 80%) and as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences (part-time, 20%).
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
@@ -28,11 +24,11 @@ Experience in electronic engineering, data science and machine learning.
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda) and Single Board Computer (Nvidia Jetson Nano) and MCU (Nordic nrf52840).
+  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda) and Single Board Computer (Nvidia Jetson Nano).
   
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). [🌐 Cloud-Based Data Logger (tutorial)](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design).Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
   
   🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
   
@@ -226,5 +222,5 @@ Experience in electronic engineering, data science and machine learning.
 
 ---
 
-*Last update: 27 May 2022*
+*Last update: 2 July 2022*
 
