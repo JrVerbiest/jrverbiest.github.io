@@ -136,15 +136,17 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ## 🎓 Udacity Nanodegrees
 
-- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf))
+- AI for Healthcare (ongoing)
 
-- [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf))
+- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)), 2022
 
-- [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
+- [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)), 2019
 
-- [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf))
+- [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/), 2019
 
-- [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf))
+- [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)), 2018
+
+- [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)), 2018
 
 <br>
 
@@ -222,5 +224,5 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ---
 
-*Last update: 2 July 2022*
+*Last update: 6 July 2022*
 
