@@ -1,8 +1,10 @@
-# Joeri R. Verbiest
+# Joeri R. Verbiest, PhD MSc
 
-#### PhD, MSc▪️Engineer, Researcher & Developer ▪️Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University
+#### Engineer, Researcher & Developer
 
-I am an (electronic) engineer with +19y experience and a demonstrated history of working in research and industry. In recent years shift my focus more on data science and machine learning, with a special interest for use in healthcare applications.
+#### Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University
+
+I am an (electronic) engineer (ir. & Ing.)  with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning, with interest in the use of AI (Artificial Intelligence) in healthcare applications.
 
 Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (part-time, 80%) and as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences (part-time, 20%).
 
@@ -12,23 +14,25 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term contract (20% FTE) - (vervangingscontract / replacement contract), until 31 December 2022.
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term contract (20% FTE) - (vervangingscontract / replacement contract), contract end: 31 December 2022.
 
   Task: technical/engineering support for the research activities: data pre-processing, signal processing, ...
 
   🔨 Tools: Python (pandas, ...)
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - Fixed-term contract (80% FTE), until 31 July 2023.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (80% FTE), contract end: 31 July 2023.
 
   **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - 31 July 2023 (ongoing). 
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
 
-  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda) and Single Board Computer (Nvidia Jetson Nano).
+  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
   
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design).Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design).
+  
+  Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
   
   🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
   
@@ -136,7 +140,7 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ## 🎓 Udacity Nanodegrees
 
-- AI for Healthcare (ongoing)
+- AI for Healthcare (ongoing), 2022
 
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)), 2022
 
@@ -224,5 +228,5 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ---
 
-*Last update: 6 July 2022*
+*Last update: 9 July 2022*
 
