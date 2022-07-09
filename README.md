@@ -122,7 +122,7 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
   Thesis: Design of Antennas used on the Human Body.
 
-- **Master of Science in Electrical Engineering (MSc, ir.)**, Cum Laude, option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
+- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
 
   Thesis: Exposure of Human Blood to an Electromagnetic field and the numerical model.
 
@@ -130,7 +130,7 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
   Extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimization.
 
-- **Master of Engineering Electricity (MEng, Ing.)**, Cum Laude, option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
 
