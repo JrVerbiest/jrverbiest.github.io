@@ -4,9 +4,9 @@
 
 #### Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University
 
-I am an (electronic) engineer (ir. & Ing.)  with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning, with interest in the use of AI (Artificial Intelligence) in healthcare applications.
+Engineer (ir. & Ing.) with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning, with interest in the use of AI (Artificial Intelligence) in healthcare applications. 
 
-Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (part-time, 80%) and as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences (part-time, 20%).
+I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool and part-time as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences.
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
@@ -16,25 +16,25 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 - **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term contract (20% FTE) - (vervangingscontract / replacement contract), contract end: 31 December 2022.
 
-  Task: technical/engineering support for the research activities: data pre-processing, signal processing, ...
+  Task: technical/engineering support for the research activities: data pre-processing, signal processing.
 
-  🔨 Tools: Python (pandas, ...)
+  🔨 Tools: Python (pandas) 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (80% FTE), contract end: 31 July 2023.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (80% FTE), contract end: 31 December 2022.
 
-  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, 1 September 2021 - 31 July 2023 (ongoing). 
+  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, ongoing. 
 
-  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
+  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient, and intelligent (wireless) embedded sensor systems.
 
-  🔨 Software & hardware tools: Python (pandas, SciPy, ...), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
+  🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
   
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design).
+  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design).
   
   Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
   
-  🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
+  🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -58,13 +58,13 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
   Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-  Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (software tool: Altium Designer).
+  Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
-  Responsible for: technology development of an ex-vivo instrument for the quantification of magnetic nanoparticles.
+  Responsible for: the technology development of an ex-vivo instrument for quantifying magnetic nanoparticles.
 
-  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide input (technology, R&D, budget, roadmap, planning) for projects (IWT) and business plan (venture capital); i. member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide technology, R&D, budget, roadmap, and planning input  for projects (IWT) and business plan (venture capital); i. member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
@@ -88,7 +88,7 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
-  Research topic: Design of antennas used on the human body. Research that focused on the design of small low-cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
+  Research topic: Design of antennas used on the human body. Research focused on the design of small low-cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
 
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
@@ -228,5 +228,5 @@ Currently, I am working as a Senior Researcher at Karel de Grote-Hogeschool (par
 
 ---
 
-*Last update: 9 July 2022*
+*Last update: 5 August 2022*
 
