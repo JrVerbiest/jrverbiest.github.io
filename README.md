@@ -2,11 +2,7 @@
 
 #### Engineer, Researcher & Developer
 
-#### Senior Researcher @ Karel de Grote-Hogeschool & Technical Developer @ Hasselt University
-
-Engineer (ir. & Ing.) with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning, with interest in the use of AI (Artificial Intelligence) in healthcare applications. 
-
-I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool and part-time as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences.
+Engineer with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning. Currently working, both part-time, as a Senior Researcher at Karel de Grote-Hogeschool and as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences.
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
@@ -228,5 +224,5 @@ I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool and p
 
 ---
 
-*Last update: 5 August 2022*
+*Last update: 7 August 2022*
 
