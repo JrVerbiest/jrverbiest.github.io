@@ -53,8 +53,10 @@ Engineer with +19y experience and a demonstrated history of working in research 
     Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
 
   - ***@ Bruker micro-CT, Kontich, Belgium.*** 
-- Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
-  - Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
+
+    Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
+
+    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
