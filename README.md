@@ -34,9 +34,11 @@ Engineer with +19y experience and a demonstrated history of working in research 
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
-  ***@ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
+  - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
-  🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
+    Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
+
+    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
@@ -44,17 +46,15 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
-  ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
+  - ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
 
-  Project: an application in the area Electron Paramagnetic Resonance (EPR).
+    Project: an application in the area Electron Paramagnetic Resonance (EPR).
 
-  Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
+    Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
 
-  ***@ Bruker micro-CT, Kontich, Belgium.*** 
-
-  Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
-
-  Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
+  - ***@ Bruker micro-CT, Kontich, Belgium.*** 
+- Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
+  - Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -135,8 +135,6 @@ Engineer with +19y experience and a demonstrated history of working in research 
 <br>
 
 ## 🎓 Udacity Nanodegrees
-
-- AI for Healthcare (ongoing), 2022
 
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)), 2022
 
@@ -224,5 +222,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 7 August 2022*
+*Last update: 12 August 2022*
 
