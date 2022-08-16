@@ -10,7 +10,8 @@ My current research focuses on machine learning at the Edge, with special intere
 
 Skills:  Data Science · Signal Processing · Machine Learning · Neural Networks ·  Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
-[🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
+
 
 <br>
 
