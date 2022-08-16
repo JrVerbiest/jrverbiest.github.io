@@ -2,7 +2,13 @@
 
 #### Engineer, Researcher & Developer
 
-Engineer with +19y experience and a demonstrated history of working in research and industry. In recent years a shift to data science and machine learning. Currently working, both part-time, as a Senior Researcher at Karel de Grote-Hogeschool and as Technical Developer at Hasselt University @ research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences.
+I am an electronic engineer with a demonstrated history of working in  research and industry. In recent years I made a shift to data science  and machine learning. I followed different online courses, and in  November 2022, I will start the Certified Professional Program  Artificial Intelligence Engineer at the Open University Netherlands to  further improve my theoretical and practical knowledge of artificial  intelligence and machine learning.
+
+I am working part-time as a  Senior Researcher at Karel de Grote-Hogeschool, and part-time as a  Technical Developer @ research group Rehabilitation Research Center  (REVAL), Faculty of Rehabilitation Sciences, Hasselt University.
+
+My current research focuses on machine learning at the Edge, with special interest in Artificial Intelligence for healthcare and Smart Sensor-based (Health) Technology.
+
+Skills:  Data Science · Signal Processing · Machine Learning · Neural Networks ·  Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
 [🌐 LinkedIn](https://www.linkedin.com/in/joeriverbiest/) 
 
@@ -16,11 +22,11 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
   🔨 Tools: Python (pandas) 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (80% FTE), contract end: 31 December 2022.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (50% FTE), contract end: 31 August 2023.
 
   **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, ongoing. 
 
-  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient, and intelligent (wireless) embedded sensor systems.
+  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
 
   🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
   
@@ -224,5 +230,5 @@ Engineer with +19y experience and a demonstrated history of working in research 
 
 ---
 
-*Last update: 12 August 2022*
+*Last update: 16 August 2022*
 
