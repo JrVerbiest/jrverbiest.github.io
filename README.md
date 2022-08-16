@@ -25,7 +25,7 @@ Skills:  Data Science · Signal Processing · Machine Learning · Neural Network
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (50% FTE), contract end: 31 August 2023.
 
-  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project, ongoing. 
+  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
   Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
 
