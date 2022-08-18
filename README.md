@@ -2,13 +2,15 @@
 
 #### Engineer, Researcher & Developer
 
-I am an electronic engineer with a demonstrated history of working in  research and industry. In recent years I made a shift to data science  and machine learning. I followed different online courses, and in  November 2022, I will start the Certified Professional Program  Artificial Intelligence Engineer at the Open University Netherlands to  further improve my theoretical and practical knowledge of artificial  intelligence and machine learning.
+### About                  
 
-I am working part-time as a  Senior Researcher at Karel de Grote-Hogeschool, and part-time as a  Technical Developer @ research group Rehabilitation Research Center  (REVAL), Faculty of Rehabilitation Sciences, Hasselt University.
+I am an electronic engineer (ir. & Ing.) with a  demonstrated history of working in research and industry. In recent  years I made a shift to data science and machine learning. I followed  different online courses untill today, learning never stops. Currently I am enrolled in the AI for Healthcare Nanodegree, and in November 2022, I will start the Certified Professional Program Artificial Intelligence  Engineer at the Open University Netherlands to further improve my  theoretical and practical knowledge of artificial intelligence and  machine learning.
 
-My current research focuses on machine learning at the Edge, with special interest in Artificial Intelligence for healthcare and Smart Sensor-based (Health) Technology.
+I am working part-time as a Senior Researcher  at Karel de Grote-Hogeschool. Where I am working on a project focused on machine learning at the Edge (🌐 https://MLatE2dge.github.io). Besides, I work part-time as a Technical Developer @ research group  Rehabilitation Research Center (REVAL), Faculty of Rehabilitation  Sciences, Hasselt University. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal  processing.
 
-Skills:  Data Science · Signal Processing · Machine Learning · Neural Networks ·  Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
+I am open to discussing new projects and research  opportunities in machine learning, Artificial Intelligence of Things  (AIoT), Artificial Intelligence for healthcare and Smart Sensor-based  (Health) Technology.
+
+Skills: Data Science · Signal Processing ·  Machine Learning · Neural Networks · Python (Programming Language) ·  Pandas (Software) · TensorFlow · Keras
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
 
@@ -25,19 +27,20 @@ Skills:  Data Science · Signal Processing · Machine Learning · Neural Network
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (50% FTE), contract end: 31 August 2023.
 
-  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
-  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
+    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
 
-  🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
+    🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
   
-  **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-  Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design).
   
-  🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
+    Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+  
+    🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -231,5 +234,5 @@ Skills:  Data Science · Signal Processing · Machine Learning · Neural Network
 
 ---
 
-*Last update: 16 August 2022*
+*Last update: 18 August 2022*
 
