@@ -4,13 +4,13 @@
 
 ### About                  
 
-I am an electronic engineer (ir. & Ing.) with a  demonstrated history of working in research and industry. In recent  years I made a shift to data science and machine learning. I followed  different online courses untill today, learning never stops. Currently I am enrolled in the AI for Healthcare Nanodegree, and in November 2022, I will start the Certified Professional Program Artificial Intelligence  Engineer at the Open University Netherlands to further improve my  theoretical and practical knowledge of artificial intelligence and  machine learning.
+I am an electronic engineer, ir. & Ing., with a demonstrated history of working in research and industry. I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time as a Technical Developer at the research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal processing.
 
-I am working part-time as a Senior Researcher  at Karel de Grote-Hogeschool. Where I am working on a project focused on machine learning at the Edge (🌐 https://MLatE2dge.github.io). Besides, I work part-time as a Technical Developer @ research group  Rehabilitation Research Center (REVAL), Faculty of Rehabilitation  Sciences, Hasselt University. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal  processing.
+In recent years I made a shift to data science and machine learning. I followed different online courses until today. Currently, I am enrolled in the AI for Healthcare Nanodegree. In November 2022, I will start the Certified Professional Program Artificial Intelligence Engineer at the Open University Netherlands. Following this course will further improve my theoretical and practical knowledge of artificial intelligence and machine learning. 
 
-I am open to discussing new projects and research  opportunities in machine learning, Artificial Intelligence of Things  (AIoT), Artificial Intelligence for healthcare and Smart Sensor-based  (Health) Technology.
+I am open to discussing new projects and (research) opportunities in machine learning, Artificial Intelligence of Things (AIoT), Artificial Intelligence for healthcare and the use of machine learning in Smart Sensor-based (Health) Technology.
 
-Skills: Data Science · Signal Processing ·  Machine Learning · Neural Networks · Python (Programming Language) ·  Pandas (Software) · TensorFlow · Keras
+Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
 
@@ -31,6 +31,8 @@ Skills: Data Science · Signal Processing ·  Machine Learning · Neural Network
 
     Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
 
+    This research is supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
+    
     🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
   
   
@@ -234,5 +236,5 @@ Skills: Data Science · Signal Processing ·  Machine Learning · Neural Network
 
 ---
 
-*Last update: 18 August 2022*
+*Last update: 22 August 2022*
 
