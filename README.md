@@ -23,7 +23,7 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
   🔨 Tools: Python (pandas) 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (80% FTE), contract end: 31 December 2022.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (50% FTE), contract end: 31 August 2023.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
@@ -234,5 +234,5 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 16 October 2022*
+*Last update: 29 October 2022*
 
