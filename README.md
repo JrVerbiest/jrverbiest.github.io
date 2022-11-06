@@ -6,7 +6,7 @@
 
 I am an electronic **engineer** with a demonstrated history of working in research and industry. In recent years I made a shift to data science and machine learning. I am working part-time (fixed term contract) as a **Senior Researcher** at Karel de Grote-Hogeschool on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer** at the research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal processing.
 
-I am open to discussing new (research) projects in machine learning, Artificial Intelligence of Things (AIoT), Artificial Intelligence for healthcare and the use of machine learning in Smart Sensor-based (Health) Technology.
+I am open to discussing new (research) projects in machine learning, Artificial Intelligence for healthcare and the use of machine learning in Smart Sensor-based (Health) Technology.
 
 Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
@@ -234,5 +234,5 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 2 November 2022*
+*Last update: 6 November 2022*
 
