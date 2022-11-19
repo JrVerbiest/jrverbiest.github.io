@@ -4,24 +4,23 @@
 
 ### About                  
 
-I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time (fixed term contract) as a **Senior Researcher** at Karel de Grote-Hogeschool on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer** at the research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal processing.
+I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time (fixed term contract) as a **Senior Researcher** at **Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer** at the **research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal processing.
 
 Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
 
-
 <br>
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - part time.
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - **Current Employment** (part time).
 
   Task: technical/engineering support for the research activities: data pre-processing, signal processing.
 
   🔨 Tools: Python (pandas) 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract - part time.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract - **Current Employment** (part time)..
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
@@ -29,7 +28,7 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
     This research is supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens DOT and MTw Awinda).
+    🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
@@ -232,4 +231,4 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 14 November 2022*
+*Last update: 19 November 2022*
