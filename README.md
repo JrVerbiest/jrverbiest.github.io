@@ -15,13 +15,13 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term contract (20% FTE) - (vervangingscontract / replacement contract), contract end: 31 December 2022.
+- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - part time.
 
   Task: technical/engineering support for the research activities: data pre-processing, signal processing.
 
   🔨 Tools: Python (pandas) 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract (50% FTE), contract end: 31 August 2023.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract - part time.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
