@@ -4,7 +4,7 @@
 
 ### About                  
 
-I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time (fixed term contract) as a **Senior Researcher** at **Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer** at the **research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main tasks as a developer are technical & engineering support, data wrangling, pre-processing, and signal processing.
+*I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time (fixed term contract) as a **Senior Researcher at Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer at the Research Group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main tasks as a developer are: technical & engineering support, data wrangling, pre-processing, and signal processing.*
 
 Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
@@ -24,19 +24,23 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
 
-    Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer  can use (tiny) machine learning in the development of accurate,  energy-efficient and intelligent (wireless) embedded (sensor) devices. A machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based system: edge or end-point  device. In the project, we selected a healthcare application as a use  case: the estimation of spatiotemporal gait parameters.
+    In this project, a machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based wireless system. In the project, a healthcare application is selected as a use case.
 
     This research is supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python (pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
+    🔨 Software & hardware tools: Python (Pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
   
-    Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design).
+    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
   
+    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
+  
+    KdG was responsible for the (IoT) platform (system integration, software and firmware design).
+    
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
-  
+    
     🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
@@ -107,14 +111,10 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ## 🔬Projects
 
-- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. 
-  Machine Learning @ the Extreme Edge (ML@E2dge) looks at how a developer can use tiny machine learning (tinyML) in the development of accurate, energy-efficient and intelligent (wireless) embedded sensor systems.
-- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project.
-  Effects of air quality in the accommodations of ships on human health: monitoring environmental parameters, risk analysis and recommendations.
-- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). 
-  Multifunctional Nanotechnology for selective detection and Treatment of cancer.
-- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. 
-  Power Amplifier aNd Antennas for mobile Applications.
+- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge) 
+- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
+- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of cancer.
+- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for mobile Applications.
 - **Project Antenna design for medical implant**, project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
 <br>
@@ -231,4 +231,4 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 19 November 2022*
+*Last update: 20 November 2022*
