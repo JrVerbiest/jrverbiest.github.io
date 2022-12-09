@@ -4,7 +4,7 @@
 
 ### About                  
 
-*I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time (fixed term contract) as a **Senior Researcher at Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time (replacement contract, fixed term) as a **Technical Developer at the Research Group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main tasks as a developer are: technical & engineering support, data wrangling, pre-processing, and signal processing.*
+I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time as a **Senior Researcher** at **Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time as a **Technical Developer** at **Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main task as a developer is technical & engineering support.
 
 Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
@@ -16,9 +16,9 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 - **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - **Current Employment** (part time).
 
-  Task: technical/engineering support for the research activities: data pre-processing, signal processing.
+  Task: technical/engineering support.
 
-  🔨 Tools: Python (pandas) 
+  🔨 Tools: Python (pandas, NumPy, ...) 
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract - **Current Employment** (part time)..
 
@@ -231,4 +231,4 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 20 November 2022*
+*Last update: 9 December 2022*
