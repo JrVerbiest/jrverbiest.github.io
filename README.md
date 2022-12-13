@@ -4,7 +4,7 @@
 
 ### About                  
 
-I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a **shift to data science and machine learning**. I am working part-time as a **Senior Researcher** at **Karel de Grote-Hogeschool** on a project focused on machine learning at the Edge, [ML@E2dge](https://MLatE2dge.github.io). Besides, I work part-time as a **Technical Developer** at **Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University**. My main task as a developer is technical & engineering support.
+I am an engineer with a demonstrated history of working in research and industry. In recent years I made a shift to data science and machine learning. I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool on a project focused on machine learning at the Edge. Besides, I work part-time as a Technical Developer at the research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University. My main tasks as a developer are technical & engineering support.
 
 Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
 
@@ -16,7 +16,7 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 - **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - **Current Employment** (part time).
 
-  Task: technical/engineering support.
+  Task: technical & engineering support.
 
   🔨 Tools: Python (pandas, NumPy, ...) 
 
@@ -231,4 +231,4 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 9 December 2022*
+*Last update: 13 December 2022*
