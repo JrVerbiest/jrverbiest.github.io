@@ -1,12 +1,10 @@
 # Joeri R. Verbiest, PhD MSc
 
-#### Engineer - Researcher - Developer
+#### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
 ### About                  
 
-I am an engineer with a demonstrated history of working in research and industry. In recent years I made a shift to data science and machine learning. I am working part-time as a Senior Researcher at Karel de Grote-Hogeschool on a project focused on machine learning at the Edge. Besides, I work part-time as a Technical Developer at the research group Rehabilitation Research Center (REVAL), Faculty of Rehabilitation Sciences, Hasselt University. My main tasks as a developer are technical & engineering support.
-
-Skills: Data Science · Signal Processing · Machine Learning · Neural Networks · Python (Programming Language) · Pandas (Software) · TensorFlow · Keras
+I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am working as **Researcher-Expert** and as a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
 
@@ -14,21 +12,19 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Hasselt University, Research group Rehabilitation Research Center (REVAL) - Faculty Rehabilitation Science, Hasselt, Belgium, fixed-term (vervangingscontract / replacement) contract - **Current Employment** (part time).
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment</ins>**.
 
-  Task: technical & engineering support.
+  Task: Engineering support in scientific research.
 
-  🔨 Tools: Python (pandas, NumPy, ...) 
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment</ins>**.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term contract - **Current Employment** (part time)..
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (ongoing).
-
-    In this project, a machine learning model (regression) will be developed and optimised. A  model that can be deployed on a sensor-based wireless system. In the project, a healthcare application is selected as a use case.
+    In this project, a machine learning model (regression) will be developed and optimised, a model that can be deployed on a sensor-based system. In the project, a healthcare application is selected as a use case.
 
     This research is supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python (Pandas, NumPy, SciPy), scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
+    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
@@ -38,6 +34,8 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
     Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
   
     KdG was responsible for the (IoT) platform (system integration, software and firmware design).
+    
+    This research is funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
@@ -83,7 +81,7 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
-  Responsible for: a. translation prototype to product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
+  Responsible for: a. translation prototype to a product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
@@ -110,12 +108,17 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 <br>
 
 ## 🔬Projects
+- Photoplethysmography (PPG) continuous heart rate estimation.
 
-- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge) 
+- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
+
 - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
+
 - **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of cancer.
+
 - **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for mobile Applications.
-- **Project Antenna design for medical implant**, project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
+
+- **Project Antenna design for medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
 <br>
 
@@ -231,4 +234,4 @@ Skills: Data Science · Signal Processing · Machine Learning · Neural Networks
 
 ---
 
-*Last update: 13 December 2022*
+*Last update: 1 January 2023*
