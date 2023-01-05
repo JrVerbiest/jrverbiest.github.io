@@ -108,7 +108,7 @@ I am an **engineer** with a demonstrated history of working in research and indu
 <br>
 
 ## 🔬Projects
-- Photoplethysmography (PPG) continuous heart rate estimation.
+- **[🌐 PPGHeartRate](https://jrverbiest.github.io/PPGHeartRate/)** Photoplethysmography (PPG) continuous heart rate estimation.
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
 
@@ -234,4 +234,4 @@ I am an **engineer** with a demonstrated history of working in research and indu
 
 ---
 
-*Last update: 1 January 2023*
+*Last update: 5 January 2023*
