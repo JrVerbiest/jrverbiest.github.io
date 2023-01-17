@@ -195,11 +195,11 @@ I am an **engineer** with a demonstrated history of working in research and indu
 
 ### Articles in International Journals
 
-- Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., Sensitive and quantitative pEPR detection system for SPIO nanoparticles, Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. 
+- Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., Sensitive and quantitative pEPR detection system for SPIO nanoparticles, Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. 
+- J.R. Verbiest and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Small size planar triangular monopole antenna for UWB WBAN applications", IEE Electronics Letters, Volume 42, Issue 10, pp. 566-567, 2006. 
+- J.R. Verbiest and G.A.E. Vandenbosch, "Small size planar triangular monopole antenna for UWB WBAN applications", IEE Electronics Letters, Volume 42, Issue 10, pp. 566-567, 2006. [**Paper**](https://www.researchgate.net/publication/3388880_Small-size_planar_triangular_monopole_antenna_for_UWB_WBAN_applications)
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "A Novel Small Size Printed Tapered Monopole Antenna for UWB WBAN", IEEE Antennas and Wireless Propagation Letters, pp. 377-379, vol. 5, 2006. [**Paper**](https://ieeexplore.ieee.org/document/1696014)
 
