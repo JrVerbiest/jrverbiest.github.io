@@ -6,7 +6,11 @@
 
 I am an **engineer** with a demonstrated history of working in research and industry. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am working as **Researcher-Expert** and as a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 LinkedIn</a></div>
+### My ..
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
+
+**[🌐 Weights & Biases page](https://wandb.ai/jrverbiest)**
 
 <br>
 
