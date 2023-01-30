@@ -26,7 +26,7 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
     
-    Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. Starting from a [case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
+    Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
