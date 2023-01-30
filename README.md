@@ -25,11 +25,12 @@ I am an **engineer** with a demonstrated history of working in research and indu
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment</ins>**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
+    
     Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. Starting from a [case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
+    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021.
