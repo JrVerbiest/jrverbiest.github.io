@@ -9,10 +9,8 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 ### My ...
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
-
 **[🌐 GitHub page](https://github.com/JrVerbiest)**<br>
 **[🌐 Weights & Biases page](https://wandb.ai/jrverbiest)**<br>
-
 
 <br>
 
@@ -184,6 +182,12 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 <br>
 
+## 🔬'Mini projects'
+
+- Real-time object detection using embedded machine learning.
+
+<br>
+
 ## 📷 Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
@@ -239,4 +243,4 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 ---
 
-*Last update: 30 January 2023*
+*Last update: 2 February 2023*
