@@ -20,7 +20,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - Engineering support in scientific research. 
 
-    Tasks: data pre-processing and data cleansing, mainly datasets (such as IMU-data) from gait analysis.
+    Task: data pre-processing and data cleansing, mainly datasets (e.g. IMU-data) from gait analysis.
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (50%)</ins>**.
 
@@ -51,8 +51,11 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
-    Tasks: a. system engineering support: PCB design, assembly and testing. b. R&D wireless power transfer (WPT). 
+    Tasks: 
 
+    - system engineering support: PCB design, assembly and testing
+    - R&D wireless power transfer (WPT). 
+    
     🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
@@ -65,19 +68,39 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Project: an application in Electron Paramagnetic Resonance (EPR).
 
-    Comprising: sub-system analog electronic design using COTS high power operational amplifier; PCB design (Altium Designer); simulation and theoretical design (software tool: TINA and LTSpice).
+    Comprising: 
+
+    - sub-system analog electronic design using COTS high power operational amplifier; 
+    - PCB design (Altium Designer); 
+    - simulation and theoretical design (software tool: TINA and LTSpice).
 
   - ***@ Bruker micro-CT, Kontich, Belgium.*** 
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: architecture definition; (sub-)system technical requirement definition and design; integration and testing; contact person for electrical and electronic suppliers; stepper motor control (with encoder) using COTS (Nanotec) drivers; firmware design for low-level control and monitoring of the instrument; PCB design (Altium Designer).
+    Comprising: 
+    
+    - architecture definition
+    - (sub-)system technical requirement definition and design; 
+    - integration and testing; contact person for electrical and electronic suppliers; 
+    - stepper motor control (with encoder) using COTS (Nanotec) drivers; 
+    - firmware design for low-level control and monitoring of the instrument; 
+    - PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
   Responsible for: the technology development of an ex-vivo instrument for quantifying magnetic nanoparticles.
 
-  Comprising: architecture definition and (sub-)system technical requirement definition; project definition and follow-up; contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); hardware, software integration; system test, validation and instrument control; RF design: surface coil design (300 MHz) mainly analytical and by experiment; IP generation, [patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  Comprising: 
+
+  - architecture definition and (sub-)system technical requirement definition; 
+  - project definition and follow-up; 
+  - contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); hardware, software integration; 
+  - system test, validation and instrument control; 
+  - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
+  - IP generation, [patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); 
+  - member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
@@ -87,7 +110,15 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
-  Responsible for: translation prototype to a product; contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; project follow-up; stock and order flow-up (‘procurement’); support in test and measurements; R&D (IWT O&O project, part: next-generation phase reference generator).
+  Responsible for: translation prototype to a product; 
+
+  Comprising:
+
+  - contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
+  - project follow-up; 
+  - stock and order flow-up (‘procurement’); 
+  - support in test and measurements; 
+  - R&D (IWT O&O project, part: next-generation phase reference generator).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
@@ -103,13 +134,22 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   Research topic: Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB), 3.0-9.0 GHz antennas for wireless body area networks (WBAN).
 
+  Author of several scientific publications (see publication list).
+
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
-  Other activities: a. treasurer IEEE Student Branch Leuven (2003-2005), supervision study projects in the course Wireless and Mobile Communications, supervision of the different (Master) thesis. d. author of several scientific publications (see publication list).
+  Other activities: 
+
+  - treasurer IEEE Student Branch Leuven (2003-2005);
+  - supervision study projects in the course Wireless and Mobile Communications;
+  - supervision of the different (Master) thesis.
 
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
-  Task: a. solves component failure by lightning (surge immunity). b. feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
+  Task:
+  
+  - solves component failure by lightning (surge immunity);
+  - feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
 <br>
 
@@ -239,4 +279,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 2 February 2023*
+*Last update: 3 February 2023*
