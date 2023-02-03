@@ -102,7 +102,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   - architecture definition and (sub-)system technical requirement definition; 
   - project definition and follow-up; 
   - contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); 
-  - hardware, and software integration; 
+  - hardware and software integration; 
   - system test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
   - IP generation ([patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0)); 
@@ -117,7 +117,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
-  Responsible for: translation of prototype to a product; 
+  Responsible for translation of prototype to a product; 
 
   Comprising:
 
@@ -125,7 +125,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   - project follow-up; 
   - stock and order flow-up (‘procurement’); 
   - support in tests and measurements; 
-  - R&D: IWT O&O project (next-generation phase reference generator).
+  - R&D next-generation phase reference generator (IWT O&O project).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
@@ -137,9 +137,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
 
-  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
-
-  Research topic: Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB), 3.0-9.0 GHz antennas for wireless body area networks (WBAN).
+  Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB), 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
 
@@ -148,9 +146,9 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   Other activities: 
 
   - treasurer IEEE Student Branch Leuven (2003-2005);
-  - supervision study projects in the course Wireless and Mobile Communications;
+  - supervision projects in the course Wireless and Mobile Communications;
   - supervision of the different (Master's) thesis.
-
+  
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
   Task:
