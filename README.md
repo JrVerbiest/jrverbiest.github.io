@@ -20,7 +20,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - Engineering support in scientific research. 
 
-    Task: data pre-processing and data cleansing, mainly datasets (e.g. IMU-data) from gait analysis.
+    Task: data pre-processing and data cleansing, mainly datasets (IMU-data) from gait analysis.
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (50%)</ins>**.
 
@@ -105,13 +105,13 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   - hardware, and software integration; 
   - system test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation, [patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - IP generation ([patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0)); 
   - provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); 
   - member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
-  Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
+  Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and active in two work packages (one as work package leader).
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
@@ -125,7 +125,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   - project follow-up; 
   - stock and order flow-up (‘procurement’); 
   - support in tests and measurements; 
-  - R&D (IWT O&O project, part: next-generation phase reference generator).
+  - R&D: IWT O&O project (next-generation phase reference generator).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
