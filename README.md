@@ -4,7 +4,7 @@
 
 ### About                  
 
-I am an **electronic engineer** with a demonstrated history of working in research and industry. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am working as **Researcher-Expert** and as a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 ### My ...
 
@@ -16,11 +16,13 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment</ins>**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment (30%)</ins>**.
 
-  Task: Engineering support in scientific research.
+  - Engineering support in scientific research. 
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment</ins>**.
+    Tasks: data pre-processing and data cleansing. Datasets (IMU-data) from gait analyse and motion in general.
+
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (50%)</ins>**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
     
@@ -55,39 +57,39 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
-  Responsible for: a. formulation of technical solutions; b. communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; c. provides input for technical specifications, requirements and documentation.
+  Responsible for: formulation of technical solutions; communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; providing input for technical specifications, requirements and documentation.
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
   - ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
 
-    Project: an application in the area Electron Paramagnetic Resonance (EPR).
+    Project: an application in Electron Paramagnetic Resonance (EPR).
 
-    Comprising: a. sub-system analog electronic design using COTS high power operational amplifier; b. PCB design (software tool: Altium Designer); c. simulation and theoretical design (software tool: TINA and LTSpice).
+    Comprising: sub-system analog electronic design using COTS high power operational amplifier; PCB design (Altium Designer); simulation and theoretical design (software tool: TINA and LTSpice).
 
   - ***@ Bruker micro-CT, Kontich, Belgium.*** 
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: a. architecture definition; b. (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; e. stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); f. firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; g. PCB design (Altium Designer).
+    Comprising: architecture definition; (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
   Responsible for: the technology development of an ex-vivo instrument for quantifying magnetic nanoparticles.
 
-  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide technology, R&D, budget, roadmap, and planning input  for projects (IWT) and business plan (venture capital); i. member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide technology, R&D, budget, roadmap, and planning input for projects (IWT) and business plan (venture capital); member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
   Responsible for: GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) active in two work packages (one as work package leader).
 
-  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
+  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
   Responsible for: a. translation prototype to a product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
 
-  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
+  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium 
 
@@ -99,11 +101,11 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
-  Research topic: Design of antennas used on the human body. Research focused on the design of small low-cost ultra-wideband (UWB), 3.0-9.0 GHz, antennas for wireless body area networks (WBAN).
+  Research topic: Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB), 3.0-9.0 GHz antennas for wireless body area networks (WBAN).
 
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
-  Other activities: a. treasurer IEEE Student Branch Leuven (2003-2005), b. supervision study projects in the course Wireless and Mobile Communications, c. supervision of different (Master) thesis. d. author of several scientific publications (see publication list).
+  Other activities: a. treasurer IEEE Student Branch Leuven (2003-2005), supervision study projects in the course Wireless and Mobile Communications, supervision of the different (Master) thesis. d. author of several scientific publications (see publication list).
 
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
@@ -119,9 +121,9 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 - **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of cancer.
 
-- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for mobile Applications.
+- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications.
 
-- **Project Antenna design for medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
+- **Project Antenna design for a medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
 <br>
 
@@ -137,15 +139,15 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
   Thesis: Exposure of Human Blood to an Electromagnetic field and the numerical model.
 
-  In the thesis a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
 
-  Extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimization.
+  Followed extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems, including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimisation.
 
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated in EMI solution).
+  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated into EMI solution).
 
-  Thesis: Validation of a fully anechoic room according the prEN 50147-3 with HP-VEE. Content: implementation of an automatic measurement tool using HP-VEE and the validation of the fully anechoic chamber.
+  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
 <br>
 
@@ -174,11 +176,11 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 - **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
 
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
-  Course content: Python incl. Object-Oriented Programming (OOP) (with a small introduction in databases (SQLite) and Django).
+  Course content: Python, incl. Object-Oriented Programming (OOP) (with a small introduction to databases (SQLite) and Django).
 
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
 
-- **Safety procedures and equipment**, One day training, AR Benelux, 2016.
+- **Safety procedures and equipment**, One-day training, AR Benelux, 2016.
 
 <br>
 
