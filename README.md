@@ -182,12 +182,6 @@ I am an **electronic engineer** with a demonstrated history of working in resear
 
 <br>
 
-## 🔬'Mini projects'
-
-- Real-time object detection using embedded machine learning.
-
-<br>
-
 ## 📷 Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
