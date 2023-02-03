@@ -20,7 +20,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - Engineering support in scientific research. 
 
-    Tasks: data pre-processing and data cleansing. Datasets (IMU-data) from gait analyse and motion in general.
+    Tasks: data pre-processing and data cleansing, mainly datasets (such as IMU-data) from gait analysis.
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (50%)</ins>**.
 
@@ -71,13 +71,13 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Responsible for: electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: architecture definition; (sub-)system technical requirement definition and design; c. integration and testing; d. contact person for electrical and electronic suppliers; stepper motor control (with encoder) using COTS (Nanotec) drivers (programming language: C and Python); firmware design (programming language: C) microcontroller-based design (Atmel) for low-level control and monitoring of the instrument; PCB design (Altium Designer).
+    Comprising: architecture definition; (sub-)system technical requirement definition and design; integration and testing; contact person for electrical and electronic suppliers; stepper motor control (with encoder) using COTS (Nanotec) drivers; firmware design for low-level control and monitoring of the instrument; PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
   Responsible for: the technology development of an ex-vivo instrument for quantifying magnetic nanoparticles.
 
-  Comprising: a. architecture definition and (sub-)system technical requirement definition; b. project definition and follow-up; c. contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); d. hardware, software integration (C++, Matlab, Python and basic GUI design in C#); e. system test, validation and instrument control; f. RF design: surface coil design (300 MHz) mainly analytical (software tools: LTSpice and Matlab) and by experiment; g. IP generation (one patent, see publication list); h. provide technology, R&D, budget, roadmap, and planning input for projects (IWT) and business plan (venture capital); member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  Comprising: architecture definition and (sub-)system technical requirement definition; project definition and follow-up; contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); hardware, software integration; system test, validation and instrument control; RF design: surface coil design (300 MHz) mainly analytical and by experiment; IP generation, [patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); member of European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
@@ -87,7 +87,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
-  Responsible for: a. translation prototype to a product; b. contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; c. project follow-up; d. stock and order flow-up (‘procurement’); e. support in test and measurements; f. R&D (IWT O&O project, part: next-generation phase reference generator).
+  Responsible for: translation prototype to a product; contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house; project follow-up; stock and order flow-up (‘procurement’); support in test and measurements; R&D (IWT O&O project, part: next-generation phase reference generator).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
