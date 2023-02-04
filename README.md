@@ -2,11 +2,9 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-### About                  
-
 I am an **electronic engineer** with a demonstrated research and industry history. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
-### My ...
+### 📃 My ...
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 **[🌐 GitHub page](https://github.com/JrVerbiest)**<br>
@@ -16,13 +14,13 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment (30%)</ins>**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment (part-time 30%)</ins>**.
 
   - Engineering support in scientific research. 
 
     Task: data pre-processing and data cleansing, mainly datasets (IMU-data) from gait analysis.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (50%)</ins>**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (part time 50%)</ins>**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
     
@@ -111,7 +109,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
-  Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and active in two work packages (one as work package leader).
+  Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages (one as work package leader).
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
@@ -129,7 +127,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
-- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), project under Non-Disclosure Agreement, Leuven, Belgium 
+- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
 
   Achievements: proof of concept and a prototype design.
 
@@ -172,6 +170,12 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
+## 🎓 & 🔬Personal projects
+
+- [Object detection](https://github.com/JrVerbiest/Object-Detection-EI-Project)
+
+<br>
+
 ## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -186,7 +190,16 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
 
-  Followed extra courses in biomedical and energy engineering: Human Physiology, Biology and Biochemistry of Human Systems, including Human Biotechnology, Biomedical Measurements and Stimulation, transport Phenomena in Biological systems, Finite Elements for magnetic fields and optimisation.
+  Followed extra courses in 
+
+  - Biomedical engineering: 
+    - Human Physiology;
+    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
+    - Biomedical Measurements and Stimulation;
+    - Transport Phenomena in Biological systems.
+
+  - Energy engineering: 
+    - Finite Elements for magnetic fields and optimisation.
 
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
@@ -196,7 +209,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🎓 Udacity Nanodegrees
+## 🎓 Nanodegrees
 
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)), 2022
 
@@ -210,7 +223,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 📚 Training
+## 🎓 & 📚 Training
 
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
 
@@ -236,7 +249,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 - Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
-## ✎ Publications
+## ✍🏻 Publications
 
 ### Patent
 
@@ -284,4 +297,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 3 February 2023*
+*Last update: 4 February 2023*
