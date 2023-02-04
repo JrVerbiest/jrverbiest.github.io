@@ -170,9 +170,11 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🎓 & 🔬Personal projects
+## 🎓 & 🔬Personal project
 
-- [Object detection](https://github.com/JrVerbiest/Object-Detection-EI-Project)
+- [Object detection](https://github.com/JrVerbiest/Object-Detection)
+
+  An EdgeAI project using the NVIDIA® Jetson Nano™ Developer Kit (4GB) and the Intel® RealSense™ Depth Camera D435i.
 
 <br>
 
