@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I made a shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote-Hogeschool**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote University of Applied Science and Arts (KdG)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 ### 📃 My ...
 
@@ -14,13 +14,13 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - fixed-term - **<ins>Current Employment (part-time 30%)</ins>**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%)</ins>**.
 
   - Engineering support in scientific research. 
 
     Task: data pre-processing and data cleansing, mainly datasets (IMU-data) from gait analysis.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term - **<ins>Current Employment (part time 50%)</ins>**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins>**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023.
     
@@ -299,4 +299,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 4 February 2023*
+*Last update: 6 February 2023*
