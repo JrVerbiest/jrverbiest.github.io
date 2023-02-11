@@ -2,14 +2,9 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I shift to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at **Karel de Grote University of Applied Science and Arts (KdG)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
-
-### 📃 My ...
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
-**[🌐 GitHub page](https://github.com/JrVerbiest)**<br>
-**[🌐 Weights & Biases page](https://wandb.ai/jrverbiest)**<br>
-
 <br>
 
 ## 🛠️ Work Experience
@@ -135,7 +130,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
 
-  Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB), 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
+  Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
 
@@ -174,7 +169,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - [Object detection](https://github.com/JrVerbiest/Object-Detection)
 
-  An EdgeAI project using the NVIDIA® Jetson Nano™ Developer Kit (4GB) and the Intel® RealSense™ Depth Camera D435i.
+  An Edge AI project using the NVIDIA® Jetson Nano™ Developer Kit (4GB) and the Intel® RealSense™ Depth Camera D435i. This pet project is mainly to acquire knowledge about computer vision in general and object detection more specifically.
 
 <br>
 
@@ -205,7 +200,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today Hevrox EMC/Safety Services is integrated into EMI solution).
+  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into EMI solution).
 
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
@@ -299,4 +294,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 6 February 2023*
+*Last update: 11 February 2023*
