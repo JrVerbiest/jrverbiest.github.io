@@ -165,11 +165,11 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🎓 & 🔬Personal project
+## 🔬Personal project
 
 - [Object detection](https://github.com/JrVerbiest/Object-Detection)
 
-  An Edge AI project using the NVIDIA® Jetson Nano™ Developer Kit (4GB) and the Intel® RealSense™ Depth Camera D435i. This pet project is mainly to acquire knowledge about computer vision in general and object detection more specifically.
+  An Edge AI project using the NVIDIA® Jetson Nano™ Developer Kit (4GB) and the Intel® RealSense™ Depth Camera D435i. This pet project is mainly to acquire more in-depth knowledge about computer vision in general and object detection more specifically. In the project, tools such as Edge Impulse Studio is used.
 
 <br>
 
@@ -200,7 +200,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into EMI solution).
+  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
@@ -220,7 +220,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🎓 & 📚 Training
+## 🎓 Training
 
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
 
@@ -294,4 +294,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 11 February 2023*
+*Last update: 12 February 2023*
