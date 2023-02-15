@@ -167,9 +167,8 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ## 🔬Personal project
 
-- [Object detection](https://github.com/JrVerbiest/Object-Detection)
+- [Object detection](https://github.com/JrVerbiest/Object-Detection): This pet project is mainly to acquire more in-depth knowledge about object detection.
 
-  This pet project is mainly to acquire more in-depth knowledge about computer vision in general and object detection more specifically. In the project, tools such as Edge Impulse Studio is used. Embedded platforms used for evaluation are NVIDIA® Jetson Nano™ Developer Kit (4GB) together with the Intel® RealSense™ Depth Camera D435i and the Portenta H7 in combination with the Portenta Vision Shield. 
 
 <br>
 
@@ -294,4 +293,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 14 February 2023*
+*Last update: 15 February 2023*
