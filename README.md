@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 <br>
@@ -17,7 +17,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins>**.
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 man-months).
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
     Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
@@ -26,7 +26,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
   
   
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 man-months).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
   
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
   
@@ -56,7 +56,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   Responsible for: 
 
-  - formulation of technical solutions; 
+  - Formulation of technical solutions; 
   - communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; 
   - providing input for technical specifications, requirements and documentation.
 
@@ -68,7 +68,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Comprising: 
 
-    - sub-system analog electronic design using COTS high power operational amplifier; 
+    - Sub-system analog electronic design using COTS high power operational amplifier; 
     - PCB design (Altium Designer); 
     - simulation design (software tool: TINA &LTSpice).
 
