@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am working as a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io)**. Besides, I am a Researcher-Expert and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 <br>
@@ -165,13 +165,6 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🔬Personal project
-
-- [Object detection](https://github.com/JrVerbiest/Object-Detection): This pet project is mainly to acquire more in-depth knowledge about object detection.
-
-
-<br>
-
 ## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -293,4 +286,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 15 February 2023*
+*Last update: 19 February 2023*
