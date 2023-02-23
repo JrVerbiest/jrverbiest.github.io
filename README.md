@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. Currently, I am a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. I am a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 <br>
@@ -23,7 +23,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensors (Xsens).
+    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensor (Xsens).
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
@@ -46,7 +46,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Tasks: 
 
-    - system engineering support;
+    - System engineering support;
     - PCB design, assembly and testing;
     - R&D wireless power transfer (WPT). 
     
@@ -57,8 +57,8 @@ I am an **electronic engineer** with a demonstrated research and industry histor
   Responsible for: 
 
   - Formulation of technical solutions; 
-  - communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; 
-  - providing input for technical specifications, requirements and documentation.
+  - Communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; 
+  - Providing input for technical specifications, requirements and documentation.
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
@@ -78,12 +78,12 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Comprising: 
     
-    - architecture definition
-    - (sub-)system technical requirement definition and design; 
-    - integration and testing; 
-    - contact person for electrical and electronic suppliers; 
-    - stepper motor control (with encoder) using COTS (Nanotec) drivers; 
-    - firmware design for low-level control and monitoring of the instrument; 
+    - Architecture definition
+    - System and sub-system technical requirement definition and design; 
+    - Integration and testing; 
+    - Contact person for electrical and electronic suppliers; 
+    - Stepper motor control (with encoder) using COTS (Nanotec) drivers; 
+    - Firmware design for low-level control and monitoring of the instrument; 
     - PCB design (Altium Designer).
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
@@ -92,15 +92,15 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   Comprising: 
 
-  - architecture definition and (sub-)system technical requirement definition; 
-  - project definition and follow-up; 
-  - contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); 
-  - hardware and software integration; 
-  - system test, validation and instrument control; 
+  - Architecture definition and (sub-)system technical requirement definition; 
+  - Project definition and follow-up; 
+  - Contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); 
+  - Hardware and software integration; 
+  - System test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation ([patent](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0)); 
-  - provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); 
-  - member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
+  - IP generation - [🌐 System and method for determining a quantity of magnetic particles.](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - Provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); 
+  - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
@@ -114,10 +114,10 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   Comprising:
 
-  - contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
-  - project follow-up; 
-  - stock and order flow-up (‘procurement’); 
-  - support in tests and measurements; 
+  - Contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
+  - Project follow-up; 
+  - Stock and order flow-up (‘procurement’); 
+  - Support in tests and measurements; 
   - R&D next-generation phase reference generator (IWT O&O project).
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
@@ -138,16 +138,16 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   Other activities: 
 
-  - treasurer IEEE Student Branch Leuven (2003-2005);
-  - supervision projects in the course Wireless and Mobile Communications;
-  - supervision of the different (Master's) thesis.
+  - Treasurer IEEE Student Branch Leuven (2003-2005);
+  - Supervision projects in the course Wireless and Mobile Communications;
+  - Supervision of the different (Master's) thesis.
   
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
   Task:
   
-  - solves component failure by lightning (surge immunity);
-  - feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
+  - Solves component failure by lightning (surge immunity);
+  - Feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
 <br>
 
@@ -286,4 +286,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 19 February 2023*
+*Last update: 23 February 2023*
