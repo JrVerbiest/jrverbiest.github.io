@@ -2,7 +2,9 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. I am a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, where I am working on a project called Machine Learning @ the Extreme Edge [🌐 ML@E2dge](https://mlate2dge.github.io). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**.
+## About
+
+I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. As a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, I work on a 🔬project called **Machine Learning @ the Extreme Edge** ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**, where I perform **engineering support** in **scientific research**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 <br>
@@ -13,7 +15,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - Engineering support in scientific research. 
 
-    Task: data pre-processing and data cleansing, mainly datasets (IMU-data) from gait analysis.
+    Task: data pre-processing and cleansing, mainly IMU datasets from gait analysis.
 
 - **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins>**.
 
@@ -23,7 +25,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
-    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, IMU sensor (Xsens).
+    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
@@ -88,7 +90,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
-  Responsible for the technology development of an ex-vivo instrument for quantifying magnetic nanoparticles.
+  Responsible for the technology development of an ex-vivo tool for quantifying magnetic nanoparticles.
 
   Comprising: 
 
@@ -140,7 +142,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
   - Treasurer IEEE Student Branch Leuven (2003-2005);
   - Supervision projects in the course Wireless and Mobile Communications;
-  - Supervision of the different (Master's) thesis.
+  - Supervised of the different (Master's) thesis.
   
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
@@ -286,4 +288,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 23 February 2023*
+*Last update: 26 February 2023*
