@@ -153,11 +153,6 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
-## 🎓 & 🔬 Personal projects
-- C Programming and the [Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
-
-<br>
-
 ## 🔬Research projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
@@ -169,6 +164,11 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 - **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications.
 
 - **Project Antenna design for a medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
+
+<br>
+
+## 🎓 & 🔬 Personal projects
+- C Programming and the [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
 
 <br>
 
