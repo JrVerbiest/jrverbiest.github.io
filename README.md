@@ -153,6 +153,11 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 <br>
 
+## 🎓 & 🔬 Personal projects
+- C Programming and the [Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
+
+<br>
+
 ## 🔬Research projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
@@ -240,6 +245,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 - Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
+
 ## ✍🏻 Publications
 
 ### Patent
@@ -288,4 +294,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 26 February 2023*
+*Last update: 21 March 2023*
