@@ -2,10 +2,6 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-## About
-
-I am an **electronic engineer** with a demonstrated research and industry history. In recent years I have shifted to **data science** and **machine learning**. As a **Senior Researcher** at the **Karel de Grote University of Applied Science and Arts (KdG)**, I work on a 🔬project called **Machine Learning @ the Extreme Edge** ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the **Faculty of Rehabilitation Sciences, Hasselt University**, where I perform **engineering support** in **scientific research**.
-
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
 <br>
 
@@ -168,7 +164,7 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 <br>
 
 ## 🎓 & 🔬 Personal projects
-- C Programming and the [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
+- [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects) (C/C++ Programming)
 
 <br>
 
@@ -294,4 +290,4 @@ I am an **electronic engineer** with a demonstrated research and industry histor
 
 ---
 
-*Last update: 21 March 2023*
+*Last update: 22 March 2023*
