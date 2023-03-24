@@ -7,13 +7,13 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%)</ins>**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%) </ins> - until 31 August 2023**.
 
   - Engineering support in scientific research. 
 
     Task: data pre-processing and cleansing, mainly IMU datasets from gait analysis.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins>**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins> - until 31 August 2023**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -163,11 +163,6 @@
 
 <br>
 
-## 🎓 & 🔬 Personal projects
-- [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects) (C/C++ Programming)
-
-<br>
-
 ## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -234,6 +229,12 @@
 
 <br>
 
+## 🎓 Personal project
+
+- [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects) (C/C++ Programming)
+
+<br>
+
 ## 📷 Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
@@ -290,4 +291,4 @@
 
 ---
 
-*Last update: 22 March 2023*
+*Last update: 24 March 2023*
