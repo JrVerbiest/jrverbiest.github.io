@@ -138,7 +138,7 @@
 
   - Treasurer IEEE Student Branch Leuven (2003-2005);
   - Supervision projects in the course Wireless and Mobile Communications;
-  - Supervised of the different (Master's) thesis.
+  - Supervised different (Master's) thesis.
   
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
