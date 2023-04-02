@@ -232,7 +232,7 @@
 ## 🎓 Embedded Design (by Self Study)
 
 - [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
-- [🌐 Arduino](https://github.com/JrVerbiest/Arduino-Projects)
+- [🌐 Arduino - nRF52840](https://github.com/JrVerbiest/Arduino-Projects)
 
 <br>
 
