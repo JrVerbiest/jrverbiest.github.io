@@ -229,9 +229,10 @@
 
 <br>
 
-## 🎓 Personal project
+## 🎓 Embedded design
 
-- [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects) (C/C++ Programming)
+- [🌐 Raspberry Pi Pico](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
+- [🌐 Arduino](https://github.com/JrVerbiest/Arduino-Projects)
 
 <br>
 
