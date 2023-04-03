@@ -231,7 +231,7 @@
 
 ## 🎓 Embedded Design (by Self Study)
 
-- [🌐 Raspberry Pi - RP2040](https://github.com/JrVerbiest/Raspberry-Pi-Pico-Projects)
+- [🌐 Raspberry Pi - RP2040](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/)
 - [🌐 Arduino - nRF52840](https://github.com/JrVerbiest/Arduino-Projects)
 
 <br>
