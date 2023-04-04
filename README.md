@@ -3,6 +3,8 @@
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
+**[🌐 My CV](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/Curriculum_Vitae_JRVerbiest.pdf)**
+
 <br>
 
 ## 🛠️ Work Experience
@@ -292,4 +294,4 @@
 
 ---
 
-*Last update: 2 April 2023*
+*Last update: 4 April 2023*
