@@ -2,8 +2,11 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>LinkedIn page</b></a></div>
-**[🌐 My CV](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/Curriculum_Vitae_JRVerbiest.pdf)**
+I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a 🔬research project called Machine Learning @ the Extreme Edge (ML@E2dge). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn page</b></a></div>
+
+**[🌐 My CV (pdf)](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/Curriculum_Vitae_JRVerbiest.pdf)**
 
 <br>
 
