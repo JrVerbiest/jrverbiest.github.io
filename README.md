@@ -24,7 +24,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
-    Machine Learning at the Extreme Edge (ML@E2dge) examines how we can apply machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines how to apply machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
