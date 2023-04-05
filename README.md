@@ -12,17 +12,19 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%) </ins> - until 31 August 2023**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%)  - until 31 August 2023</ins>**.
 
   - Engineering support in scientific research. 
 
     Task: data pre-processing and cleansing, mainly IMU datasets from gait analysis.
+    
+    🔨 Software tools: Python, Pandas and NumPy.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%)</ins> - until 31 August 2023**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%) - until 31 August 2023 </ins>**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
-    Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines how we can apply machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
@@ -297,4 +299,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 4 April 2023*
+*Last update: 5 April 2023*
