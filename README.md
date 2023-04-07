@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a 🔬research project called Machine Learning @ the Extreme Edge (ML@E2dge). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a 🔬research project called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn page</b></a></div>
 
@@ -24,7 +24,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
-    Machine Learning at the Extreme Edge (ML@E2dge) examines how to apply machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
@@ -238,7 +238,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ## 🎓 Embedded Design
 
-Improve my embedded design skills (by self-education). Special interest and focus on embedded machine learning and signal processing on edge devices.
+Improve my embedded design skills by self-education. Special interest in [edge machine learning](https://docs.edgeimpulse.com/docs/concepts/what-is-edge-machine-learning).
 
 - Raspberry PI RP2040 [🌐 projects](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
 - Arduino [🌐 projects](https://github.com/JrVerbiest/Arduino-Projects)
