@@ -239,7 +239,10 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 ## 🎓 Embedded Design
 
 Improve my embedded design skills (by self-education). Special interest and focus on embedded machine learning and signal processing on edge devices.
-Tools: Raspberry PI RP2040 [🌐](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/), Arduino [🌐](https://github.com/JrVerbiest/Arduino-Projects) and NVIDIA® Jetson Nano™.
+
+- Raspberry PI RP2040 [🌐 projects](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
+- Arduino [🌐 projects](https://github.com/JrVerbiest/Arduino-Projects)
+- NVIDIA® Jetson Nano™ [🌐 projects](https://github.com/JrVerbiest/Jetson-Nano-Projects).
 
 <br>
 
