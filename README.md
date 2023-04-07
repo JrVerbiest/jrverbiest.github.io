@@ -236,10 +236,9 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 <br>
 
-## 🎓 Embedded Design (by Self Study)
+## 🎓 Embedded Design
 
-- [🌐 Raspberry Pi - RP2040](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
-- [🌐 Arduino - nRF52840](https://github.com/JrVerbiest/Arduino-Projects)
+Improve my skills in embedded design. Hardware tools are Raspberry PI [RP2040](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/), Arduino [🌐 nRF52840](https://github.com/JrVerbiest/Arduino-Projects) and NVIDIA® Jetson Nano™.
 
 <br>
 
@@ -299,4 +298,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 5 April 2023*
+*Last update: 7 April 2023*
