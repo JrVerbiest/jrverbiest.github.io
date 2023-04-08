@@ -236,9 +236,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 <br>
 
-## 🎓 Embedded Design
-
-Improve my embedded design skills by self-education. Special interest in [edge machine learning](https://docs.edgeimpulse.com/docs/concepts/what-is-edge-machine-learning).
+## 🎓 Embedded Design (self-education)
 
 - Raspberry PI RP2040 [🌐 projects](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
 - Arduino [🌐 projects](https://github.com/JrVerbiest/Arduino-Projects)
@@ -302,4 +300,4 @@ Improve my embedded design skills by self-education. Special interest in [edge m
 
 ---
 
-*Last update: 7 April 2023*
+*Last update: 8 April 2023*
