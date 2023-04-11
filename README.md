@@ -236,7 +236,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 <br>
 
-## 🎓 Embedded Design (self-education)
+## 🎓 Embedded Design (self-study)
 
 - Raspberry PI RP2040 [🌐 projects](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
 - Arduino [🌐 projects](https://github.com/JrVerbiest/Arduino-Projects)
@@ -300,4 +300,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 8 April 2023*
+*Last update: 11 April 2023*
