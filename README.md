@@ -6,8 +6,6 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn page</b></a></div>
 
-**[🌐 My CV (pdf)](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/Curriculum_Vitae_JRVerbiest.pdf)**
-
 <br>
 
 ## 🛠️ Work Experience
@@ -236,14 +234,6 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 <br>
 
-## 🎓 Embedded Design (self-study)
-
-- Raspberry PI RP2040 [🌐 projects](https://JrVerbiest.github.io/Raspberry-Pi-Pico-Projects/)
-- Arduino [🌐 projects](https://github.com/JrVerbiest/Arduino-Projects)
-- NVIDIA® Jetson Nano™ [🌐 projects](https://github.com/JrVerbiest/Jetson-Nano-Projects).
-
-<br>
-
 ## 📷 Art & Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
@@ -300,4 +290,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 11 April 2023*
+*Last update: 12 April 2023*
