@@ -2,9 +2,9 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a 🔬research project called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn page</b></a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn</b></a></div>
 
 <br>
 
@@ -195,7 +195,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
-  Internship @ Hevrox EMC/Safety services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
+  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
