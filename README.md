@@ -10,7 +10,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment - fixed-term (part-time 30%)  - until 31 August 2023</ins>**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term (part-time 30%)  - until 31 August 2023**.
 
   - Engineering support in scientific research. 
 
@@ -18,7 +18,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
     
     🔨 Software tools: Python, Pandas and NumPy.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment - fixed-term (part-time 50%) - until 31 August 2023 </ins>**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term (part-time 50%) - until 31 August 2023**.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -290,4 +290,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 12 April 2023*
+*Last update: 20 April 2023*
