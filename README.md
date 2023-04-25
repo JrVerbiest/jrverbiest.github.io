@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an engineer with a demonstrated research and industry history. Currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+I am an engineer with a demonstrated research and industry history. I am currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn</b></a></div>
 
@@ -10,7 +10,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term (part-time 30%)  - until 31 August 2023**.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term (part-time 30%)  - until 31 August 2023.
 
   - Engineering support in scientific research. 
 
@@ -18,7 +18,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
     
     🔨 Software tools: Python, Pandas and NumPy.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term (part-time 50%) - until 31 August 2023**.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term (part-time 50%) - until 31 August 2023.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -160,7 +160,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
 
-- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of cancer.
+- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of Cancer.
 
 - **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications.
 
@@ -188,7 +188,7 @@ I am an engineer with a demonstrated research and industry history. Currently wo
     - Human Physiology;
     - Biology and Biochemistry of Human Systems, including Human Biotechnology;
     - Biomedical Measurements and Stimulation;
-    - Transport Phenomena in Biological systems.
+    - Transport Phenomena in Biological Systems.
 
   - Energy engineering: 
     - Finite Elements for magnetic fields and optimisation.
@@ -290,4 +290,4 @@ I am an engineer with a demonstrated research and industry history. Currently wo
 
 ---
 
-*Last update: 20 April 2023*
+*Last update: 25 April 2023*
