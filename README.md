@@ -234,7 +234,7 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 <br>
 
-## 📷 Art & Photography
+## 📷 Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
 
