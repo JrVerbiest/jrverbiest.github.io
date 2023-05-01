@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an engineer with a demonstrated research and industry history. I am currently working as Senior Researcher at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a Researcher-Expert and a Technical Developer at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+I am an electronic engineer with a demonstrated research and industry history. I am currently working as **Senior Researcher** at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn</b></a></div>
 
@@ -10,15 +10,15 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term (part-time 30%)  - until 31 August 2023.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
 
   - Engineering support in scientific research. 
 
-    Task: data pre-processing and cleansing, mainly IMU datasets from gait analysis.
+    Task: data pre-processing and cleansing (mainly IMU datasets from gait analysis).
     
     🔨 Software tools: Python, Pandas and NumPy.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term (part-time 50%) - until 31 August 2023.
+- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -160,9 +160,9 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
 
-- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of Cancer.
+- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of Cancer. Member of one work package.
 
-- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications.
+- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications. Member of two work packages, one as work package leader.
 
 - **Project Antenna design for a medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
@@ -174,11 +174,11 @@ I am an engineer with a demonstrated research and industry history. I am current
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
 
-  Thesis: Design of Antennas used on the Human Body.
+  Thesis: Design of Antennas Used on the Human Body.
 
 - **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
 
-  Thesis: Exposure of Human Blood to an Electromagnetic field and the numerical model.
+  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
 
   In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
 
@@ -290,4 +290,4 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ---
 
-*Last update: 25 April 2023*
+*Last update: 1 May 2023*
