@@ -2,7 +2,7 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-I am an electronic engineer with a demonstrated research and industry history. I am currently working as **Senior Researcher** at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a research project 🔬called Machine Learning @ the Extreme Edge ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform engineering support in scientific research.
+I am an engineer with a demonstrated research and industry history. I am currently working as **Senior Researcher** at the Karel de Grote University of Applied Science and Arts (KdG), where I work on a **research project** 🔬called **Machine Learning @ the Extreme Edge** ([🌐 ML@E2dge](https://mlate2dge.github.io)). Besides, I am a **Researcher-Expert** and a **Technical Developer** at the Faculty of Rehabilitation Sciences, Hasselt University, where I perform **engineering support in scientific research**.
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐 <b>My LinkedIn</b></a></div>
 
@@ -10,11 +10,11 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
+- **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
 
   - Engineering support in scientific research. 
 
-    Task: data pre-processing and cleansing (mainly IMU datasets from gait analysis).
+    Task: data pre-processing and cleansing (mainly IMU data from gait analysis).
     
     🔨 Software tools: Python, Pandas and NumPy.
 
@@ -22,7 +22,7 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
-    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop accurate, energy-efficient, intelligent devices. Starting from a [🌐 case study](https://mlate2dge.github.io/case%20study/), a (regression) model is developed using embedded machine learning. Besides, strategies are formulated to improve the model design, data preprocessing, and machine learning pipeline.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
@@ -57,12 +57,13 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
-  Responsible for: 
+  Project ownership from start to finish. Responsible for: 
 
   - Formulation of technical solutions; 
-  - Communication with customers and coordination of technicians, partners, colleagues and suppliers involved in the project; 
+  - Communication with the stakeholders (customers, partners and suppliers) involved in the project;
+  - Coordination of technicians and colleagues ; 
   - Providing input for technical specifications, requirements and documentation.
-
+  
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
   - ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
@@ -71,9 +72,11 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
     Comprising: 
 
-    - Sub-system analog electronic design using COTS high power operational amplifier; 
-    - PCB design (Altium Designer); 
-    - simulation design (software tool: TINA &LTSpice).
+    - Sub-system electronic design using COTS high power operational amplifier; 
+
+    - PCB design; 
+
+    - electronic simulation.
 
   - ***@ Bruker micro-CT, Kontich, Belgium.*** 
 
@@ -82,12 +85,20 @@ I am an electronic engineer with a demonstrated research and industry history. I
     Comprising: 
     
     - Architecture definition
+    
     - System and sub-system technical requirement definition and design; 
+    
     - Integration and testing; 
+    
     - Contact person for electrical and electronic suppliers; 
+    
     - Stepper motor control (with encoder) using COTS (Nanotec) drivers; 
+    
     - Firmware design for low-level control and monitoring of the instrument; 
-    - PCB design (Altium Designer).
+    
+    - PCB design.
+    
+    🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -102,12 +113,12 @@ I am an electronic engineer with a demonstrated research and industry history. I
   - System test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
   - IP generation - [🌐 System and method for determining a quantity of magnetic particles](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
-  - Provide input technology, R&D, budget, roadmap, and planning for projects (IWT) and business plan (venture capital); 
+  - Provide input technology roadmap, R&D, budget, and planning, this for projects (IWT) &business plan (venture capital); 
   - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
-  Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages (one as work package leader).
+  Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
@@ -201,17 +212,19 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
 <br>
 
-## 🎓 Nanodegrees
+## 🎓 Udacity Nanodegrees & Courses
 
-- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)), 2022
+- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf))
 
-- [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)), 2019
+- [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf))
 
-- [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/), 2019
+- [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
 
-- [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)), 2018
+- [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf))
 
-- [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)), 2018
+- [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf))
+
+- [Practical Statistics for Data Science](https://www.udacity.com/course/statistics-for-data-science--cd0005)
 
 <br>
 
@@ -290,4 +303,4 @@ I am an electronic engineer with a demonstrated research and industry history. I
 
 ---
 
-*Last update: 1 May 2023*
+*Last update: 7 May 2023*
