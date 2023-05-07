@@ -14,11 +14,11 @@ I am an engineer with a demonstrated research and industry history. I am current
 
   - Engineering support in scientific research. 
 
-    Task: data pre-processing and cleansing (mainly IMU data from gait analysis).
+    Task: data pre-processing, cleansing & data-analyse (mainly IMU data from gait analysis).
     
     🔨 Software tools: Python, Pandas and NumPy.
 
-- **Senior Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -113,7 +113,7 @@ I am an engineer with a demonstrated research and industry history. I am current
   - System test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
   - IP generation - [🌐 System and method for determining a quantity of magnetic particles](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
-  - Provide input technology roadmap, R&D, budget, and planning, this for projects (IWT) &business plan (venture capital); 
+  - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
