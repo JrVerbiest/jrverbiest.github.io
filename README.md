@@ -48,7 +48,6 @@ I am an engineer with a demonstrated research and industry history. I am current
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
     Tasks: 
-
     - System engineering support;
     - PCB design, assembly and testing;
     - R&D wireless power transfer (WPT). 
@@ -58,7 +57,6 @@ I am an engineer with a demonstrated research and industry history. I am current
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
   Project ownership from start to finish. Responsible for: 
-
   - Formulation of technical solutions; 
   - Communication with the stakeholders (customers, partners and suppliers) involved in the project;
   - Coordination of technicians and colleagues ; 
@@ -71,11 +69,8 @@ I am an engineer with a demonstrated research and industry history. I am current
     Project with an application in Electron Paramagnetic Resonance (EPR).
 
     Comprising: 
-
     - Sub-system electronic design using COTS high power operational amplifier; 
-
     - PCB design; 
-
     - electronic simulation.
 
   - ***@ Bruker micro-CT, Kontich, Belgium.*** 
@@ -83,19 +78,12 @@ I am an engineer with a demonstrated research and industry history. I am current
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
     Comprising: 
-    
     - Architecture definition
-    
     - System and sub-system technical requirement definition and design; 
-    
     - Integration and testing; 
-    
     - Contact person for electrical and electronic suppliers; 
-    
     - Stepper motor control (with encoder) using COTS (Nanotec) drivers; 
-    
     - Firmware design for low-level control and monitoring of the instrument; 
-    
     - PCB design.
     
     🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
@@ -105,7 +93,6 @@ I am an engineer with a demonstrated research and industry history. I am current
   Responsible for the technology development of an ex-vivo tool for quantifying magnetic nanoparticles.
 
   Comprising: 
-
   - Architecture definition and (sub-)system technical requirement definition; 
   - Project definition and follow-up; 
   - Contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); 
@@ -127,7 +114,6 @@ I am an engineer with a demonstrated research and industry history. I am current
   Responsible for translation of prototype to a product; 
 
   Comprising:
-
   - Contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
   - Project follow-up; 
   - Stock and order flow-up (‘procurement’); 
@@ -143,7 +129,6 @@ I am an engineer with a demonstrated research and industry history. I am current
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
-
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
@@ -151,7 +136,6 @@ I am an engineer with a demonstrated research and industry history. I am current
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
   Other activities: 
-
   - Treasurer IEEE Student Branch Leuven (2003-2005);
   - Supervision projects in the course Wireless and Mobile Communications;
   - Supervised different (Master's) thesis.
@@ -159,7 +143,6 @@ I am an engineer with a demonstrated research and industry history. I am current
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
   Task:
-  
   - Solves component failure by lightning (surge immunity);
   - Feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
