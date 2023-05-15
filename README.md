@@ -197,17 +197,12 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ## 🎓 Udacity Nanodegrees & Courses
 
+- [Practical Statistics for Data Science](https://www.udacity.com/course/statistics-for-data-science--cd0005) (Ongoing)
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf))
-
 - [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf))
-
 - [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
-
 - [AI Programming with Python, introduction to neural networks](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf))
-
 - [Introduction to Programming Nanodegree](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/) ([Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf))
-
-- [Practical Statistics for Data Science](https://www.udacity.com/course/statistics-for-data-science--cd0005)
 
 <br>
 
@@ -286,4 +281,4 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ---
 
-*Last update: 7 May 2023*
+*Last update: 15 May 2023*
