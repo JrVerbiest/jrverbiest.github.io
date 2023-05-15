@@ -197,7 +197,7 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ## 🎓 Udacity Nanodegrees & Courses
 
-- [Practical Statistics for Data Science](https://www.udacity.com/course/statistics-for-data-science--cd0005) (Ongoing)
+- [Practical Statistics for Data Science](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science) (Ongoing)
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf))
 - [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf))
 - [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
