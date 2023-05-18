@@ -12,8 +12,10 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 - **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
 
-  - Task: Engineering support in research. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronization measures.
+  Task: Engineering support in research. 
 
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronization measures.
+  
     🔨 Software tools: Python, Pandas and NumPy.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
@@ -62,7 +64,7 @@ I am an engineer with a demonstrated research and industry history. I am current
   
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
-  - ***@ Bruker Biospin, Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.*** 
+  - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
 
     Project with an application in Electron Paramagnetic Resonance (EPR).
 
@@ -71,7 +73,7 @@ I am an engineer with a demonstrated research and industry history. I am current
     - PCB design; 
     - electronic simulation.
 
-  - ***@ Bruker micro-CT, Kontich, Belgium.*** 
+  - ***@ Bruker micro-CT*** - *Kontich, Belgium.*
 
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
