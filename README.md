@@ -12,12 +12,10 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 - **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
 
-  - Engineering support in scientific research. 
+  - Task: Engineering support in research. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronization measures.
 
-    Task: data pre-processing, cleansing & data-analyse (mainly IMU data from gait analysis).
-    
     🔨 Software tools: Python, Pandas and NumPy.
-
+  
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
@@ -281,4 +279,4 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ---
 
-*Last update: 15 May 2023*
+*Last update: 18 May 2023*
