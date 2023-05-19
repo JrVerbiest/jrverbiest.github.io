@@ -31,12 +31,9 @@ I am an engineer with a demonstrated research and industry history. I am current
   
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
   
-    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
-  
-    Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). 
-  
-    KdG was responsible for the (IoT) platform (system integration, software and firmware design).
+    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO).
     
+    KdG was responsible for the (IoT) platform (system integration, software and firmware design).
     This research is funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
@@ -281,4 +278,4 @@ I am an engineer with a demonstrated research and industry history. I am current
 
 ---
 
-*Last update: 19 May 2023*
+*Last update: 19 May 2023*``
