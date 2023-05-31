@@ -2,15 +2,13 @@
 
 #### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
 
-<br>
-
 ## 🛠️ Work Experience
 
 - **Researcher - Expert** & **Technical Developer** @ Hasselt University - Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
 
   Task: Engineering support in research. 
 
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronization measures.
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronisation measures.
   
     🔨 Software tools: Python, Pandas and NumPy.
   
@@ -274,4 +272,4 @@
 
 ---
 
-*Last update: 30 May 2023*``
+*Last update: 31 May 2023*``
