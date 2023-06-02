@@ -8,7 +8,7 @@
 
   Task: Engineering support in research. 
 
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor) and gait-beat synchronisation measures.
+  - Involved in the FWO-funded project from Dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
     🔨 Software tools: Python, Pandas and NumPy.
   
@@ -272,4 +272,4 @@
 
 ---
 
-*Last update: 31 May 2023*``
+*Last update: 2 June 2023*
