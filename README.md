@@ -8,7 +8,7 @@
 
   Task: Engineering support in research. 
 
-  - Involved in the FWO-funded project from Dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
     🔨 Software tools: Python, Pandas and NumPy.
   
@@ -141,7 +141,7 @@
 
 ## 🔬 PET Project - Embedded Machine Learning 
 
-*PET project - Activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or important.*
+*PET project - Activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or essential.*
 
 Dust off. and improve my embedded design skills, combined with machine learning. Hardware: [Raspberry Pi Pico (RP2040)](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) , [Arduino (nRF52840)](https://github.com/JrVerbiest/Arduino-Projects) and [NVIDIA® Jetson Nano™](https://github.com/JrVerbiest/Jetson-Nano-Projects)
 
