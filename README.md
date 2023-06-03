@@ -139,6 +139,20 @@
 
 <br>
 
+## 🔬 PET Project - Embedded Machine Learning 
+
+Dust off. and further improve my embedded design skills, combining this with embedded machine learning.
+
+[Raspberry Pi Pico (RP2040) Projects](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) 
+
+[Arduino (nRF52840) Projects](https://github.com/JrVerbiest/Arduino-Projects)
+
+[NVIDIA® Jetson Nano™ Projects](https://github.com/JrVerbiest/Jetson-Nano-Projects)
+
+*PET project: activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or important.* 
+
+<br>
+
 ## 🔬Research projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
@@ -272,4 +286,4 @@
 
 ---
 
-*Last update: 2 June 2023*
+*Last update: 3 June 2023*
