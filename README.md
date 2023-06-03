@@ -279,8 +279,6 @@ Dust off. and improve my embedded design skills, combined with machine learning.
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-<br>
-
 ---
 
 *Last update: 3 June 2023*
