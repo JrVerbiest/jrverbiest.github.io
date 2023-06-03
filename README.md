@@ -146,7 +146,6 @@
 Dust off. and improve my embedded design skills, combined with machine learning. Hardware: [Raspberry Pi Pico (RP2040)](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) , [Arduino (nRF52840)](https://github.com/JrVerbiest/Arduino-Projects) and [NVIDIA® Jetson Nano™](https://github.com/JrVerbiest/Jetson-Nano-Projects)
 
 - [Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
-- Acoustic Scene and Event Classification
 
 <br>
 
