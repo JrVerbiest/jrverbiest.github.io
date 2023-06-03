@@ -141,15 +141,12 @@
 
 ## 🔬 PET Project - Embedded Machine Learning 
 
-Dust off. and further improve my embedded design skills, combining this with embedded machine learning.
+*PET project - Activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or important.*
 
-[Raspberry Pi Pico (RP2040) Projects](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) 
+Dust off. and improve my embedded design skills, combined with machine learning. Hardware: [Raspberry Pi Pico (RP2040)](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) , [Arduino (nRF52840)](https://github.com/JrVerbiest/Arduino-Projects) and [NVIDIA® Jetson Nano™](https://github.com/JrVerbiest/Jetson-Nano-Projects)
 
-[Arduino (nRF52840) Projects](https://github.com/JrVerbiest/Arduino-Projects)
-
-[NVIDIA® Jetson Nano™ Projects](https://github.com/JrVerbiest/Jetson-Nano-Projects)
-
-*PET project: activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or important.* 
+- [Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
+- Acoustic Scene and Event Classification
 
 <br>
 
@@ -202,7 +199,7 @@ Dust off. and further improve my embedded design skills, combining this with emb
 
 ## 🎓 Udacity Nanodegrees & Courses
 
-- [Practical Statistics for Data Science](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science) (Ongoing)
+- [Practical Statistics for Data Science](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science) ([Certificate](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f))
 - [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree) ([Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf))
 - [Machine Learning Engineer Nanodegree](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/) ([Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf))
 - [Data Scientist Nanodegree: Machine Learning for Data Scientists](https://jrverbiest.github.io/Udacity_Data_Scientist_Nanodegree/)
