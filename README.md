@@ -143,7 +143,7 @@
 
 *PET project - Activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or essential.*
 
-Dust off. and improve my embedded design skills, combined with machine learning. Hardware: [Raspberry Pi Pico (RP2040)](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) , [Arduino (nRF52840)](https://github.com/JrVerbiest/Arduino-Projects) and [NVIDIA® Jetson Nano™](https://github.com/JrVerbiest/Jetson-Nano-Projects)
+Dust off and improve my embedded design skills and combine them with machine learning. Hardware: [Raspberry Pi Pico (RP2040)](https://jrverbiest.github.io/Raspberry-Pi-Pico-Projects/) , [Arduino (nRF52840)](https://github.com/JrVerbiest/Arduino-Projects) and [NVIDIA® Jetson Nano™](https://github.com/JrVerbiest/Jetson-Nano-Projects)
 
 - [Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
 
@@ -280,4 +280,4 @@ Dust off. and improve my embedded design skills, combined with machine learning.
 
 ---
 
-*Last update: 3 June 2023*
+*Last update: 4 June 2023*
