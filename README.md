@@ -20,6 +20,8 @@
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
+    Code: [🌐 Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
+    
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
   
@@ -136,14 +138,6 @@
   Task:
   - Solves component failure by lightning (surge immunity);
   - Feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
-
-<br>
-
-## 🔬 PET Project - Embedded Machine Learning 
-
-*PET project - Activity or goal pursued as a personal favourite rather than because it is generally accepted as necessary or essential.*
-
-- [Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
 
 <br>
 
@@ -278,4 +272,4 @@
 
 ---
 
-*Last update: 4 June 2023*
+*Last update: 5 June 2023*
