@@ -9,7 +9,6 @@
   - ***@ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
     - Engineering support.
-  
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
       🔨 Software tools: Python, Pandas and NumPy.
@@ -21,8 +20,6 @@
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
 
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
-    
-    Code: [🌐 Gait Stride Length Estimation using Embedded Machine Learning](https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning)
     
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
@@ -274,4 +271,4 @@
 
 ---
 
-*Last update: 11 June 2023*
+*Last update: 12 June 2023*
