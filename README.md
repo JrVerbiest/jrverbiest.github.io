@@ -4,21 +4,21 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher - Expert** & **Technical Developer** @ Hasselt University, Belgium - **<ins>Current Employment</ins>** - fixed-term, part-time.
+- **Researcher** & **Technical Developer** @ Hasselt University, Belgium - **<ins>Current Employment</ins>** - fixed-term.
 
   - ***@ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
-    - Engineering support.
+    - Engineering support in scientific research.
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
       🔨 Software tools: Python, Pandas and NumPy.
   
-- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term, part-time.
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
-
+    
     Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
@@ -60,7 +60,7 @@
 
     Project with an application in Electron Paramagnetic Resonance (EPR).
 
-    Comprising: 
+    Comprising:
     - Sub-system electronic design using COTS high power operational amplifier; 
     - PCB design; 
     - electronic simulation.
@@ -69,7 +69,7 @@
 
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
 
-    Comprising: 
+    Comprising:
     - Architecture definition
     - System and sub-system technical requirement definition and design; 
     - Integration and testing; 
@@ -201,18 +201,12 @@
 ## 🎓 Training
 
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
-
 - **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
-
 - **Technology-Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
-
 - **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
-
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
   Course content: Python, incl. Object-Oriented Programming (OOP) (with a small introduction to databases (SQLite) and Django).
-
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
-
 - **Safety procedures and equipment**, One-day training, AR Benelux, 2016.
 
 <br>
@@ -220,7 +214,6 @@
 ## 📷 Photography
 
 - Art Academy Temse, division Bornem (2007-2009)
-
 - Art academy “De Lei”, Leuven (2005-2006) 
 
 <br>
@@ -271,4 +264,4 @@
 
 ---
 
-*Last update: 12 June 2023*
+*Last update: 13 June 2023*
