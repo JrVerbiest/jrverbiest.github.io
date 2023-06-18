@@ -4,7 +4,7 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher** & **Technical Developer** @ Hasselt University, Belgium - **<ins>Current Employment</ins>** - fixed-term.
+- **Researcher** - **Technical Developer** @ Hasselt University, Belgium - **<ins>Current Employment</ins>** - fixed-term.
 
   - ***@ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
@@ -18,8 +18,6 @@
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
-    
-    Research supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences.
     
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
@@ -264,4 +262,4 @@
 
 ---
 
-*Last update: 13 June 2023*
+*Last update: 18 June 2023*
