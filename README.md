@@ -4,16 +4,16 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher** - **Technical Developer** @ Hasselt University, Belgium - **<ins>Current Employment</ins>** - fixed-term.
+- **Researcher** - **Technical Developer** @ Hasselt University, Belgium  - fixed-term.
 
-  - ***@ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
+  - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
     - Engineering support in scientific research.
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
       🔨 Software tools: Python, Pandas and NumPy.
   
-- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - **<ins>Current Employment</ins>** fixed-term.
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
     
@@ -262,4 +262,4 @@
 
 ---
 
-*Last update: 18 June 2023*
+*Last update: 21 July 2023*
