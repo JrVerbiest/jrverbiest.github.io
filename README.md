@@ -1,38 +1,43 @@
 # Joeri R. Verbiest, PhD MSc
 
-#### Engineer ▪️ Researcher - Expert ▪️ Technical Developer
+#### Engineer ▪️ Researcher ▪️ Technical Developer
 
 ## 🛠️ Work Experience
 
-- **Researcher** - **Technical Developer** @ Hasselt University, Belgium  - fixed-term.
+- **Researcher & Technical Developer** @ Hasselt University, Belgium  - fixed-term (part-time).
 
   - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
     - Engineering support in scientific research.
-    - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+    🔨 Software tools: Mainly Python and Pandas.
   
-      🔨 Software tools: Python, Pandas and NumPy.
+  - ***Researcher-Expert @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
+  
+    - As an engineer involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+    Data 
+    🔨 Software tools: Mainly Python, Pandas and NumPy.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
-    
-    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
-    
-    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
+  - Research Projects:
   
+    - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
   
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
+      Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences. 
   
-    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO).
-    
-    KdG was responsible for the (IoT) platform (system integration, software and firmware design).
-    This research is funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
-    
-    Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
-    
-    🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
+      🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
+      - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
+  
+        Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+        
+        Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+        
+        🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
+        
+  
+
+
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
@@ -51,7 +56,7 @@
   - Communication with the stakeholders (customers, partners and suppliers) involved in the project;
   - Coordination of technicians and colleagues ; 
   - Providing input for technical specifications, requirements and documentation.
-  
+
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
   - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
@@ -129,7 +134,7 @@
   - Treasurer IEEE Student Branch Leuven (2003-2005);
   - Supervision projects in the course Wireless and Mobile Communications;
   - Supervised different (Master's) thesis.
-  
+
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium
 
   Task:
@@ -262,4 +267,4 @@
 
 ---
 
-*Last update: 21 July 2023*
+*Last update: 22 July 2023*
