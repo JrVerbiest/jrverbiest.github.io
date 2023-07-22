@@ -4,7 +4,7 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher & Technical Developer** @ Hasselt University, Belgium  - fixed-term (part-time).
+- **Researcher & Technical Developer** @ Hasselt University, Belgium  - fixed-term (part-time) - **current employment**.
 
   - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
@@ -18,23 +18,20 @@
     🔨 Software tools: Mainly Python, Pandas and NumPy.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
-
   - Research Projects:
-  
     - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
   
       Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences. 
   
       🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
-      - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
+    - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
   
-        Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
-        
-        Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
-        
-        🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
-        
+      Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+      
+      Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+      
+      🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
   
 
 
