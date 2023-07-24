@@ -9,20 +9,23 @@
   - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
     - Engineering support in scientific research.
-    🔨 Software tools: Mainly Python and Pandas.
+  
+      🔨 Software tools: Mainly Python and Pandas.
   
   - ***Researcher-Expert @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
   
     - As an engineer involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-    Data 
-    🔨 Software tools: Mainly Python, Pandas and NumPy.
+      Data 
+    
+      🔨 Software tools: Mainly Python, Pandas and NumPy.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
+  
   Research Projects.
   
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
   
-    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences. 
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
   
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
   
@@ -100,15 +103,21 @@
   Responsible for translation of prototype to a product; 
   Comprising:
   - Contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
+
   - Project follow-up; 
+
   - Stock and order flow-up (‘procurement’); 
+
   - Support in tests and measurements; 
+
   - R&D next-generation phase reference generator (IWT O&O project).
+  
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
 
   Achievements: proof of concept and a prototype design.
+
   🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
