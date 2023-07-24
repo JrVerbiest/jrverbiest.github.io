@@ -69,13 +69,20 @@
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
     Comprising:
     - Architecture definition
+    
     - System and sub-system technical requirement definition and design; 
+    
     - Integration and testing; 
+    
     - Contact person for electrical and electronic suppliers; 
+    
     - Stepper motor control (with encoder) using COTS (Nanotec) drivers; 
+    
     - Firmware design for low-level control and monitoring of the instrument; 
+    
     - PCB design.
-    🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
+    
+      🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -102,13 +109,9 @@
   Responsible for translation of prototype to a product; 
   Comprising:
   - Contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
-
   - Project follow-up; 
-
   - Stock and order flow-up (‘procurement’); 
-
   - Support in tests and measurements; 
-
   - R&D next-generation phase reference generator (IWT O&O project).
   
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
