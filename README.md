@@ -8,16 +8,15 @@
 
   - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
-    - Engineering support in scientific research.
+      Engineering support in scientific research.
   
       🔨 Software tools: Mainly Python and Pandas.
   
   - ***Researcher-Expert @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
   
-    - As an engineer involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-      Data 
+    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
     
-      🔨 Software tools: Mainly Python, Pandas and NumPy.
+    🔨 Software tools: Mainly Python, Pandas and NumPy.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
   
@@ -34,7 +33,7 @@
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
-    🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
+    🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
   
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
