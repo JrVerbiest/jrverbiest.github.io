@@ -8,13 +8,15 @@
 
   - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
 
-      Engineering support in scientific research.
+      **Current employment (until 31 December 2023), fixed-term, part-time, 20% FTE.**
+  
+      Period: 1/1/2022 - 31/12/2023. Engineering support in scientific research.
   
       🔨 Software tools: Mainly Python and Pandas.
   
   - ***Researcher-Expert @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
   
-    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+    Period: 1/1/2023 - 31/8/2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
     
     🔨 Software tools: Mainly Python, Pandas and NumPy.
   
@@ -259,4 +261,4 @@
 
 ---
 
-*Last update: 24 July 2023*
+*Last update: 4 Aug 2023*
