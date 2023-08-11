@@ -4,39 +4,34 @@
 
 ## 🛠️ Work Experience
 
-- **Researcher & Technical Developer** @ Hasselt University, Belgium  - fixed-term (part-time)
+- **Technical Developer** @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt University, Belgium  - fixed-term (part-time - 20% FTE) - **current employment**.
 
-  - ***Technical Developer @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
+  Task: (engineering) support in scientific research.
 
-      **Current employment (until 31 December 2023), fixed-term, part-time, 20% FTE.**
-  
-      Period: 1/1/2022 - 31/12/2023. Engineering support in scientific research.
-  
-      🔨 Software tools: Mainly Python and Pandas.
-  
-  - ***Researcher-Expert @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre***
-  
-    Period: 1/1/2023 - 31/8/2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-    
+  🔨 Software tools: Mainly Python and Pandas.
+- **Researcher-Expert** @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt University, Belgium - fixed-term.
+
+  - 1 January 2023 - 31 August 2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+
     🔨 Software tools: Mainly Python, Pandas and NumPy.
-  
+
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
-  
+
   Research Projects.
-  
+
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
-  
+
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
-  
+
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
-  
+
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
-  
+
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
     🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
-  
+
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
@@ -108,7 +103,7 @@
   - Stock and order flow-up (‘procurement’); 
   - Support in tests and measurements; 
   - R&D next-generation phase reference generator (IWT O&O project).
-  
+
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
@@ -261,4 +256,4 @@
 
 ---
 
-*Last update: 4 Aug 2023*
+*Last update: 11 August 2023*
