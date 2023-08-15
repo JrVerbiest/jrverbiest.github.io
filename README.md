@@ -4,12 +4,12 @@
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt University, Belgium  - fixed-term (part-time - 20% FTE) - **current employment**.
+- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time, 20% FTE (contract until 31 December 2023) - **current employment**.
 
   Task: (engineering) support in scientific research.
 
   🔨 Software tools: Mainly Python and Pandas.
-- **Researcher-Expert** @ Faculty Rehabilitation Science, REVAL Rehabilitation Research Centre, Hasselt University, Belgium - fixed-term.
+- **Researcher-Expert** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term.
 
   - 1 January 2023 - 31 August 2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
 
@@ -22,6 +22,8 @@
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
 
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
+
+    Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166) (This article belongs to the MDPI Sensors Special Issue [🌐 Wearable Sensors for Gait, Human Motion Analysis and Health Monitoring](https://www.mdpi.com/journal/sensors/special_issues/9DML2DP267)).
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
@@ -84,7 +86,8 @@
   - Hardware and software integration; 
   - System test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation - [🌐 System and method for determining a quantity of magnetic particles](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - IP generation
+    - Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
 
@@ -220,6 +223,8 @@
 
 ### Articles in International Journals
 
+- Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, Gait Stride Length Estimation Using Embedded Machine Learning, MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
+
 - Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., Sensitive and quantitative pEPR detection system for SPIO nanoparticles, Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
@@ -256,4 +261,4 @@
 
 ---
 
-*Last update: 11 August 2023*
+*Last update: 15 August 2023*
