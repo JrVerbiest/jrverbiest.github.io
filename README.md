@@ -4,7 +4,7 @@
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time, 20% FTE (contract until 31 December 2023) - **current employment**.
+- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time (20% FTE) - **current employment** - contract until 31 December 2023.
 
   Task: (engineering) support in scientific research.
 
@@ -23,7 +23,7 @@
 
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
 
-    Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166) (This article belongs to the MDPI Sensors Special Issue [🌐 Wearable Sensors for Gait, Human Motion Analysis and Health Monitoring](https://www.mdpi.com/journal/sensors/special_issues/9DML2DP267)).
+    Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166), MDPI Sensors Special Issue [🌐 Wearable Sensors for Gait, Human Motion Analysis and Health Monitoring](https://www.mdpi.com/journal/sensors/special_issues/9DML2DP267).
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
