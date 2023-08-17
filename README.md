@@ -8,7 +8,7 @@
 
   Task: (engineering) support in scientific research.
 
-  🔨 Software tools: Mainly Python and Pandas.
+  🔨 Software tools: Python, Pandas and R.
 - **Researcher-Expert** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term.
 
   - 1 January 2023 - 31 August 2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
