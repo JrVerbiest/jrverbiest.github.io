@@ -4,7 +4,7 @@
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time (20% FTE) - **current employment** - contract until 31 December 2023.
+- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time (20% FTE) - **current employment**.
 
   Task: (engineering) support in scientific research.
 
@@ -23,7 +23,7 @@
 
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
 
-    Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166), MDPI Sensors Special Issue [🌐 Wearable Sensors for Gait, Human Motion Analysis and Health Monitoring](https://www.mdpi.com/journal/sensors/special_issues/9DML2DP267).
+    ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
@@ -74,7 +74,7 @@
     - Firmware design for low-level control (ex. stepper motor control (with encoder) using COTS (Nanotec) drivers) and monitoring of the instrument; 
     - PCB design.
     
-    🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
+     🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -86,11 +86,10 @@
   - Hardware and software integration; 
   - System test, validation and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation
-    - Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
-
+  
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
@@ -261,4 +260,4 @@
 
 ---
 
-*Last update: 15 August 2023*
+*Last update: 17 August 2023*
