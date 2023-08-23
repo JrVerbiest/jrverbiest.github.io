@@ -177,7 +177,7 @@
 
   Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
-  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
+  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
 <br>
 
@@ -260,4 +260,4 @@
 
 ---
 
-*Last update: 17 August 2023*
+*Last update: 23 August 2023*
