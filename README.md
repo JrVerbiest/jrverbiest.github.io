@@ -8,7 +8,7 @@
 
 - **Researcher** @ Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
-  Task: ETL (Extract Transform Load) pipeline design for Real-world data (Electronic Health Records, EHR).
+  Task: ETL (Extract Transform Load) pipeline design for Real-world data (RWD).
 
 - **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term & part-time.
 
