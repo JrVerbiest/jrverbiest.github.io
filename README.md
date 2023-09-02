@@ -4,16 +4,27 @@
 
 ## 🛠️ Work Experience
 
-- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium  - fixed-term & part-time (20% FTE) - **current employment**.
+**<ins>Current Employment</ins>**
 
-  Task: (engineering) support in scientific research.
+- **Researcher** @ Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
-  🔨 Software tools: Python, Pandas and R.
+  Task: ETL (Extract Transform Load) pipeline design for Real-world data (Electronic Health Records, EHR).
+
+- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term & part-time.
+
+  Task: (engineering) support in scientific research (time series data exploration and cleaning).
+
+  🔨 Software tools: Python, Pandas, and R.
+  
+  
+
+**<ins>Past Employment</ins>** 
+
 - **Researcher-Expert** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term.
 
-  - 1 January 2023 - 31 August 2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+  - 1 January 2023 - 31 August 2023. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
 
-    🔨 Software tools: Mainly Python, Pandas and NumPy.
+    🔨 Software tools: Mainly Python, Pandas, and NumPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
 
@@ -21,7 +32,7 @@
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
 
-    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, specifically allocated to practice-based research at universities of applied sciences.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, allocated to practice-based research at universities of applied sciences.
 
     ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
@@ -29,10 +40,10 @@
 
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
 
-    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
-    🔨 Tools: Python, Raspberry Pi and Teltonika RUT955 router.
+    🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
 
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
@@ -40,18 +51,18 @@
 
     Tasks: 
     - System engineering support;
-    - PCB design, assembly and testing;
+    - PCB design, assembly, and testing;
     - R&D wireless power transfer (WPT). 
     
-    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python and Altium Designer (PCB design)
+    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python, and Altium Designer (PCB design)
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time
 
   Project ownership from start to finish. Responsible for: 
   - Formulation of technical solutions; 
-  - Communication with the stakeholders (customers, partners and suppliers) involved in the project;
+  - Communication with the stakeholders (customers, partners, and suppliers) involved in the project;
   - Coordination of technicians and colleagues ; 
-  - Providing input for technical specifications, requirements and documentation.
+  - Providing input for technical specifications, requirements, and documentation.
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
 
@@ -67,14 +78,15 @@
 
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
     Comprising:
+    
     - Architecture definition
     - System and sub-system technical requirement definition and design; 
     - Integration and testing; 
     - Contact person for electrical and electronic suppliers; 
-    - Firmware design for low-level control (ex. stepper motor control (with encoder) using COTS (Nanotec) drivers) and monitoring of the instrument; 
+    - Firmware design for low-level control (e.g., stepper motor control (with encoder) using COTS (Nanotec) drivers) and monitoring of the instrument; 
     - PCB design.
     
-     🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation) and Python.
+     🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation), and Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
 
@@ -82,9 +94,9 @@
   Comprising: 
   - Architecture definition and (sub-)system technical requirement definition; 
   - Project definition and follow-up; 
-  - Contact person for solution providers and suppliers (i.e. electrical, electronic and mechanical design houses); 
+  - Contact person for solution providers and suppliers (i.e., electrical, electronic, and mechanical design houses); 
   - Hardware and software integration; 
-  - System test, validation and instrument control; 
+  - System test, validation, and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
   - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
@@ -94,7 +106,7 @@
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
 
-  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
+  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
@@ -106,20 +118,20 @@
   - Support in tests and measurements; 
   - R&D next-generation phase reference generator (IWT O&O project).
 
-  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
+  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
 
   Achievements: proof of concept and a prototype design.
 
-  🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
+  🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
 
-  🔨 Tools: CST Microwave Office, Matlab and Advanced Design System
+  🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
   Other activities: 
   - Treasurer IEEE Student Branch Leuven (2003-2005);
@@ -138,7 +150,7 @@
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
 
-- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis and recommendations. 
+- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. 
 
 - **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for selective detection and Treatment of Cancer. Member of one work package.
 
@@ -171,9 +183,9 @@
     - Transport Phenomena in Biological Systems.
 
   - Energy engineering: 
-    - Finite Elements for magnetic fields and optimisation.
+    - Finite Elements for magnetic fields and optimization.
 
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
@@ -260,4 +272,4 @@
 
 ---
 
-*Last update: 23 August 2023*
+*Last update: 2 September 2023*
