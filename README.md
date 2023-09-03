@@ -6,25 +6,27 @@
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
+- **Researcher** @ Biomedical Research Institute, Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
-  Task: ETL (Extract Transform Load) pipeline design for Real-world data (RWD).
+  - ETL (Extract Transform Load) pipeline design for Real-world data (RWD).
 
-- **Technical Developer** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term & part-time.
+    🔨 Software tools: Python, Pandas, and R.
 
-  Task: (engineering) support in scientific research (time series data exploration and cleaning).
+- **Technical Developer** @ Rehabilitation Research Center (Reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
-  🔨 Software tools: Python, Pandas, and R.
-  
-  
+  - Engineering support in scientific research (time series data exploration and cleansing).
+
+     🔨 Software tools: Python, Pandas, and R.
+     
+     
 
 **<ins>Past Employment</ins>** 
 
-- **Researcher-Expert** @ REVAL Rehabilitation Research Centre,  Faculty Rehabilitation Science, Hasselt University, Belgium - fixed-term.
+- **Researcher-Expert** @ Rehabilitation Research Center (Reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term.
 
   - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
 
-    🔨 Software tools: Mainly Python, Pandas, and NumPy.
+    🔨 Software tools: Python, Pandas, and NumPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
 
@@ -272,4 +274,4 @@
 
 ---
 
-*Last update: 2 September 2023*
+*Last update: 3 September 2023*
