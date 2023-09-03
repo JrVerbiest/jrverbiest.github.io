@@ -8,25 +8,21 @@
 
 - **Researcher** @ Biomedical Research Institute, Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
-  - ETL (Extract Transform Load) pipeline design for Real-world data (RWD).
+  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD).
 
-    🔨 Software tools: Python, Pandas, and R.
+    🔨 Software tools: Python.
 
 - **Technical Developer** @ Rehabilitation Research Center (Reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
   - Engineering support in scientific research (time series data exploration and cleansing).
 
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
+  
      🔨 Software tools: Python, Pandas, and R.
      
      
 
 **<ins>Past Employment</ins>** 
-
-- **Researcher-Expert** @ Rehabilitation Research Center (Reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term.
-
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
-
-    🔨 Software tools: Python, Pandas, and NumPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
 
@@ -103,7 +99,7 @@
   - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 [*🌐 Multifun (Multifunctional nanotechnology for selective detection and treatment of cancer)*](https://cordis.europa.eu/project/rcn/99273/factsheet/en) and co-author of several scientific publications (see publication list).
-  
+
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
