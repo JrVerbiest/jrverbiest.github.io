@@ -6,26 +6,25 @@
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, Research Group Biomedical Data Sciences, Hasselt University, Belgium - fixed-term & part-time.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time.
 
   - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD).
 
     🔨 Software tools: Python.
 
-- **Technical Developer** @ Rehabilitation Research Center (Reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time.
 
   - Engineering support in scientific research (time series data exploration and cleansing).
-
+  
+    🔨 Software tools: Python, Pandas, and Matlab.
+  
   - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
   
-     🔨 Software tools: Python, Pandas, and R.
-     
-     
+    🔨 Software tools: Python, Pandas, and R.
 
 **<ins>Past Employment</ins>** 
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
-
   Research Projects.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
