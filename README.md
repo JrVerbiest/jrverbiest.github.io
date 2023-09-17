@@ -4,7 +4,7 @@
 
 ## About
 
-Electronic Engineer, ir. Ing., with a PhD in Engineering Science with 20+ years of working experience in industry and academia. Turned into a data scientist, data engineer, and machine learning engineer by self-education. 
+Electronic Engineer with a PhD in Engineering Science turned into a data scientist and machine learning engineer by self-education.
 
 Today, I am working part-time at Hasselt University as a Researcher at the Research Group Biomedical Data Sciences and as a Technical developer at the Rehabilitation Research Center.
 
