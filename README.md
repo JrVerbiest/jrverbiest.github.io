@@ -190,15 +190,18 @@
 
 <br>
 ## 🎓 Training & Courses
-- [Practical Statistics for Data Science (GitHub page)](https://github.com/JrVerbiest/Udacity-Practical-Statistics-for-Data-Science), Udacity Course, 2023, [Certificate](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
-- [Machine Learning DevOps Engineer (GitHub page)](https://github.com/JrVerbiest/Udacity_Machine_Learning_DevOps_Engineer_Nanodegree), Udacity Nanodegree, 2022, [Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+
+- Data Architecture Foundations, Udacity Course, 2023, Ongoing
+- Big Data Systems, Udacity Course, 2023, Ongoing
+- [Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects), Udacity Course, 2023, [Certificate](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- [Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects), Udacity Nanodegree, 2022, [Certificate](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
 - **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
 - **Technology-Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
 - **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
-- [Machine Learning Engineer (GitHub page)](https://jrverbiest.github.io/Udacity_Machine_Learning_Engineer_Nanodegree/), Udacity Nanodegree, 2019, [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-- [AI Programming with Python (GitHub page)](https://jrverbiest.github.io/Udacity_AI_Programming_with_Python_Nanodegree/), Udacity Nanodegree, 2018, [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
-- [Introduction to Programming (GitHub page)](https://jrverbiest.github.io/Udacity_Intro_to_Programming_Nanodegree/), Udacity Nanodegree, 2018, [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
+- [Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects), Udacity Nanodegree, 2019, [Certificate](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- [AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects), Udacity Nanodegree, 2018, [Certificate](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- [Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects), Udacity Nanodegree, 2018, [Certificate](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017.
   Course content: Python, incl. Object-Oriented Programming (OOP) and an introduction to SQLite databases and Django.
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
@@ -260,4 +263,4 @@
 
 ---
 
-*Last update: 15 September 2023*
+*Last update: 17 September 2023*
