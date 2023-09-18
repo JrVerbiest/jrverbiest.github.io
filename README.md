@@ -199,8 +199,6 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 <br>
 ## 🎓 Training & Courses
 
-- **Data Architecture Foundations**, Udacity Course, 2023, Ongoing
-- **Big Data Systems**, Udacity Course, 2023, Ongoing
 - **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Course, 2023, [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Nanodegree, 2022, [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
@@ -213,7 +211,7 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 - **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017. Course content: Python, incl. Object-Oriented Programming (OOP) and an introduction to SQLite databases and Django.
 - **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
 - **Safety procedures and equipment**, One-day training, AR Benelux, 2016.
-<br>
+  <br>
 
 ## 📷 Photography
 
@@ -270,4 +268,4 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 
 ---
 
-*Last update: 17 September 2023*
+*Last update: 18 September 2023*
