@@ -4,7 +4,7 @@
 
 ## About
 
-Electronic Engineer with a PhD in Engineering Science.
+Electronic Engineer (ir., Ing.) with a PhD in Engineering Science.
 
 Today, I am working part-time at Hasselt University as a Researcher at the Research Group Biomedical Data Sciences and as a Technical developer at the Rehabilitation Research Center.
 
@@ -16,7 +16,7 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 
 - **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time.
 
-  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD).
+  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case BELTRIMS (Belgian Treatments In Multiple Sclerosis). 
 
     🔨 Software tools: Python.
 
