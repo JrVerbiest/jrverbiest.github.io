@@ -4,7 +4,7 @@
 
 ## About
 
-Electronic Engineer with a PhD in Engineering Science turned into a data scientist and machine learning engineer by self-education.
+Electronic Engineer with a PhD in Engineering Science.
 
 Today, I am working part-time at Hasselt University as a Researcher at the Research Group Biomedical Data Sciences and as a Technical developer at the Rehabilitation Research Center.
 
@@ -268,4 +268,4 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 
 ---
 
-*Last update: 18 September 2023*
+*Last update: 21 September 2023*
