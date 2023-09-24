@@ -4,9 +4,7 @@
 
 ## About
 
-Electronic Engineer (ir., Ing.) with a PhD in Engineering Science.
-
-Today, I am working part-time at Hasselt University as a Researcher at the Research Group Biomedical Data Sciences and as a Technical developer at the Rehabilitation Research Center.
+Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University as a Researcher (50%) at the Research Group Biomedical Data Sciences and as a Technical developer (20%) at the Rehabilitation Research Center.
 
 <br>
 
@@ -14,13 +12,13 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%).
 
   - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case BELTRIMS (Belgian Treatments In Multiple Sclerosis). 
 
     🔨 Software tools: Python.
 
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - fixed-term & part-time (20%).
 
   - Engineering support in scientific research (time series data exploration and cleansing).
   
@@ -268,4 +266,4 @@ Today, I am working part-time at Hasselt University as a Researcher at the Resea
 
 ---
 
-*Last update: 21 September 2023*
+*Last update: 23 September 2023*
