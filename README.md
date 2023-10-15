@@ -154,7 +154,7 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ## 🔬Research projects
 
-- [**🌐 MLOps for Federated Embedded Machine Learning**](https://github.com/JrVerbiest/MLOps-for-Federated-Embedded-Machine-Learning/tree/main) - Personal Research Project. 
+- **[🌐 MLOps for Federated Embedded Machine Learning](https://github.com/JrVerbiest/MLOps-for-Federated-Embedded-Machine-Learning/tree/main)** - Personal Research Project. 
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
 
