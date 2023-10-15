@@ -24,7 +24,7 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
   
     🔨 Software tools: Python, Pandas, and Matlab.
   
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronization measures.
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
     🔨 Software tools: Python, Pandas, and R.
 
@@ -35,7 +35,7 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
 
-    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices. Funding by the Flemish government, allocated to practice-based research at universities of applied sciences.
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
 
     ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
@@ -44,10 +44,11 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
 
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+    
     ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
     🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
-
+  
 - **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
@@ -266,4 +267,4 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 30 September 2023*
+*Last update: 15 October 2023*
