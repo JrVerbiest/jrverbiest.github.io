@@ -12,13 +12,13 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium - **part-time (50%), fixed-term**.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium - **part-time (50%) & fixed-term**.
 
   - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case healthdata.be (Sciensano) - Belgian National Data Infrastructure for Multiple Sclerose - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
 
     🔨 Software tools: Python.
 
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (20%), fixed-term - replacement contract -**.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (20%) & fixed-term (replacement contract)**.
 
   - Engineering support in scientific research (time series data exploration and cleansing).
   
@@ -30,6 +30,8 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 **<ins>Past Employment</ins>** 
 
+- **Researcher Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (10%) & fixed-term**.
+  
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
   Research Projects.
 
@@ -151,6 +153,8 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 <br>
 
 ## 🔬Research projects
+
+- [**🌐 MLOps for Federated Embedded Machine Learning**](https://github.com/JrVerbiest/MLOps-for-Federated-Embedded-Machine-Learning/tree/main) - Personal Research Project. 
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
 
