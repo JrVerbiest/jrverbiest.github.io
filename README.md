@@ -154,8 +154,6 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ## 🔬Research projects
 
-- **[🌐 Federated Embedded Machine Learning](https://github.com/JrVerbiest/Federated-Embedded-Machine-Learning/tree/main)** - PET Project. 
-
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
 
 - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. 
