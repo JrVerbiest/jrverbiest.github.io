@@ -1,10 +1,8 @@
 # Joeri R. Verbiest, PhD MSc
 
-#### Researcher ▪️ Technical Developer
-
 ## About
 
-Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University as a Researcher (50%) at the Research Group Biomedical Data Sciences and as a Technical developer (20%) at the Rehabilitation Research Center.
+Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University as a Researcher (50%) at the Research Group Biomedical Data Sciences and as a Technical Developer (20%) at the Rehabilitation Research Center.
 
 <br>
 
@@ -14,9 +12,9 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 - **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium - **part-time (50%) & fixed-term**.
 
-  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case healthdata.be (Sciensano) - Belgian National Data Infrastructure for Multiple Sclerose - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
+  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerose, BELTRIMS (Belgian Treatments In Multiple Sclerosis).
 
-    🔨 Software tools: Python.
+    🔨 Software tools: Python, Pandas.
 
 - **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (20%) & fixed-term (replacement contract)**.
 
@@ -30,9 +28,9 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 **<ins>Past Employment</ins>** 
 
-- **Researcher Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (10%) & fixed-term**.
+- **Researcher Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term.
   
-- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - fixed-term.
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term.
   Research Projects.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
@@ -112,7 +110,7 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
 
-  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyzer, power meter, signal generator and oscilloscope
+  🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
 - **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
 
@@ -189,29 +187,22 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
     - Transport Phenomena in Biological Systems.
 
   - Energy engineering: 
-    - Finite Elements for magnetic fields and optimization.
+    - Finite Elements for magnetic fields and optimisation.
 
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialization telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
 <br>
-## 🎓 Training & Courses
+## 🎓 Udacity
 
-- **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Course, 2023, [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
-- **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Nanodegree, 2022, [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
-- **Klinische Ganganalyse in Neurologische Populaties**, UAntwerpen, 2021
-- **Kinesitherapie op afstand**, CHaT UAntwerpen, 2021
-- **Technology-Assisted Upper Limb Rehabilitation in Neurological Conditions**, SHaRe UHasselt, 2021.
-- **Technology-Assisted Rehabilitation for Musculoskeletal Diseases, training**, SHaRe UHasselt, 2020.
-- **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Nanodegree, 2019, [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-- **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Nanodegree, 2018, [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
-- **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Udacity Nanodegree, 2018, [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
-- **Learn to program with Python**, Syntra Antwerpen & Vlaams Brabant, Mechelen, Belgium, 2017. Course content: Python, incl. Object-Oriented Programming (OOP) and an introduction to SQLite databases and Django.
-- **EMC PCB Design**, One-day course, Canrinus Consultancy, Netherlands, 2016.
-- **Safety procedures and equipment**, One-day training, AR Benelux, 2016.
+- **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+- **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
   <br>
 
 ## 📷 Photography
@@ -269,4 +260,4 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 16 October 2023*
+*Last update: 30 October 2023*
