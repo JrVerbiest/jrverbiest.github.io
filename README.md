@@ -198,6 +198,7 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 <br>
 ## 🎓 Udacity
 
+- **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
 - **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
@@ -260,4 +261,4 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 30 October 2023*
+*Last update: 31 October 2023*
