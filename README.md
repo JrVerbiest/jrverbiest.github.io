@@ -2,19 +2,20 @@
 
 ## About
 
-Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University as a Researcher (50%) at the Research Group Biomedical Data Sciences and as a Technical Developer (20%) at the Rehabilitation Research Center.
+Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University, 50% as a Researcher at the Research Group Biomedical Data Sciences and 20% as a Technical Developer at the Rehabilitation Research Center.
 
 ## 🛠️ Work Experience
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium - **part-time (50%) & fixed-term**.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium. Part-time (50%) and fixed-term contract.
 
-  - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerose, BELTRIMS (Belgian Treatments In Multiple Sclerosis).
+    Tasks: 
+    - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerose, BELTRIMS (Belgian Treatments In Multiple Sclerosis).
+    
+      🔨 Software tools: Python, Pandas.
 
-    🔨 Software tools: Python, Pandas.
-
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - **part-time (20%) & fixed-term (replacement contract)**.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium. Part-time (20%) and fixed-term replacement contract.
 
   - Engineering support in scientific research (time series data exploration and cleansing).
   
