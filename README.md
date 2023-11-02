@@ -4,8 +4,6 @@
 
 Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University as a Researcher (50%) at the Research Group Biomedical Data Sciences and as a Technical Developer (20%) at the Rehabilitation Research Center.
 
-<br>
-
 ## 🛠️ Work Experience
 
 **<ins>Current Employment</ins>**
@@ -196,15 +194,18 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
 
 <br>
+
 ## 🎓 Udacity
 
+- **[Data Engineering with Microsoft Azure](https://github.com/JrVerbiest/Udacity-Data-Engineering-with-Microsoft-Azure)**, Nanodegree (Ongoing)
 - **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
 - **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
 - **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 - **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 - **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
-  <br>
+  
+<br>
 
 ## 📷 Photography
 
@@ -261,4 +262,4 @@ Engineer, ir. Ing., with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 31 October 2023*
+*Last update: 2 November 2023*
