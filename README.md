@@ -10,7 +10,6 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 - **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium. Part-time (50%) and fixed-term contract.
 
-    Tasks: 
     - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerose, BELTRIMS (Belgian Treatments In Multiple Sclerosis).
     
       🔨 Software tools: Python, Pandas.
@@ -20,14 +19,13 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
   - Engineering support in scientific research (time series data exploration and cleansing).
   
     🔨 Software tools: Python, Pandas, and Matlab.
-  
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-  
-    🔨 Software tools: Python, Pandas, and R.
 
 **<ins>Past Employment</ins>** 
 
 - **Researcher Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term.
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+  
+    🔨 Software tools: Python, Pandas, and R.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term.
   Research Projects.
@@ -263,4 +261,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 2 November 2023*
+*Last update: 3 November 2023*
