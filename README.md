@@ -16,7 +16,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 - **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium. Part-time (20%) and fixed-term replacement contract.
 
-  - Engineering support in scientific research (time series data exploration and cleansing).
+  - Engineering support in scientific research (time series data exploration, analyse and cleansing).
   
     🔨 Software tools: Python, Pandas, and Matlab.
 
