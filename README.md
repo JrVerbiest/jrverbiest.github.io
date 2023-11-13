@@ -2,7 +2,7 @@
 
 ## About
 
-Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University, 50% as a Researcher at the Research Group Biomedical Data Sciences and 20% as a Technical Developer at the Rehabilitation Research Center.
+Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University, 50% at the Research Group Biomedical Data Sciences (as a Researcher), and 20% at the Rehabilitation Research Center (as a Technical Developer).
 
 ## 🛠️ Work Experience
 
@@ -16,7 +16,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 - **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium. Part-time (20%) and fixed-term replacement contract.
 
-  - Engineering support in scientific research (time series data exploration, analyse and cleansing).
+  - Engineering support in scientific research (time series data exploration, data analysis and data cleansing).
   
     🔨 Software tools: Python, Pandas, and Matlab.
 
@@ -260,4 +260,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 10 November 2023*
+*Last update: 13 November 2023*
