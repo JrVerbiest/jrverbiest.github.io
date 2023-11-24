@@ -196,6 +196,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ## 🎓 Udacity
 
+- **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
 - **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
 - **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
 - **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
@@ -203,6 +204,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 - **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 - **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
   
+
 <br>
 
 ## 📷 Photography
@@ -260,4 +262,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 13 November 2023*
+*Last update: 24 November 2023*
