@@ -2,7 +2,9 @@
 
 ## About
 
-Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University, 50% at the Research Group Biomedical Data Sciences (as a Researcher), and 20% at the Rehabilitation Research Center (as a Technical Developer).
+Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I am working part-time (70%) at Hasselt University, 50% at the Research Group Biomedical Data Sciences (as a Researcher), and 20% at the Rehabilitation Research Center (as a Technical Developer). Besides, I am continuously educating myself to become a data wizard, going from data science and data engineering to (embedded) machine learning and deep learning.
+
+<br>
 
 ## 🛠️ Work Experience
 
@@ -16,16 +18,18 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 - **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium. Part-time (20%) and fixed-term replacement contract.
 
-  - Engineering support in scientific research (time series data exploration, data analysis and data cleansing). The data is mainly motion (gait, IMU sensors) and audio. 
+  - Engineering support. 
   
-    🔨 Software tools: Python, Pandas, and Matlab.
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+  
+    🔨 Software tools: Python and Pandas.
 
 **<ins>Past Employment</ins>** 
 
-- **Researcher Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term.
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term.
+  - Involved in scientific research.
   
-    🔨 Software tools: Python, Pandas, and R.
+    🔨 Software tools: Python and Pandas.
   
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term.
   Research Projects.
@@ -262,4 +266,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 24 November 2023*
+*Last update: 1 December 2023*
