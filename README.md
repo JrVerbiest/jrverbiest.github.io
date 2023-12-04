@@ -10,7 +10,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/nl/instituten/biomed/immunologie/biomedical-data-sciences), Hasselt University, Belgium. Part-time (50%) and fixed-term contract.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium. Part-time (50%) and fixed-term contract.
 
     - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerosis - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
     
