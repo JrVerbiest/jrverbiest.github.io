@@ -113,7 +113,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
-- **Product Generation Engineer** @ NMDG, Leuven, Belgium - Full-time
+- **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time
 
   Responsible for translation of prototype to a product; 
   Comprising:
@@ -266,4 +266,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 4 December 2023*
+*Last update: 9 December 2023*
