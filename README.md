@@ -1,9 +1,5 @@
 # Joeri R. Verbiest, PhD MSc
 
-## About
-
-Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I work part-time at Hasselt University (Research Group Biomedical Data Sciences and at the Rehabilitation Research Center).
-
 <br>
 
 ## 🛠️ Work Experience
