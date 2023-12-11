@@ -2,7 +2,7 @@
 
 ## About
 
-Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I work part-time (70%) at Hasselt University, 50% at the Research Group Biomedical Data Sciences, and 20% at the Rehabilitation Research Center. Besides, I continuously educate myself, going from data science and data engineering to (embedded) machine learning and deep learning.
+Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia. Today, I work part-time at Hasselt University (Research Group Biomedical Data Sciences and at the Rehabilitation Research Center).
 
 <br>
 
@@ -266,4 +266,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 9 December 2023*
+*Last update: 11 December 2023*
