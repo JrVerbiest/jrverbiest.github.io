@@ -10,7 +10,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - Fixed-term part-time (30%) contract.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - Fixed-term part-time contract.
 
     - Data analytics and data processing. 
     - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD)
@@ -18,7 +18,7 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
     
     🔨 Tools: Python, Pandas and cloud computing platform Azure.
     
-- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - Fixed-term part-time (20%) contract.
+- **Non-statutory academic staff** @ Faculty Rehabilitation Sciences, Hasselt University, Belgium - Fixed-term part-time contract.
 
 **<ins>Past Employment</ins>** 
 
