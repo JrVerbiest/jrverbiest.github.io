@@ -1,29 +1,34 @@
 # Joeri R. Verbiest, PhD MSc
 
+## About
+
+Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia, today, working part-time at the UHasselt.
+
 <br>
 
 ## 🛠️ Work Experience
 
 **<ins>Current Employment</ins>**
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium. Part-time.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - Fixed-term part-time (30%) contract.
 
-    - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD), use case: Belgian National Data Infrastructure for Multiple Sclerosis - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
+    - Data analytics and data processing. 
+    - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD)
+      - Use case: Belgian National Data Infrastructure for Multiple Sclerosis - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
     
-      🔨 Software tools: Python, Pandas.
-
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium. Part-time (replacement contract).
-
-  - Engineering support. 
-  
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-  
-    🔨 Software tools: Python and Pandas.
+    🔨 Tools: Python, Pandas and cloud computing platform Azure.
+    
+- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - Fixed-term part-time (20%) contract.
 
 **<ins>Past Employment</ins>** 
 
-- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term.
-  - Involved in scientific research.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term (replacement contract).
+  
+  - Engineering support in scientific research.
+  
+- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term contract.
+  
+  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
   
     🔨 Software tools: Python and Pandas.
   
@@ -119,7 +124,7 @@
   - Support in tests and measurements; 
   - R&D next-generation phase reference generator (IWT O&O project).
 
-  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyzer.
+  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
 - **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
 
@@ -262,4 +267,4 @@
 
 ---
 
-*Last update: 11 December 2023*
+*Last update: 1 January 2024*
