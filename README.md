@@ -2,7 +2,7 @@
 
 ## About
 
-Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working experience in industry and academia, today, working part-time at the UHasselt.
+I am an engineer with a PhD in Engineering Science and more than two decades of experience in both industry and academia. Since 2017, I have been self-educating myself to make a career transition into data science and machine learning. Over the last few years, I have applied my data science and machine learning knowledge and skills to various projects. I am determined to enhance my expertise and knowledge in data engineering using Microsoft Azure, and I am excited to see where this journey will take me next.
 
 <br>
 
@@ -14,7 +14,8 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
     - Data analytics and data processing. 
     - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD)
-      - Use case: Belgian National Data Infrastructure for Multiple Sclerosis - BELTRIMS (Belgian Treatments In Multiple Sclerosis).
+    
+    Involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project.
     
     🔨 Tools: Python, Pandas and cloud computing platform Azure.
     
@@ -267,4 +268,4 @@ Engineer (ir. Ing.) with a PhD in Engineering Science and 20+ years of working e
 
 ---
 
-*Last update: 1 January 2024*
+*Last update: 3 February 2024*
