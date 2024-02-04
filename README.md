@@ -2,7 +2,7 @@
 
 ## About
 
-I am an engineer with a PhD in Engineering Science and more than two decades of experience in both industry and academia. Since 2017, I have been self-educating myself to make a career transition into data science and machine learning. Over the last few years, I have applied my data science and machine learning knowledge and skills to various projects. I am determined to enhance my expertise and knowledge in data engineering using Microsoft Azure, and I am excited to see where this journey will take me next.
+I am an engineer with a PhD in Engineering Science and more than two decades of experience in both industry and academia. Since 2017, I have been self-educating myself to make a career transition into data science and machine learning. Over the last few years, I have applied my data science and machine learning knowledge and skills to various projects. I am determined to enhance my expertise and knowledge in data engineering using Microsoft Azure, and I am excited to see where this journey will take me.
 
 <br>
 
@@ -268,4 +268,4 @@ I am an engineer with a PhD in Engineering Science and more than two decades of 
 
 ---
 
-*Last update: 3 February 2024*
+*Last update: 4 February 2024*
