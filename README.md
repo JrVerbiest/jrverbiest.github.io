@@ -2,9 +2,9 @@
 
 ## About
 
-I have an MSc and a PhD in Engineering, and I have over 20 years of experience in both academia and industry. At present, I work part-time (50%) at UHasselt.
+I have over 20 years of industry and academic experience in Engineering, holding both an MSc and PhD. I am on a part-time (50%) sabbatical leave and working part-time (50%) as a researcher at UHasselt
 
-Since 2017, I have been self-educating myself to transition into the fields of data engineering, data science, and machine learning. In recent years, I have applied my knowledge and skills in these areas to various projects. I am eager to further enhance my expertise and knowledge in data engineering, data science, and machine learning by using the Microsoft Azure Cloud environment and tools like Azure Databricks. I am excited to see where this journey will take me.
+Since 2017, I have been self-educating myself to transition into data engineering, data science, and machine learning. In recent years, I have applied my knowledge and skills in these areas to various projects. I am eager to enhance further my expertise and knowledge in data engineering, data science, and machine learning using the Microsoft Azure Cloud environment and tools like Azure Databricks. I am excited to see where this journey will take me.
 
 <br>
 
@@ -270,4 +270,4 @@ Since 2017, I have been self-educating myself to transition into the fields of d
 
 ---
 
-*Last update: 3 March 2024*
+*Last update: 10 March 2024*
