@@ -2,40 +2,41 @@
 
 ## About
 
-I have over 20 years of experience in industry and academia, with an MSc and PhD in engineering. I am working part-time as a researcher at UHasselt. Additionally, I am on a part-time sabbatical leave, working on some personal pursuits.
-
-Since 2017, I have been educating myself to transition into the fields of data engineering, data science, and machine learning. Over the past few years, I have applied my knowledge and skills in these areas to various projects. I am eager to enhance my expertise and knowledge further; I am excited to see where this journey will take me.
+I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been educating myself to shift my career towards data engineering, data science, and machine learning. Today, I am working part-time as a researcher at both the Biomedical Research Institute and the Rehabilitation Research Center (Reval) - University of Hasselt. I am also taking a part-time 6-month sabbatical leave to pursue some personal projects.
 
 <br>
 
 ## 🛠️ Work Experience
 
-**<ins>Current Employment</ins>**
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - current employment - fixed-term & part-time contract --- Sep 2023 - Dec 2025.
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - Fixed-term part-time contract.
-
-    - Data analytics and data processing. 
-    - ETL (Extract Transform Load) pipeline design for Real-world (healthcare) data (RWD)
+    The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
     Involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project.
     
-    🔨 Tools: Python, Pandas and cloud computing platform Azure.
+    From the proof of concept stage (Technology Readiness Level 3) to developing a pilot system that can be demonstrated in a relevant environment (Technology Readiness Level 6/7).
     
-- **Non-statutory academic staff** @ Faculty Rehabilitation Sciences, Hasselt University, Belgium - Fixed-term part-time contract.
+    🔨 Tools: Python, Pandas, Azure Databricks, Azure Data Factory, ...
+    
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - current employment - fixed-term & part-time contract --- Apr 2024 - Dec 2024
 
-**<ins>Past Employment</ins>** 
+    - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+    
+      🔨 Tools: Python, Pandas
 
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term (replacement contract).
+- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time contract --- Jan 2024 - Mar 2024.
   
-  - Engineering support in scientific research.
+  - Support in scientific research.
   
-- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term contract.
-  
-  - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-  
-    🔨 Software tools: Python and Pandas.
-  
-- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term (replacement contract) --- Jan 2022 - Dec 2023.
+
+  - Engineering support.
+
+- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term contract --- Jan 2023 - Aug 2023. 
+
+  - Scientific research.
+
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term --- Jan 2020 - Aug 2023.
   Research Projects.
 
   - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
@@ -46,15 +47,15 @@ Since 2017, I have been educating myself to transition into the fields of data e
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project -- 1 January 2020 - 30 November 2021 (23 person-months).
 
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
     ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
     🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
-  
-- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time
+
+- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time - Jan 2018 - Dec 2019.
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
@@ -65,7 +66,7 @@ Since 2017, I have been educating myself to transition into the fields of data e
     
     🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python, and Altium Designer (PCB design)
 
-- **Project Manager** @ Peira, Turnhout, Belgium - Full-time
+- **Project Manager** @ Peira, Turnhout, Belgium - Full-time --- Aug 2017 - Dec 2017.
 
   Project ownership from start to finish. Responsible for: 
   - Formulation of technical solutions; 
@@ -73,9 +74,9 @@ Since 2017, I have been educating myself to transition into the fields of data e
   - Coordination of technicians and colleagues ; 
   - Providing input for technical specifications, requirements, and documentation.
 
-- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time
+- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time --- Feb 2016 - Jul 2017.
 
-  - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* 
+  - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* - Mar 2017 - Jul 2017. 
 
     Project with an application in Electron Paramagnetic Resonance (EPR).
     Comprising:
@@ -83,7 +84,7 @@ Since 2017, I have been educating myself to transition into the fields of data e
     - PCB design; 
     - electronic simulation.
 
-  - ***@ Bruker micro-CT*** - *Kontich, Belgium.*
+  - ***@ Bruker micro-CT*** - Kontich - Belgium --- Feb 2016 - Jul 2017.
 
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
     Comprising:
@@ -97,7 +98,7 @@ Since 2017, I have been educating myself to transition into the fields of data e
     
      🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation), and Python.
 
-- **Research Engineer** @ Pepric, Leuven, Belgium - Full-time
+- **Research Engineer** @ Pepric, Leuven, Belgium - Full-time --- Mar 2012 - Jan 2016.
 
   Responsible for the technology development of an ex-vivo tool for quantifying magnetic nanoparticles.
   Comprising: 
@@ -111,13 +112,13 @@ Since 2017, I have been educating myself to transition into the fields of data e
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
 
-- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time
+- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time - Aug 2009 - Mar 2012.
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
-- **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time
+- **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time --- Apr 2007 - Jul 2009.
 
   Responsible for translation of prototype to a product; 
   Comprising:
@@ -129,13 +130,13 @@ Since 2017, I have been educating myself to transition into the fields of data e
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
-- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium 
+- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium --- Nov. 2006 - Mar 2007. 
 
   Achievements: proof of concept and a prototype design.
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
-- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium 
+- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium --- Sep 2002 - Dec 2006. 
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
@@ -147,7 +148,7 @@ Since 2017, I have been educating myself to transition into the fields of data e
   - Supervision projects in the course Wireless and Mobile Communications;
   - Supervised different (Master's) thesis.
 
-- **Summer job**, Clock-o-Matic, Holsbeek, Belgium
+- **Summer job**, Clock-o-Matic, Holsbeek, Belgium --- August 2001.
 
   Task:
   - Solves component failure by lightning (surge immunity);
@@ -270,4 +271,4 @@ Since 2017, I have been educating myself to transition into the fields of data e
 
 ---
 
-*Last update: 16 March 2024*
+*Last update: 1 April 2024*
