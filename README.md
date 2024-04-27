@@ -8,7 +8,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - current employment - fixed-term & part-time contract --- Sep 2023 - Dec 2025.
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - **current employment** - fixed-term & part-time contract --- Sep 2023 - ...
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
@@ -18,7 +18,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
     
     🔨 Tools: Python, Pandas, Azure Databricks, Azure Data Factory, ...
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - current employment - fixed-term & part-time contract --- Apr 2024 - Dec 2024
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - **current employment** - fixed-term & part-time contract --- Apr 2024 - ...
 
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
     
@@ -271,4 +271,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 1 April 2024*
+*Last update: 27 April 2024*
