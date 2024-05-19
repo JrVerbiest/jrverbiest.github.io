@@ -2,26 +2,28 @@
 
 ## About
 
-I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been educating myself to shift my career towards data engineering, data science, and machine learning. Today, I am working part-time as a researcher at both the Biomedical Research Institute and the Rehabilitation Research Center (Reval) - University of Hasselt. I am also taking a part-time 6-month sabbatical leave to pursue some personal projects.
+I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I am working part-time as a researcher at both the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt. Additionally, I am taking a 6-month sabbatical leave to pursue some personal projects.
 
 <br>
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - **current employment** - fixed-term & part-time contract --- Sep 2023 - ...
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time, contract. **Current employment** until December 2025
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    Involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project.
+    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project.
     
     From the proof of concept stage (Technology Readiness Level 3) to developing a pilot system that can be demonstrated in a relevant environment (Technology Readiness Level 6/7).
     
-    🔨 Tools: Python, Pandas, Azure Databricks, Azure Data Factory, ...
+    🔨 Tools: Python, Pandas, Azure (use resources such as Databricks, Data Lake Storage, and Data Factory mainly for data engineering).
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - **current employment** - fixed-term & part-time contract --- Apr 2024 - ...
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment** until December 2024
 
-    - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-    
+    - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
+
+      Task: mainly data engineering and data processing.
+      
       🔨 Tools: Python, Pandas
 
 - **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time contract --- Jan 2024 - Mar 2024.
@@ -34,7 +36,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 - **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term contract --- Jan 2023 - Aug 2023. 
 
-  - Scientific research.
+  - Support in scientific research.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term --- Jan 2020 - Aug 2023.
   Research Projects.
@@ -271,4 +273,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 27 April 2024*
+*Last update: 19 May 2024*
