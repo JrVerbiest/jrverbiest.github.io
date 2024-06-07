@@ -2,7 +2,7 @@
 
 ## About
 
-I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I am working part-time as a researcher at both the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt. Additionally, I am taking a 6-month sabbatical leave to pursue some personal projects.
+I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I work part-time as a researcher at the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt. Additionally, I am taking a 6-month sabbatical leave to pursue some personal projects.
 
 <br>
 
@@ -12,11 +12,11 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project.
+    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. In addition, I am exploring Solid Technology and linked data technology like RDF and SPARQL.
     
-    From the proof of concept stage (Technology Readiness Level 3) to developing a pilot system that can be demonstrated in a relevant environment (Technology Readiness Level 6/7).
+    Keywords: Data Standardization in Healthcare, Observational Medical Outcomes Partnership (OMOP), Common Data Model (CDM) (OMOP-CDM). Fast Healthcare Interoperability Resources (FHIR). Systematised Nomenclature of Medicine Clinical Terms (SNOMED CT), FAIR (Findable, Accessible, Interoperable and Reusable) data.	
     
-    🔨 Tools: Python, Pandas, Azure (use resources such as Databricks, Data Lake Storage, and Data Factory mainly for data engineering).
+    🔨 Tools: Python, Pandas, and Databricks.
     
 - **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment** until December 2024
 
@@ -273,4 +273,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 19 May 2024*
+*Last update: 7 June 2024*
