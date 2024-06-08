@@ -12,9 +12,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. In addition, I am exploring Solid Technology and linked data technology like RDF and SPARQL.
-    
-    Keywords: Data Standardization in Healthcare, Observational Medical Outcomes Partnership (OMOP), Common Data Model (CDM) (OMOP-CDM). Fast Healthcare Interoperability Resources (FHIR). Systematised Nomenclature of Medicine Clinical Terms (SNOMED CT), FAIR (Findable, Accessible, Interoperable and Reusable) data.	
+    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. In addition, I am exploring Solid Technology and linked data technology.	
     
     🔨 Tools: Python, Pandas, and Databricks.
     
@@ -273,4 +271,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 7 June 2024*
+*Last update: 8 June 2024*
