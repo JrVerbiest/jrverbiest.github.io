@@ -12,9 +12,9 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in two projects: [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. In addition, I am exploring Solid Technology and linked data technology.	
+    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology and linked data technology.
     
-    🔨 Tools: Python, Pandas, and Databricks.
+    🔨 Tools: Python, Pandas, pySpark, and Databricks.
     
 - **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment** until December 2024
 
@@ -271,4 +271,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 8 June 2024*
+*Last update: 30 June 2024*
