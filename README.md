@@ -2,7 +2,7 @@
 
 ## About
 
-I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I work part-time as a researcher at the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt. Additionally, I am taking a 6-month sabbatical leave to pursue some personal projects.
+I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I work part-time as a researcher at the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt.
 
 <br>
 
@@ -12,7 +12,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology and linked data technology.
+    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources)
     
     🔨 Tools: Python, Pandas, pySpark, and Databricks.
     
@@ -20,7 +20,7 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
 
-      Task: mainly data engineering and data processing.
+      Task: data processing, statistics.
       
       🔨 Tools: Python, Pandas
 
@@ -271,4 +271,4 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 ---
 
-*Last update: 30 June 2024*
+*Last update: 30 July 2024*
