@@ -8,15 +8,15 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%), contract. **Current employment** until December 2025
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%), contract. **Current employment.** (Contract until December 2025).
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources)
+    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
     
-    🔨 Tools: Python, Pandas, pySpark, and Databricks.
+    🔨 Tools: Python, Pandas, pySpark, Azure, and Databricks.
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time (20%) contract. **Current employment** until December 2024
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time (20%) contract. **Current employment.** (contract until December 2024).
 
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
 
@@ -271,4 +271,4 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
 ---
 
-*Last update: 9 August 2024*
+*Last update: 11 August 2024*
