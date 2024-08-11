@@ -2,13 +2,13 @@
 
 ## About
 
-I have over 20 years of experience in industry and academia, and I hold an MSc and a PhD in engineering. Since 2017, I have been actively educating myself to transition my career towards data engineering, data science, and machine learning. I work part-time as a researcher at the Biomedical Research Institute and the Rehabilitation Research Center (Reval) at the University of Hasselt.
+I hold two MSc degrees and a PhD in engineering and worked in diverse industry sectors, including microwave, preclinical, and medical technologies. For 12 years, I have applied my expertise in these fields. In 2017, I shifted my focus towards data and started to specialise in data engineering, data science, and machine learning. In 2020, I re-entered academia and contributed to cutting-edge data projects. Currently, I am a part-time researcher at the University of Hasselt.
 
 <br>
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time, contract. **Current employment** until December 2025
+- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%), contract. **Current employment** until December 2025
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
@@ -16,23 +16,23 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
     
     🔨 Tools: Python, Pandas, pySpark, and Databricks.
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment** until December 2024
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time (20%) contract. **Current employment** until December 2024
 
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
 
-      Task: data processing, statistics.
+      Task: data processing and statistics.
       
       🔨 Tools: Python, Pandas
 
-- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time contract --- Jan 2024 - Mar 2024.
+- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time (20%) --- Jan 2024 - Mar 2024.
   
   - Support in scientific research.
   
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term (replacement contract) --- Jan 2022 - Dec 2023.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (80%) & fixed-term (replacement contract) --- Jan 2022 - Dec 2023.
 
   - Engineering support.
 
-- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time & fixed-term contract --- Jan 2023 - Aug 2023. 
+- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (10%) & fixed-term contract --- Jan 2023 - Aug 2023. 
 
   - Support in scientific research.
 
@@ -229,8 +229,6 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 - System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0), Pub. Date: 18 August 2016. 
 
-<br>
-
 ### Articles in International Journals
 
 - Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, Gait Stride Length Estimation Using Embedded Machine Learning, MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
@@ -248,8 +246,6 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 - J.R. Verbiest and G.A.E. Vandenbosch, "Antennas for Wireless Biomedical Applications", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 13-24, 2004.
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
-
-<br>
 
 ### Articles in International Conference Proceedings
 
@@ -269,6 +265,10 @@ I have over 20 years of experience in industry and academia, and I hold an MSc a
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
+### Abstracts
+
+- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations in phase and in period during walking in persons with progressive multiple sclerosis.", RIMS meeting, Aarhus, Denmark, October 2024.
+
 ---
 
-*Last update: 30 July 2024*
+*Last update: 9 August 2024*
