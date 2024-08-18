@@ -2,21 +2,21 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering and worked in diverse industry sectors, including microwave, preclinical, and medical technologies. For 12 years, I have applied my expertise in these fields. In 2017, I shifted my focus towards data and started to specialise in data engineering, data science, and machine learning. In 2020, I re-entered academia and contributed to cutting-edge data projects. Currently, I am a part-time researcher at the University of Hasselt.
+I hold two MSc degrees and a PhD in engineering and worked in diverse industry sectors, including microwave, preclinical, and medical. For 12 years, I have applied my expertise in these fields. In 2017, I shifted my focus towards data and started to specialise in data engineering, data science, and machine learning. In 2020, I re-entered academia and contributed to cutting-edge data projects. I am a part-time researcher at [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) and (data) engineer at [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), both at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 <br>
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Biomedical Research Institute, [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%), contract. **Current employment.** (Contract until December 2025).
+- **Researcher**@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time (50%), contract. **Current employment.**
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    I am involved in various projects such as [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) and [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion) project. Additionally, I am exploring Solid Technology, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
+    As a data engineer involved in various projects, such as BELTRIMS and MS DataConnect, additionally, I am exploring Solid Technology (Social Linked Data), Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
     
     🔨 Tools: Python, Pandas, pySpark, Azure, and Databricks.
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time (20%) contract. **Current employment.** (contract until December 2024).
+- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time (20%) contract. **Current employment.**
 
     - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
 
@@ -24,15 +24,15 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
       
       🔨 Tools: Python, Pandas
 
-- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time (20%) --- Jan 2024 - Mar 2024.
+- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time (20%), Jan 2024 - Mar 2024.
   
   - Support in scientific research.
   
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (80%) & fixed-term (replacement contract) --- Jan 2022 - Dec 2023.
+- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (80%) & fixed-term (replacement contract), Jan 2022 - Dec 2023.
 
   - Engineering support.
 
-- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (10%) & fixed-term contract --- Jan 2023 - Aug 2023. 
+- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (10%) & fixed-term contract, Jan 2023 - Aug 2023. 
 
   - Support in scientific research.
 
@@ -47,7 +47,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project -- 1 January 2020 - 30 November 2021 (23 person-months).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
 
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
@@ -55,7 +55,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
     
     🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
 
-- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time - Jan 2018 - Dec 2019.
+- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
@@ -66,7 +66,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
     
     🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python, and Altium Designer (PCB design)
 
-- **Project Manager** @ Peira, Turnhout, Belgium - Full-time --- Aug 2017 - Dec 2017.
+- **Project Manager** @ Peira, Turnhout, Belgium - Full-time, Aug 2017 - Dec 2017.
 
   Project ownership from start to finish. Responsible for: 
   - Formulation of technical solutions; 
@@ -74,7 +74,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
   - Coordination of technicians and colleagues ; 
   - Providing input for technical specifications, requirements, and documentation.
 
-- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time --- Feb 2016 - Jul 2017.
+- **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time, Feb 2016 - Jul 2017.
 
   - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* - Mar 2017 - Jul 2017. 
 
@@ -84,7 +84,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
     - PCB design; 
     - electronic simulation.
 
-  - ***@ Bruker micro-CT*** - Kontich - Belgium --- Feb 2016 - Jul 2017.
+  - ***@ Bruker micro-CT*** - Kontich - Belgium, Feb 2016 - Jul 2017.
 
     Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
     Comprising:
@@ -98,7 +98,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
     
      🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation), and Python.
 
-- **Research Engineer** @ Pepric, Leuven, Belgium - Full-time --- Mar 2012 - Jan 2016.
+- **Research Engineer** @ Pepric, Leuven, Belgium - Full-time, Mar 2012 - Jan 2016.
 
   Responsible for the technology development of an ex-vivo tool for quantifying magnetic nanoparticles.
   Comprising: 
@@ -112,13 +112,13 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European project 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
 
-- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time - Aug 2009 - Mar 2012.
+- **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time, Aug 2009 - Mar 2012.
 
   Responsible for GaN power amplifier (using X-parameters and compact models) and active antenna design in the framework of European project 🔬 [*🌐 PANAMA (Power Amplifier aNd Antennas for mobile Applications)*](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf) and involved in two work packages, one as work package leader.
 
   🔨 Tools: Advanced Design System, Momentum, Microwave office, EAGLE (PCB design), Vector Network Analyzer, spectrum analyser, power meter, signal generator and oscilloscope
 
-- **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time --- Apr 2007 - Jul 2009.
+- **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time, Apr 2007 - Jul 2009.
 
   Responsible for translation of prototype to a product; 
   Comprising:
@@ -130,13 +130,13 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
-- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium --- Nov. 2006 - Mar 2007. 
+- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007. 
 
   Achievements: proof of concept and a prototype design.
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
-- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium --- Sep 2002 - Dec 2006. 
+- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium, Sep 2002 - Dec 2006. 
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications (see publication list).
@@ -148,7 +148,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
   - Supervision projects in the course Wireless and Mobile Communications;
   - Supervised different (Master's) thesis.
 
-- **Summer job**, Clock-o-Matic, Holsbeek, Belgium --- August 2001.
+- **Summer job**, Clock-o-Matic, Holsbeek, Belgium, August 2001.
 
   Task:
   - Solves component failure by lightning (surge immunity);
@@ -265,10 +265,10 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-### Abstracts
+### Contributions
 
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations in phase and in period during walking in persons with progressive multiple sclerosis.", RIMS meeting, Aarhus, Denmark, October 2024.
 
 ---
 
-*Last update: 11 August 2024*
+*Last update: 18 August 2024*
