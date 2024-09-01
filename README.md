@@ -12,7 +12,7 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    As a data engineer involved in various projects, such as BELTRIMS and MS DataConnect, additionally, I am exploring Solid Technology (Social Linked Data), Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
+    As a data engineer involved in various projects, such as BELTRIMS and MS DataConnect, additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
     
     🔨 Tools: Python, Pandas, pySpark, Azure, and Databricks.
     
@@ -227,7 +227,8 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
 ### Patent
 
-- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0), Pub. Date: 18 August 2016. 
+- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020
+-  
 
 ### Articles in International Journals
 
@@ -271,4 +272,4 @@ I hold two MSc degrees and a PhD in engineering and worked in diverse industry s
 
 ---
 
-*Last update: 18 August 2024*
+*Last update: 1 September 2024*
