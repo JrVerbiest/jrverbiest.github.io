@@ -2,9 +2,7 @@
 
 ## About
 
-I have two MSc degrees and a PhD in engineering and have worked in diverse industry sectors, including microwave, preclinical, and medical. I have applied my expertise in those fields for 12 years. In 2017, I shifted my focus towards data and started to specialise in data engineering, data science, and machine learning. 
-
-In 2020, I returned to academia and began working on data projects related to healthcare. Currently, I am a researcher at the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) and a (data) engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), both at the [University of Hasselt](https://www.uhasselt.be/nl).
+I have two MSc degrees and a PhD in engineering and have worked in diverse industry sectors, including microwave, preclinical, and medical. I have applied my expertise in those fields for 12 years. In 2017, I shifted my focus towards data. In 2020, I returned to academia and began working on data projects related to healthcare. Currently, I am a researcher at the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) and a (data) engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), both at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 <br>
 
@@ -229,8 +227,7 @@ In 2020, I returned to academia and began working on data projects related to he
 
 ### Patent
 
-- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020
--  
+- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020  
 
 ### Articles in International Journals
 
@@ -268,10 +265,10 @@ In 2020, I returned to academia and began working on data projects related to he
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-### Contributions
+### Other
 
-- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations in phase and in period during walking in persons with progressive multiple sclerosis.", RIMS meeting, Aarhus, Denmark, October 2024.
-
+- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
+- 
 ---
 
-*Last update: 14 September 2024*
+*Last update: 27 September 2024*
