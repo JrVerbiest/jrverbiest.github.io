@@ -203,7 +203,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 <br>
 
-## 🎓 Self-education - Data Engineering, Data Science & Machine Learning
+## 🎓 Self-education
 
 ### Databricks 
 
