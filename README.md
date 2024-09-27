@@ -14,15 +14,9 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
     
     As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM), FHIR® (Fast Healthcare Interoperability Resources) and openEHR.
     
-    🔨 Tools: Python, Pandas, pySpark, Azure, and Databricks.
-    
 - **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
 
-    - Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
-
-      Task: data processing and statistics.
-      
-      🔨 Tools: Python, Pandas
+    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
 
 - **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time (20%), Jan 2024 - Mar 2024.
   
@@ -208,7 +202,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 ### Databricks 
 
 - **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- **Databricks Fundamentals Accredidation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
+- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
 
 
 ### Udacity
@@ -273,7 +267,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-### Presentations and contributions
+### Presentations & Contributions
 
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
