@@ -12,7 +12,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-    As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM), FHIR® (Fast Healthcare Interoperability Resources) and openEHR.
+    As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
     
 - **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
 
