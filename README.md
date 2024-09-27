@@ -229,7 +229,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 - System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020  
 
-### Articles in International Journals
+### Articles in Journals
 
 - Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, Gait Stride Length Estimation Using Embedded Machine Learning, MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
 
@@ -247,7 +247,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
 
-### Articles in International Conference Proceedings
+### Articles in Conference Proceedings
 
 - Detection of superparamagnetic iron oxide nanoparticles (SPION’s) in the pig lung using the particle electron paramagnetic resonance (pEPR) technique, Christine M Shortt, Deirdre Edge, Eric Roskin, Joeri R Verbiest, Farouk Markos, Stephanie Teughels, WMIC 2014, Seoul; Sept 17-20.
 
@@ -265,10 +265,9 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-### Other
+### Presentations and contributions
 
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
-- 
----
 
+---
 *Last update: 27 September 2024*
