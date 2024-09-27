@@ -2,7 +2,7 @@
 
 ## About
 
-I have two MSc degrees and a PhD in engineering and have worked in diverse industry sectors, including microwave, preclinical, and medical. I have applied my expertise in those fields for 12 years. In 2017, I shifted my focus towards data. In 2020, I returned to academia and began working on data projects related to healthcare. Currently, I am a researcher at the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) and a (data) engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), both at the [University of Hasselt](https://www.uhasselt.be/nl).
+I have two MSc degrees and a PhD in engineering and have worked in diverse industry sectors, including microwave, preclinical, and medical. I have applied my expertise in those fields for 12 years. In 2017, I shifted my focus towards data. In 2020, I returned to academia and began working on data projects related to healthcare. Currently, I am a researcher/(data) engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and a researcher at the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), both at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 <br>
 
@@ -203,7 +203,15 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 <br>
 
-## 🎓 Udacity
+## 🎓 Self-education - Data Engineering, Data Science & Machine Learning
+
+### Databricks 
+
+- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- **Databricks Fundamentals Accredidation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
+
+
+### Udacity
 
 - **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
 - **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
