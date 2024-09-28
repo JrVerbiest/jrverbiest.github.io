@@ -14,21 +14,20 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
     
     As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
     
-- **Researcher** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
+- **Employment** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
 
-    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*. Focus on sensor data cleansing, signal processing, and time-series analysis. Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
+    - Technical Developer - part-time (20%) & fixed-term (replacement contract), Jan 2022 - Dec 2023
 
-- **Non-statutory academic staff** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - Fixed-term part-time (20%), Jan 2024 - Mar 2024.
-  
-  - Support in scientific research.
-  
-- **Technical Developer** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (80%) & fixed-term (replacement contract), Jan 2022 - Dec 2023.
+    - Researcher - Expert - part-time (10%) & fixed-term, Jan 2023 - Aug 2023
 
-  - Engineering support.
+    - Non-statutory academic staff  - part-time (20%) & fixed-term, Jan 2024 - Mar 2024
 
-- **Researcher - Expert** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval),  Faculty Rehabilitation Sciences, Hasselt University, Belgium - part-time (10%) & fixed-term contract, Jan 2023 - Aug 2023. 
+    - Researcher - part-time (20%) & fixed-term, April 2024 - Dec 2024
 
-  - Support in scientific research.
+
+    General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+
+    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term --- Jan 2020 - Aug 2023.
   Research Projects.
@@ -272,4 +271,4 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
 ---
-*Last update: 27 September 2024*
+*Last update: 28 September 2024*
