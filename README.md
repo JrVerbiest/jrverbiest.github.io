@@ -8,31 +8,35 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 ## 🛠️ Work Experience
 
-- **Researcher**@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
+- **Employment** @ Hasselt University, Belgium - fixed-term & part-time contract - **current employment**.
 
-    The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
-    
-    As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
-    
-- **Employment** @ [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium - fixed-term & part-time contract. **Current employment.**
+    - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Sep 2023 - ...
 
-    - Technical Developer - part-time (20%) & fixed-term (replacement contract), Jan 2022 - Dec 2023
+        The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
-    - Researcher - Expert - part-time (10%) & fixed-term, Jan 2023 - Aug 2023
+        ° As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect.
 
-    - Non-statutory academic staff  - part-time (20%) & fixed-term, Jan 2024 - Mar 2024
+        ° Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
 
-    - Researcher - part-time (20%) & fixed-term, April 2024 - Dec 2024
+    - @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) - Jan 2022 - Dec 2024
+
+        - Technical Developer - part-time (20%) & fixed-term (replacement contract), Jan 2022 - Dec 2023
+
+        - Researcher - Expert - part-time (10%) & fixed-term, Jan 2023 - Aug 2023
+
+        - Non-statutory academic staff  - part-time (20%) & fixed-term, Jan 2024 - Mar 2024
+
+        - Researcher - part-time (20%) & fixed-term, April 2024 - Dec 2024
+
+        ° General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
+
+        ° Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
 
 
-    General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-
-    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
-
-- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term --- Jan 2020 - Aug 2023.
+- **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
 
-  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 December 2021 -  31 August 2023 (14 person-month).
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 Dec 2021 -  31 Aug 2023 (14 person-month).
 
     Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
 
@@ -40,7 +44,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
     🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
-  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 January 2020 - 30 November 2021 (23 person-months).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
     Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
@@ -271,4 +275,4 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
 ---
-*Last update: 28 September 2024*
+*Last update: 29 September 2024*
