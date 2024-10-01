@@ -8,27 +8,28 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
 ## 🛠️ Work Experience
 
-- **Employment** @ Hasselt University, Belgium - fixed-term & part-time contract - **current employment**.
+- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract.
 
-    - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Sep 2023 - ...
+    - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences)
 
-        The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+        - Researcher - part-time & fixed-term, Sep 2023 - Dec 2025 (end of contract)
 
-        ° As a (data) engineer involved in various projects, such as BELTRIMS and MS DataConnect.
-        ° Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
-
-    - @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) - Jan 2022 - Dec 2024
-
-        - Technical Developer - part-time (20%) & fixed-term (replacement contract), Jan 2022 - Dec 2023
-        
-        - Researcher - Expert - part-time (10%) & fixed-term, Jan 2023 - Aug 2023
-        
-        - Non-statutory academic staff  - part-time (20%) & fixed-term, Jan 2024 - Mar 2024
-        
-        - Researcher - part-time (20%) & fixed-term, April 2024 - Dec 2024
-        
-        ° General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures.
-        ° Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+            The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+    
+            Involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
+    
+    - @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval)
+    
+        - Technical Developer - part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
+    
+        - Researcher - Expert - part-time & fixed-term, Jan 2023 - Aug 2023
+    
+        - Non-statutory academic staff  - part-time & fixed-term, Jan 2024 - Mar 2024
+    
+        - Researcher - part-time & fixed-term, April 2024 - Dec 2024
+    
+          General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    
 
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
@@ -273,4 +274,4 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
 ---
-*Last update: 29 September 2024*
+*Last update: 1 October 2024*
