@@ -2,7 +2,9 @@
 
 ## About
 
-I have two MSc degrees and a PhD in engineering and have worked in diverse industry sectors, including microwave, preclinical, and medical. I have applied my expertise in those fields for 12 years. In 2017, I shifted my focus towards data. In 2020, I returned to academia and began working on data projects related to healthcare. Currently, I am a researcher/(data) engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and a researcher at the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), both at the [University of Hasselt](https://www.uhasselt.be/nl).
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise for 12 years, I began transitioning towards data in 2017. More recently, my main focus has shifted to data engineering. In 2020, I returned to academia, working on healthcare-related data projects.
+
+Today, I am a researcher and data engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 <br>
 
@@ -12,7 +14,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 
     - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences)
 
-        - Researcher - part-time & fixed-term, Sep 2023 - Dec 2025 (end of contract)
+        - Researcher - part-time & fixed-term, Sep 2023 - ... (end of contract Dec 2025)
 
             The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
@@ -26,7 +28,7 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
     
         - Non-statutory academic staff  - part-time & fixed-term, Jan 2024 - Mar 2024
     
-        - Researcher - part-time & fixed-term, April 2024 - Dec 2024
+        - Researcher - part-time & fixed-term, April 2024 - ... (end of contract Dec 2024)
     
           General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
@@ -274,4 +276,4 @@ I have two MSc degrees and a PhD in engineering and have worked in diverse indus
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
 ---
-*Last update: 1 October 2024*
+*Last update: 6 October 2024*
