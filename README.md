@@ -2,11 +2,9 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise for 12 years, I began transitioning towards data in 2017. More recently, my main focus has shifted to data engineering. In 2020, I returned to academia, working on healthcare-related data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience in microwave technology, preclinical research, and the medical field. After 12 years of applying my engineering skills in these industries, I transitioned to data in 2017. In 2020, I returned to academia, where my research now centers on healthcare data projects.
 
-Today, I am a researcher and data engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
-
-<br>
+Currently, I serve as a researcher and data engineer with the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 ## 🛠️ Work Experience
 
@@ -271,9 +269,9 @@ Today, I am a researcher and data engineer at the [Research Group Biomedical Dat
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
-### Presentations & Contributions
+### Contributions
 
-- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
+- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 6 October 2024*
+*Last update: 15 October 2024*
