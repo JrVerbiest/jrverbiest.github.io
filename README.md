@@ -2,9 +2,11 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience in microwave technology, preclinical research, and the medical field. After 12 years of applying my engineering skills in these industries, I transitioned to data in 2017. In 2020, I returned to academia, where my research now centers on healthcare data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started in 2017 transitioning towards data. In 2020, I returned to academia, working on healthcare-related data projects. 
 
-Currently, I serve as a researcher and data engineer with the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
+Currently, I am a researcher and data engineer with the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
+
+
 
 ## 🛠️ Work Experience
 
@@ -274,4 +276,4 @@ Currently, I serve as a researcher and data engineer with the [Research Group Bi
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 15 October 2024*
+*Last update: 20 October 2024*
