@@ -24,7 +24,7 @@ I am a researcher and data engineer with the [Research Group Biomedical Data Sci
     
             - MS DataConnect. An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     
-            - PROSPeCD. The project aims to learn from international PHM (Population Health Management ) practices and apply them in Belgium, partnering with [KU Leuven](https://www.linkedin.com/company/kuleuven/) and the [University of Antwerp](https://www.linkedin.com/company/university-of-antwerp/).
+            - PROSPeCD. The project aims to learn from international PHM (Population Health Management) practices and apply them in Belgium, partnering with [KU Leuven](https://www.linkedin.com/company/kuleuven/) and the [University of Antwerp](https://www.linkedin.com/company/university-of-antwerp/).
     
             - [OHDSI (Observational Health Data Sciences & Informatics)](https://www.linkedin.com/company/ohdsi/) and [OHDSI Belgium](https://www.linkedin.com/company/ohdsi-belgium/). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
             
