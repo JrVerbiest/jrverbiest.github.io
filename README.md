@@ -4,31 +4,42 @@
 
 I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started in 2017 transitioning towards data. In 2020, I returned to academia, working on healthcare-related data projects. 
 
-Currently, I am a researcher and data engineer with the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
+I am a researcher and data engineer with the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and the  [Rehabilitation Research Center (Reval)](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract.
+- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract, **current employment**, Jan 2022 - ...
 
     - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences)
 
-        - Researcher - part-time & fixed-term, Sep 2023 - ... (end of contract Dec 2025)
+        - Researcher - part-time & fixed-term, Sept 2023 - ...
 
             The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-            Involved in various projects, such as BELTRIMS and MS DataConnect. Additionally, I am exploring Linked Data, Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources).
+            Involved, as a senior data engineer, in various projects:
+    
+            - BELTRIMS (BELgian TReatment in Multiple Sclerosis). A national MS registry project led by the Belgian MS Study Group.
+    
+            - MS DataConnect. An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
+    
+            - PROSPeCD. The project aims to learn from international PHM (Population Health Management ) practices and apply them in Belgium, partnering with [KU Leuven](https://www.linkedin.com/company/kuleuven/) and the [University of Antwerp](https://www.linkedin.com/company/university-of-antwerp/).
+    
+            - [OHDSI (Observational Health Data Sciences & Informatics)](https://www.linkedin.com/company/ohdsi/) and [OHDSI Belgium](https://www.linkedin.com/company/ohdsi-belgium/). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
+            
+            - FHIR® (Fast Healthcare Interoperability Resources) and application in remote patient monitoring.
+            
     
     - @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval)
     
-        - Technical Developer - part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
+        - Researcher, part-time & fixed-term, April 2024 - Dec 2024
     
-        - Researcher - Expert - part-time & fixed-term, Jan 2023 - Aug 2023
+        - Non-statutory academic staff, part-time & fixed-term, Jan 2024 - Mar 2024
     
-        - Non-statutory academic staff  - part-time & fixed-term, Jan 2024 - Mar 2024
+        - Researcher Expert, part-time & fixed-term, Jan 2023 - Aug 2023
     
-        - Researcher - part-time & fixed-term, April 2024 - ... (end of contract Dec 2024)
+        - Technical Developer, part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
     
           General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
@@ -276,4 +287,4 @@ Currently, I am a researcher and data engineer with the [Research Group Biomedic
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 20 October 2024*
+*Last update: 1 November 2024*
