@@ -18,15 +18,15 @@ I am a researcher and data engineer with the [Research Group Biomedical Data Sci
 
         The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-        Involved, as a senior data engineer, in various projects:
+        Involved as a senior data engineer in:
     
         - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralized registry using the Health Data platform.
     
-        - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion#:~:text=MS%20DataConnect%20was%20used%20as,of%20both%20healthcare%20and%20research.). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
+        - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     
         - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
     
-        - [OHDSI (Observational Health Data Sciences and Informatics)](https://www.linkedin.com/company/ohdsi/) and [OHDSI Belgium](https://www.linkedin.com/company/ohdsi-belgium/). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
+        - [OHDSI (Observational Health Data Sciences and Informatics)](https://www.ohdsi.org) and [OHDSI Belgium](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ohdsi-belgium). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
         
         - The application of FHIR® (Fast Healthcare Interoperability Resources) in remote patient monitoring.
         
