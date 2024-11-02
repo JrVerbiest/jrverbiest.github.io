@@ -12,38 +12,40 @@ I am a researcher and data engineer with the [Research Group Biomedical Data Sci
 
 - **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract, **current employment**, Jan 2022 - ...
 
-    - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences)
+    @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences)
 
-        - Researcher - part-time & fixed-term, Sept 2023 - ...
+    - Researcher - part-time & fixed-term, Sept 2023 - ...
 
-            The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+        The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
     
-            Involved, as a senior data engineer, in various projects:
+        Involved, as a senior data engineer, in various projects:
     
-            - BELTRIMS (BELgian TReatment in Multiple Sclerosis). A national MS registry project led by the Belgian MS Study Group focuses on building a centralized registry using the [health data](http://healthdata.be/) platform.
+        - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralized registry using the Health Data platform.
     
-            - MS DataConnect. An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
+        - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion#:~:text=MS%20DataConnect%20was%20used%20as,of%20both%20healthcare%20and%20research.). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     
-            - PROSPeCD. The project aims to learn from international PHM (Population Health Management) practices and apply them in Belgium. Project partners: the KU Leuven](https://www.linkedin.com/school/ku_leuven/) and the [University of Antwerp](https://www.linkedin.com/company/university-of-antwerp/).
+        - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
     
-            - [OHDSI (Observational Health Data Sciences and Informatics)](https://www.linkedin.com/company/ohdsi/) and [OHDSI Belgium](https://www.linkedin.com/company/ohdsi-belgium/). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
-            
-            - FHIR® (Fast Healthcare Interoperability Resources) and the application in remote patient monitoring.
-            
+        - [OHDSI (Observational Health Data Sciences and Informatics)](https://www.linkedin.com/company/ohdsi/) and [OHDSI Belgium](https://www.linkedin.com/company/ohdsi-belgium/). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
+        
+        - The application of FHIR® (Fast Healthcare Interoperability Resources) in remote patient monitoring.
+        
     
-    - @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval)
+    @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval)
     
-        - Researcher, part-time & fixed-term, April 2024 - Dec 2024
+    - Researcher, part-time & fixed-term, April 2024 - Dec 2024
     
-        - Non-statutory academic staff, part-time & fixed-term, Jan 2024 - Mar 2024
+    - Non-statutory academic staff, part-time & fixed-term, Jan 2024 - Mar 2024
     
-        - Researcher Expert, part-time & fixed-term, Jan 2023 - Aug 2023
+    - Researcher Expert, part-time & fixed-term, Jan 2023 - Aug 2023
     
-        - Technical Developer, part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
+    - Technical Developer, part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
     
-          General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
-
+    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    
+    <br>
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
@@ -287,4 +289,4 @@ I am a researcher and data engineer with the [Research Group Biomedical Data Sci
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 1 November 2024*
+*Last update: 2 November 2024*
