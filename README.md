@@ -36,9 +36,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
-    Involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
-    
-    <br>
+    As researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
