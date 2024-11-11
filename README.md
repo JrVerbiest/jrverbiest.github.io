@@ -2,31 +2,26 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started in 2017 transitioning towards data, and in 2020, I returned to academia. Today, I am a data engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and a researcher at the  [Rehabilitation Research Center (Reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
+With two Master of Science degrees and a doctoral degree in Engineering, I bring over a decade of experience in microwave technology, preclinical research, and medical engineering. After 12 years in these fields, I pivoted towards data in 2017 and, in 2020, returned to academia as a researcher/technical developer/data engineer, focusing on health data projects that drive advancements in healthcare.
 
-
+<br>
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract, Jan 2022 - ...
-
-    @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), part-time & fixed-term, Sept 2023 - ...
+- **Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - ...
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
     Involved as a senior data engineer in:
-    
+
     - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralized registry using the Health Data platform.
-    
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
-    
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
-    
-    - [OHDSI (Observational Health Data Sciences and Informatics)](https://www.ohdsi.org) and [OHDSI Belgium](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ohdsi-belgium). Investigating the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) adoption by disease-specific registries and identifying barriers to its implementation.
-    
     - The application of FHIR® (Fast Healthcare Interoperability Resources) in remote patient monitoring.
     
-    @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), part-time & fixed-term, Jan 2022 - Dec 2024
+- **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024
+  
+    - Researcher, part-time & fixed-term, Jan 2024 - Dec 2024
     
     - Non-statutory academic staff, part-time & fixed-term, Jan 2024 - Mar 2024
     
@@ -36,7 +31,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
-    As researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    As a researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
@@ -280,4 +275,4 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 3 November 2024*
+*Last update: 11 November 2024*
