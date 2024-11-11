@@ -2,13 +2,13 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started in 2017 transitioning towards data, and in 2020, I returned to academia. Today, I am a researcher and data engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and at the  [Rehabilitation Research Center (Reval),](https://www.uhasselt.be/nl/onderzoeksgroepen/reval) both at the [University of Hasselt](https://www.uhasselt.be/nl), where I working on healthcare-related data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries such as microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started in 2017 transitioning towards data, and in 2020, I returned to academia. Today, I am a data engineer at the [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) and a researcher at the  [Rehabilitation Research Center (Reval) at the [University of Hasselt](https://www.uhasselt.be/nl).
 
 
 
 ## 🛠️ Work Experience
 
-- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract, **current employment**, Jan 2022 - ...
+- **Researcher** @ Hasselt University, Belgium - fixed-term & part-time contract, Jan 2022 - ...
 
     @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), part-time & fixed-term, Sept 2023 - ...
 
