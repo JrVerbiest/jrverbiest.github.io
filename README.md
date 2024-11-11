@@ -15,10 +15,12 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     Involved in:
 
     - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralized registry using the Health Data platform.
+    
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
+    
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
-
-​	Additionally, exploring the Observational Medical Outcomes Partnership (OMOP) Common Data 	Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources), and more specifically, the use 	of FHIR® in remote patient monitoring.
+    
+    Additionally, exploring the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources), and more specifically, the use of FHIR® in remote patient monitoring.
 
 - **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024
   
