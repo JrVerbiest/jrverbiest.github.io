@@ -2,7 +2,7 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 13 years, I started, in 2017, transitioning towards data by self-education. In 2020, I returned to academia, working on health-related data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 13 years, I started - in 2017 - transitioning towards data by self-education. In 2020, I returned to academia, working on health-related data projects.
 
 <br>
 
@@ -20,7 +20,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
     
-    Additionally, exploring the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and FHIR® (Fast Healthcare Interoperability Resources), and more specifically, the use of FHIR® in remote patient monitoring.
+    Additionally, exploring FHIR® (Fast Healthcare Interoperability Resources) and, more specifically, the use of FHIR® in remote patient monitoring.
 
 - **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024
   
