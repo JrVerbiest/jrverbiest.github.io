@@ -2,7 +2,7 @@
 
 ## About
 
-With two Master of Science degrees and a doctoral degree in Engineering, I bring over a decade of experience in microwave technology, preclinical research, and medical engineering. After 12 years in these fields, I pivoted towards data in 2017 and, in 2020, returned to academia as a researcher/technical developer/data engineer, focusing on health data projects that drive advancements in healthcare.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 12 years, I started, in 2017, transitioning towards data. In 2020, I returned to academia, working on health-related data projects.
 
 <br>
 
