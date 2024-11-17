@@ -1,12 +1,12 @@
 # Joeri R. Verbiest, PhD MSc
 
-Data Enthusiasts - Data Engineer
-
 ## About
 
 I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 13 years, I started - in 2017 - transitioning towards data by self-education. In 2020, I returned to academia, working on health-related data projects.
 
 ---
+
+<br>
 
 ## 🎓 Education
 
