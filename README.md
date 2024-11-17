@@ -1,4 +1,4 @@
-# Joeri R. Verbiest, PhD MSc - Engineer
+# Joeri R. Verbiest, PhD MSc
 
 Data Enthusiasts - Data Engineer
 
