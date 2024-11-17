@@ -1,10 +1,12 @@
-# Joeri R. Verbiest, PhD MSc
+# Joeri R. Verbiest, PhD MSc - Engineer
+
+Data Enthusiasts - Data Engineer
 
 ## About
 
 I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 13 years, I started - in 2017 - transitioning towards data by self-education. In 2020, I returned to academia, working on health-related data projects.
 
-<br>
+---
 
 ## 🛠️ Work Experience
 
@@ -154,7 +156,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
   - Solves component failure by lightning (surge immunity);
   - Feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
-<br>
+---
 
 ## 🔬Research projects
 
@@ -168,68 +170,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 - **Project Antenna design for a medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
-<br>
-
-## 🎓 Education
-
-- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
-
-  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
-
-  Thesis: Design of Antennas Used on the Human Body.
-
-- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
-
-  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
-
-  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
-
-  Followed extra courses in 
-
-  - Biomedical engineering: 
-    - Human Physiology;
-    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
-    - Biomedical Measurements and Stimulation;
-    - Transport Phenomena in Biological Systems.
-
-  - Energy engineering: 
-    - Finite Elements for magnetic fields and optimisation.
-
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
-
-  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
-
-  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
-
-<br>
-
-## 🎓 Self-education
-
-### Databricks 
-
-- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
-
-
-### Udacity
-
-- **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
-- **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
-- **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
-- **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
-- **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-- **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
-- **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
-  
-
-<br>
-
-## 📷 Photography
-
-- Art Academy Temse, division Bornem (2007-2009)
-- Art academy “De Lei”, Leuven (2005-2006) 
-
-<br>
+---
 
 ## ✍🏻 Publications
 
@@ -278,4 +219,73 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 - Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 11 November 2024*
+
+## 🎓 Education
+
+### University
+
+- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
+
+  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
+
+  Thesis: Design of Antennas Used on the Human Body.
+
+- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
+
+  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
+
+  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+
+  Followed extra courses in 
+
+  - Biomedical engineering: 
+    - Human Physiology;
+    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
+    - Biomedical Measurements and Stimulation;
+    - Transport Phenomena in Biological Systems.
+
+  - Energy engineering: 
+    - Finite Elements for magnetic fields and optimisation.
+
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+
+  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
+
+  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
+
+### Self-education
+
+#### Databricks 
+
+- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
+
+
+#### Udacity
+
+- **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
+- **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
+- **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+- **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
+  
+
+#### DataCamp
+
+##### Statement Of Accomplishment
+
+- [Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf)
+- [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
+- [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf)
+- [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf)
+- [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
+
+### 📷 Photography
+
+- Art Academy Temse, division Bornem (2007-2009)
+- Art academy “De Lei”, Leuven (2005-2006) 
+
+---
+*Last update: 17 November 2024*
