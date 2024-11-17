@@ -8,6 +8,37 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
+## 🎓 Education
+
+- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
+
+  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
+
+  Thesis: Design of Antennas Used on the Human Body.
+
+- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
+
+  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
+
+  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+
+  Followed extra courses in 
+
+  - Biomedical engineering: 
+    - Human Physiology;
+    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
+    - Biomedical Measurements and Stimulation;
+    - Transport Phenomena in Biological Systems.
+
+  - Energy engineering: 
+    - Finite Elements for magnetic fields and optimisation.
+
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+
+  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
+
+  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
+
 ## 🛠️ Work Experience
 
 - **[Senior Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - ...
@@ -220,48 +251,22 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
-## 🎓 Education
+### 📷 Photography
 
-### University
+- Art Academy Temse, division Bornem (2007-2009)
+- Art academy “De Lei”, Leuven (2005-2006) 
 
-- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
+---
 
-  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
+## 🎓 Self-Education
 
-  Thesis: Design of Antennas Used on the Human Body.
-
-- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
-
-  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
-
-  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
-
-  Followed extra courses in 
-
-  - Biomedical engineering: 
-    - Human Physiology;
-    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
-    - Biomedical Measurements and Stimulation;
-    - Transport Phenomena in Biological Systems.
-
-  - Energy engineering: 
-    - Finite Elements for magnetic fields and optimisation.
-
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
-
-  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
-
-  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
-
-### Self-education
-
-#### Databricks 
+### ° Databricks 
 
 - **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
 
 
-#### Udacity
+### ° Udacity
 
 - **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
 - **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
@@ -272,20 +277,15 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 - **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
   
 
-#### DataCamp
+### ° DataCamp
 
-##### Statement Of Accomplishment
+#### Statement Of Accomplishment
 
 - [Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf)
 - [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
 - [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf)
 - [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf)
 - [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
-
-### 📷 Photography
-
-- Art Academy Temse, division Bornem (2007-2009)
-- Art academy “De Lei”, Leuven (2005-2006) 
 
 ---
 *Last update: 17 November 2024*
