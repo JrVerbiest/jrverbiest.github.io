@@ -6,8 +6,6 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
-<br>
-
 ## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -65,7 +63,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     - Technical Developer, part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
     
-    General engineering support, data/signal processing, and sensor data cleansing.  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
+    General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis (doctoral research).  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
     As a researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
@@ -260,13 +258,15 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ## 🎓 Self-Education
 
-### ° Databricks 
+###  Transitioning towards data 
+
+### Databricks 
 
 - **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
 
 
-### ° Udacity
+### Udacity
 
 - **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
 - **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
@@ -277,15 +277,16 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 - **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
   
 
-### ° DataCamp
+### DataCamp
 
-#### Statement Of Accomplishment
+- Career Track (Ongoing)
+  - Associate Data Engineer in SQL ([Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf), Introduction to SQL, ...)
 
-- [Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf)
-- [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
-- [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf)
-- [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf)
-- [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
+- Statement Of Accomplishment
+  - [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
+  - [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf)
+  - [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf)
+  - [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
 
 ---
-*Last update: 17 November 2024*
+*Last update: 18 November 2024*
