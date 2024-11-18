@@ -258,7 +258,9 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ## 🎓 Self-Education
 
-###  Transitioning towards data 
+###  Transitioning towards data.
+
+*Data engineering, data science & machine learning.*
 
 ### Databricks 
 
