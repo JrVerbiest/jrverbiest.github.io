@@ -55,15 +55,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 - **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024
   
-    - Researcher, part-time & fixed-term, Jan 2024 - Dec 2024
-    
-    - Non-statutory academic staff, part-time & fixed-term, Jan 2024 - Mar 2024
-    
-    - Researcher Expert, part-time & fixed-term, Jan 2023 - Aug 2023
-    
-    - Technical Developer, part-time & fixed-term (replacement contract), Jan 2022 - Dec 2023
-    
-    General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis (doctoral research).  Data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
+    General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis.  Mainly data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
     As a researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
     
@@ -291,4 +283,4 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
   - [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
 
 ---
-*Last update: 18 November 2024*
+*Last update: 23 November 2024*
