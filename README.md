@@ -6,37 +6,6 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
-## 🎓 Education
-
-- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
-
-  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
-
-  Thesis: Design of Antennas Used on the Human Body.
-
-- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
-
-  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
-
-  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
-
-  Followed extra courses in 
-
-  - Biomedical engineering: 
-    - Human Physiology;
-    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
-    - Biomedical Measurements and Stimulation;
-    - Transport Phenomena in Biological Systems.
-
-  - Energy engineering: 
-    - Finite Elements for magnetic fields and optimisation.
-
-- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
-
-  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
-
-  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
-
 ## 🛠️ Work Experience
 
 - **[Senior Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - ...
@@ -179,6 +148,39 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
+## 🎓 Education
+
+- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
+
+  Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
+
+  Thesis: Design of Antennas Used on the Human Body.
+
+- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
+
+  Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
+
+  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+
+  Followed extra courses in 
+
+  - Biomedical engineering: 
+    - Human Physiology;
+    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
+    - Biomedical Measurements and Stimulation;
+    - Transport Phenomena in Biological Systems.
+
+  - Energy engineering: 
+    - Finite Elements for magnetic fields and optimisation.
+
+- **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
+
+  Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
+
+  Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
+
+---
+
 ## 🔬Research projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
@@ -274,7 +276,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 ### DataCamp
 
 - Career Track (Ongoing)
-  - Associate Data Engineer in SQL ([Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf), Introduction to SQL, ...)
+  - Associate Data Engineer in SQL: [Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf)
 
 - Statement Of Accomplishment
   - [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
@@ -283,4 +285,4 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
   - [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
 
 ---
-*Last update: 23 November 2024*
+*Last update: 24 November 2024*
