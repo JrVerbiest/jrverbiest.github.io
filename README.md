@@ -273,9 +273,7 @@ Data engineering, Data Science & Machine Learning.
 
 ### DataCamp
 
-- Career Track - **Ongoing**: Associate Data Engineer in SQL ([Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf), ...)
-
-- Statement Of Accomplishment: [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf), [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf), [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf), and [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
+- [Statement Of Accomplishments](https://github.com/JrVerbiest/jrverbiest.github.io/tree/master/datacamp)
 
 <br>
 
