@@ -8,7 +8,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ## 🛠️ Work Experience
 
-- **[Senior Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - ...
+- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - contract end: 31 Dec 2025 - **Current employment**
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -20,9 +20,9 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
     
-    Additionally, exploring FHIR® (Fast Healthcare Interoperability Resources) and, more specifically, the use of FHIR® in remote patient monitoring.
+    Additionally, exploring FHIR® (Fast Healthcare Interoperability Resources).
 
-- **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024
+- **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 -  contract end: Dec 2024 - **Current employment**
   
     General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis.  Mainly data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
@@ -250,11 +250,9 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
-## 🎓 Self-Education
+## 🎓 Transitioning towards data by self-education: 
 
-###  Transitioning towards data.
-
-*Data engineering, data science & machine learning.*
+Data engineering, Data Science & Machine Learning.
 
 ### Databricks 
 
@@ -275,14 +273,11 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ### DataCamp
 
-- Career Track (Ongoing)
-  - Associate Data Engineer in SQL: [Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf)
+- Career Track - **Ongoing**: Associate Data Engineer in SQL ([Understanding Data Engineering](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataEngineering.pdf), ...)
 
-- Statement Of Accomplishment
-  - [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf)
-  - [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf)
-  - [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf)
-  - [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
+- Statement Of Accomplishment: [Understanding Data Science](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/UnderstandingDataScience.pdf), [Intermediate Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntermediatePython.pdf), [Introduction to Python](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToPython.pdf), and [Introduction to R](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/datacamp/IntroductionToR.pdf)
+
+<br>
 
 ---
-*Last update: 24 November 2024*
+*Last update: 26 November 2024*
