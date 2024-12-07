@@ -8,7 +8,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ## 🛠️ Work Experience
 
-- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - contract end: 31 Dec 2025 - **Current employment**
+- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - **Current employment**
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -22,7 +22,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     
     Additionally, exploring FHIR® (Fast Healthcare Interoperability Resources).
 
-- **Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 -  contract end: Dec 2024 - **Current employment**
+- **Researcher - Engineer - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
   
     General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis.  Mainly data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
@@ -250,7 +250,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
-## 🎓 Transitioning towards data by self-education: 
+## 🎓 Self-Education - Transitioning towards data
 
 Data engineering, Data Science & Machine Learning.
 
@@ -278,4 +278,4 @@ Data engineering, Data Science & Machine Learning.
 <br>
 
 ---
-*Last update: 26 November 2024*
+*Last update: 7 December 2024*
