@@ -2,26 +2,24 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries - microwave, preclinical, and medical sectors. After applying my engineering expertise in these industries for 13 years, I started - in 2017 - transitioning towards data by self-education. In 2020, I returned to academia, working on health-related data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries: microwave, preclinical, and medical sectors. In 2017, I started transitioning towards data by self-education, and in 2020, I returned to academia. Today, I am mainly working on health-related data projects.
 
 ---
 
 ## 🛠️ Work Experience
 
-- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - **Current employment**
+- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - ...
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
     Involved in:
 
-    - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralized registry using the Health Data platform.
+    - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
     
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
     
-    Additionally, exploring FHIR® (Fast Healthcare Interoperability Resources).
-
 - **Researcher - Engineer - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
   
     General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis.  Mainly data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
@@ -278,4 +276,4 @@ Data engineering, Data Science & Machine Learning.
 <br>
 
 ---
-*Last update: 7 December 2024*
+*Last update: 15 December 2024*
