@@ -201,9 +201,11 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ### Articles in Journals
 
-- Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, Gait Stride Length Estimation Using Embedded Machine Learning, MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
+- Muhammad Bergas Nur Fayyad, Joeri R. Verbiest, Anna Ivanova, Mario Manto, Lousin Moumdjian, "Feature derivation and classification of auditory-motor coupling dynamics in healthy and neurologically impaired adults.", PLOS ONE, December 16, 2024. [**Paper**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315607)
 
-- Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., Sensitive and quantitative pEPR detection system for SPIO nanoparticles, Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
+- Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, "Gait Stride Length Estimation Using Embedded Machine Learning", MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
+
+- Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., "Sensitive and quantitative pEPR detection system for SPIO nanoparticles", Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
 
 - J.R. Verbiest and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
 
@@ -276,4 +278,4 @@ Data engineering, Data Science & Machine Learning.
 <br>
 
 ---
-*Last update: 15 December 2024*
+*Last update: 17 December 2024*
