@@ -18,7 +18,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
 
-    Mainly data engineering tasks.
+    Task: data engineering.
     
     <br>
     
@@ -254,12 +254,12 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ## 🎓 Self-Education - Transitioning towards data
 
-Data engineering, Data Science & Machine Learning.
+Data Analytics, Data Engineering, Data Science, and Machine Learning.
 
 ### Databricks 
 
-- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
+- **Fundamentals of the Databricks Lakehouse Platform**, February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- **Databricks Fundamentals Accreditation**, September 2024 - [Accreditation](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
 
 
 ### Udacity
@@ -276,8 +276,6 @@ Data engineering, Data Science & Machine Learning.
 ### DataCamp
 
 - [Statement Of Accomplishments](https://github.com/JrVerbiest/jrverbiest.github.io/tree/master/datacamp)
-
-<br>
 
 ---
 *Last update: 23 December 2024*
