@@ -258,8 +258,8 @@ Data engineering, Data Science & Machine Learning.
 
 ### Databricks 
 
-- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/learn-databricks/blob/main/certificate-accredidation/Databricks%20Fundamentals%20Accreditation.pdf)
+- **Fundamentals of the Databricks Lakehouse Platform**, 21 February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- **Databricks Fundamentals Accreditation**, 27 September 2024 - [Accreditation](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
 
 
 ### Udacity
@@ -280,4 +280,4 @@ Data engineering, Data Science & Machine Learning.
 <br>
 
 ---
-*Last update: 21 December 2024*
+*Last update: 23 December 2024*
