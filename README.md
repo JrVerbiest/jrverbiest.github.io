@@ -2,7 +2,7 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across industries: microwave, preclinical, and medical sectors. In 2017, I started transitioning towards data by self-education, and in 2020, I returned to academia. Today, I am mainly working on health-related data projects.
+I hold two MSc degrees and a PhD in engineering, with over a decade of experience across different industries: microwave, preclinical, and medical sectors. In 2017, I started transitioning towards data by self-education, and in 2020, I returned to academia. Today, I mainly work on health-related data projects with a strong focus on data engineering.
 
 ---
 
@@ -162,17 +162,12 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
   In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
 
-  Followed extra courses in 
+  Followed extra courses in:
 
-  - Biomedical engineering: 
-    - Human Physiology;
-    - Biology and Biochemistry of Human Systems, including Human Biotechnology;
-    - Biomedical Measurements and Stimulation;
-    - Transport Phenomena in Biological Systems.
-
-  - Energy engineering: 
-    - Finite Elements for magnetic fields and optimisation.
-
+  - Biomedical engineering (Human Physiology, Biology and Biochemistry of Human Systems, including Human Biotechnology, Biomedical Measurements and Stimulation, and Transport Phenomena in Biological Systems).
+  
+  - Energy engineering (Finite Elements for magnetic fields and optimisation).
+  
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
   Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
@@ -203,45 +198,45 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ### Articles in Journals
 
-- Muhammad Bergas Nur Fayyad, Joeri R. Verbiest, Anna Ivanova, Mario Manto, Lousin Moumdjian, "Feature derivation and classification of auditory-motor coupling dynamics in healthy and neurologically impaired adults.", PLOS ONE, December 16, 2024. [**Paper**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315607)
+- Muhammad Bergas Nur Fayyad, **Joeri R. Verbiest**, Anna Ivanova, Mario Manto, Lousin Moumdjian, "Feature derivation and classification of auditory-motor coupling dynamics in healthy and neurologically impaired adults.", PLOS ONE, December 16, 2024. [**Paper**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315607)
 
-- Joeri R. Verbiest, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, "Gait Stride Length Estimation Using Embedded Machine Learning", MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
+- **Joeri R. Verbiest**, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, "Gait Stride Length Estimation Using Embedded Machine Learning", MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166)
 
-- Li X., Torfs G, Vandewege J, Bauwelinck J, Verbiest J.R., "Sensitive and quantitative pEPR detection system for SPIO nanoparticles", Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
+- Li X., Torfs G, Vandewege J, Bauwelinck J, **Verbiest J.R.**, "Sensitive and quantitative pEPR detection system for SPIO nanoparticles", Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Small size planar triangular monopole antenna for UWB WBAN applications", IEE Electronics Letters, Volume 42, Issue 10, pp. 566-567, 2006. [**Paper**](https://www.researchgate.net/publication/3388880_Small-size_planar_triangular_monopole_antenna_for_UWB_WBAN_applications)
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Small size planar triangular monopole antenna for UWB WBAN applications", IEE Electronics Letters, Volume 42, Issue 10, pp. 566-567, 2006. [**Paper**](https://www.researchgate.net/publication/3388880_Small-size_planar_triangular_monopole_antenna_for_UWB_WBAN_applications)
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "A Novel Small Size Printed Tapered Monopole Antenna for UWB WBAN", IEEE Antennas and Wireless Propagation Letters, pp. 377-379, vol. 5, 2006. [**Paper**](https://ieeexplore.ieee.org/document/1696014)
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "A Novel Small Size Printed Tapered Monopole Antenna for UWB WBAN", IEEE Antennas and Wireless Propagation Letters, pp. 377-379, vol. 5, 2006. [**Paper**](https://ieeexplore.ieee.org/document/1696014)
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Microwave Breast Cancer Detection and Superficial Hyperthermia Breast Cancer Treatment", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 35-44, 2004.
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Microwave Breast Cancer Detection and Superficial Hyperthermia Breast Cancer Treatment", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 35-44, 2004.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Antennas for Wireless Biomedical Applications", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 13-24, 2004.
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Antennas for Wireless Biomedical Applications", Revue HF, Belgian Journal of Electronics and Communication, no. 4, pp 13-24, 2004.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
 
 ### Articles in Conference Proceedings
 
-- Detection of superparamagnetic iron oxide nanoparticles (SPION’s) in the pig lung using the particle electron paramagnetic resonance (pEPR) technique, Christine M Shortt, Deirdre Edge, Eric Roskin, Joeri R Verbiest, Farouk Markos, Stephanie Teughels, WMIC 2014, Seoul; Sept 17-20.
+- Detection of superparamagnetic iron oxide nanoparticles (SPION’s) in the pig lung using the particle electron paramagnetic resonance (pEPR) technique, Christine M Shortt, Deirdre Edge, Eric Roskin, **Joeri R Verbiest**, Farouk Markos, Stephanie Teughels, WMIC 2014, Seoul; Sept 17-20.
 
-- Bio-distribution of supraparagmetic iron oxide nanoparticles in the pig, C. Shortt, D. Edge, S. Teughels, E. Roskin, J. Verbiest, O. Gobbo, A. Prina-Mello, Y. Volkov and F. Markos. Drug Discovery and Development, Pharmacology and Experimental Therapeutics, Experimental Biology 2014, San Diego; April 26-30.
+- Bio-distribution of supraparagmetic iron oxide nanoparticles in the pig, C. Shortt, D. Edge, S. Teughels, E. Roskin, **J. Verbiest**, O. Gobbo, A. Prina-Mello, Y. Volkov and F. Markos. Drug Discovery and Development, Pharmacology and Experimental Therapeutics, Experimental Biology 2014, San Diego; April 26-30.
 
-- G. Pailloncy and J. Verbiest, "On the fly PA Design with the R&S NMDG ZVxPlus", ARMMS RF & Microwave Society, April 2009.
+- G. Pailloncy and **J. Verbiest**, "On the fly PA Design with the R&S NMDG ZVxPlus", ARMMS RF & Microwave Society, April 2009.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "A Microstrip-Fed Equilateral Triangular Microstrip Antenna on a Finite Periodic Surface of Square Patches", The Second IASTED International Conference on Antennas, Radar, and Wave Propagation (ARP2005), Banff, Canada, pp.366-370, 19-21 July 2005.
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "A Microstrip-Fed Equilateral Triangular Microstrip Antenna on a Finite Periodic Surface of Square Patches", The Second IASTED International Conference on Antennas, Radar, and Wave Propagation (ARP2005), Banff, Canada, pp.366-370, 19-21 July 2005.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Design of very small antennas for biomedical devices", Proc. 12th URSI Forum, Brussels, Belgium, 10 December 2004.
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Design of very small antennas for biomedical devices", Proc. 12th URSI Forum, Brussels, Belgium, 10 December 2004.
 
-- J.R. Verbiest, P. Delmotte, G.A.E. Vandenbosch, L. Verschaeve and A. Maes, "The Use of High Impedance Surfaces in the Construction of an Exposure Setup. A Preliminary Feasibility Study", Journées Internationales de Nice sur les Antennes (JINA2004), Nice, France, pp. 116-117, 8-10 November 2004.
+- **J.R. Verbiest**, P. Delmotte, G.A.E. Vandenbosch, L. Verschaeve and A. Maes, "The Use of High Impedance Surfaces in the Construction of an Exposure Setup. A Preliminary Feasibility Study", Journées Internationales de Nice sur les Antennes (JINA2004), Nice, France, pp. 116-117, 8-10 November 2004.
 
-- J.R. Verbiest, G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Proc. 11th URSI Forum, Brussels, Belgium, 18 December 2003.
+- **J.R. Verbiest**, G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Proc. 11th URSI Forum, Brussels, Belgium, 18 December 2003.
 
-- J.R. Verbiest and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
+- **J.R. Verbiest** and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
 ### Contributions
 
-- Moumdjian, L. Verbiest, J., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
+- Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
 
@@ -278,4 +273,4 @@ Data Analytics, Data Engineering, Data Science, and Machine Learning.
 - [Statement Of Accomplishments](https://github.com/JrVerbiest/jrverbiest.github.io/tree/master/datacamp)
 
 ---
-*Last update: 23 December 2024*
+*Last update: 24 December 2024*
