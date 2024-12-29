@@ -1,14 +1,14 @@
-# Joeri R. Verbiest, PhD MSc
+# Joeri R. Verbiest - Data Engineer
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, with over a decade of experience across different industries: microwave, preclinical, and medical sectors. In 2017, I started transitioning towards data by self-education, and in 2020, I returned to academia. Today, I mainly work on health-related data projects with a strong focus on data engineering.
+I hold two MSc degrees and a PhD in engineering, and I have over a decade of experience across various industries - microwave, preclinical, and medical sectors. In 2017, I began transitioning to the field of data through self-education, and in 2020, I returned to academia. Currently, I primarily work as a data engineer on health-related data projects.
 
 ---
 
 ## 🛠️ Work Experience
 
-- **[Researcher - Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term, Sept 2023 - **Current employment**
+- **[Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term. **Current Employment:** Starting from September 2023.
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -20,9 +20,7 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
     Task: data engineering.
     
-    <br>
-    
-- **Researcher - Engineer - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
+- **Engineer - Researcher - Technical Developer** @ [Rehabilitation Research Center - Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
   
     General engineering support, data/signal processing, sensor data cleansing and data preparation for statical analysis.  Mainly data from gait (IMU sensor technology) and gait-beat synchronisation measures. 
     
@@ -176,6 +174,13 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 
 ---
 
+### 📷 Photography
+
+- Art Academy Temse, division Bornem (2007-2009)
+- Art academy “De Lei”, Leuven (2005-2006) 
+
+---
+
 ## 🔬Research projects
 
 - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
@@ -239,38 +244,4 @@ I hold two MSc degrees and a PhD in engineering, with over a decade of experienc
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-
-### 📷 Photography
-
-- Art Academy Temse, division Bornem (2007-2009)
-- Art academy “De Lei”, Leuven (2005-2006) 
-
----
-
-## 🎓 Self-Education - Transitioning towards data
-
-Data Analytics, Data Engineering, Data Science, and Machine Learning.
-
-### Databricks 
-
-- **Fundamentals of the Databricks Lakehouse Platform**, February 2024 - [Certificate of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- **Databricks Fundamentals Accreditation**, September 2024 - [Accreditation](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
-
-
-### Udacity
-
-- **Data Modeling Fluency**, Course (2023) - [Certificate of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
-- **[Statistics for Data Analysis](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/38f5950e-77e9-11ee-985a-c745150d168c)
-- **[Practical Statistics](https://github.com/JrVerbiest/Udacity-Projects)**, Course (2023) - [Certificate of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
-- **[Machine Learning DevOps Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2022) - [Certificate of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
-- **[Machine Learning Engineer](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2019) - [Certificate of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-- **[AI Programming with Python](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
-- **[Introduction to Programming](https://github.com/JrVerbiest/Udacity-Projects)**, Nanodegree (2018) - [Certificate of Completion](http://www.jrverbiest.eu/docs/Certificate%20Intro%20to%20Programming%20Nanodegree.pdf)
-  
-
-### DataCamp
-
-- [Statement Of Accomplishments](https://github.com/JrVerbiest/jrverbiest.github.io/tree/master/datacamp)
-
----
-*Last update: 24 December 2024*
+*Last update: 29 December 2024*
