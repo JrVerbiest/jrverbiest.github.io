@@ -2,13 +2,13 @@
 
 ## About
 
-I hold two MSc degrees and a PhD in engineering, and I have over a decade of experience across various industries - microwave, preclinical, and medical sectors. In 2017, I began transitioning to the field of data through self-education, and in 2020, I returned to academia. Currently, I primarily work as a data engineer on health-related data projects.
+I hold two MSc degrees and a PhD in engineering, and I have over a decade of experience across various industries - microwave, preclinical, and medical sectors. In 2017, I began transitioning to the field of data through self-education, and in 2020, I returned to academia. Currently, I primarily work as an engineer on health-related data projects.
 
 ---
 
 ## 🛠️ Work Experience
 
-- **[Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term. **Current Employment:** Starting from September 2023.
+- **[Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time & fixed-term. **Current Employment** from September 2023.
 
     The Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
