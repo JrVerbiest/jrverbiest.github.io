@@ -1,4 +1,4 @@
-# Joeri R. Verbiest - Data Engineer
+# Joeri R. Verbiest - Engineer
 
 ## About
 
@@ -100,7 +100,7 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
   - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
-  - Member of the European project 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
+  - Member of the European Project (FP7) 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time, Aug 2009 - Mar 2012.
 
@@ -120,9 +120,9 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
 
   🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
 
-- **Project: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007. 
+- **Project 🔬: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007. 
 
-  Achievements: proof of concept and a prototype design.
+  Achievements: Proof of concept (TRL1) & prototype design (TRL2).
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
@@ -171,27 +171,6 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
   Internship @ Hevrox EMC/Safety Services, Beringen, Belgium (today, Hevrox EMC/Safety Services is integrated into the EMI solution).
 
   Thesis: Validation of a fully anechoic room according to the prEN 50147-3 with HP-VEE. Content: Implementing an automatic measurement tool using HP-VEE and validating the fully anechoic chamber.
-
----
-
-### 📷 Photography
-
-- Art Academy Temse, division Bornem (2007-2009)
-- Art academy “De Lei”, Leuven (2005-2006) 
-
----
-
-## 🔬Research projects
-
-- **[🌐 ML@E2dge](https://mlate2dge.github.io)** - PWO Project. Machine Learning @ the Extreme Edge (ML@E2dge). 
-
-- **[🌐 Elgas](https://www.kdg.be/ELGAS)** - Tetra Project. Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. 
-
-- **[🌐 MULTIFUN](https://cordis.europa.eu/project/id/262943)** - European Project (FP7). Multifunctional Nanotechnology for Selective Detection and Treatment of Cancer. Member of one work package.
-
-- **[🌐 PANAMA](http://www.catrene.org/web/downloads/profiles_catrene/CA101-PANAMA-project%20profile-final%20%287-6-11%29.pdf)** - European Project. Power Amplifier aNd Antennas for Mobile Applications. Member of two work packages, one as work package leader.
-
-- **Project Antenna design for a medical implant**, a project under Non-Disclosure Agreement, Client ‘X’ & Katholieke Universiteit Leuven (Esat-Telemic). Proof of concept (TRL1) & prototype design (TRL2). 
 
 ---
 
@@ -244,4 +223,4 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 29 December 2024*
+*Last update: 2 January 2025*
