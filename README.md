@@ -98,7 +98,7 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
   - Hardware and software integration; 
   - System test, validation, and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/document?iDocId=6582846&iFormat=0); 
+  - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European Project (FP7) 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
 
