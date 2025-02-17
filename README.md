@@ -2,9 +2,9 @@
 
 ## About me
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering, with over two decades of multidisciplinary experience spanning research and industry. 
+I hold a PhD in Engineering Science and two MSc degrees in Engineering, with over two decades of multidisciplinary experience spanning research and industry.
 
-I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data governance framework—featuring a centralized metadata catalog and integrated versioning systems—to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a data engineer with the Biomedical Data Sciences group at the Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences, providing targeted data engineering support for innovative health-related projects.
+I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data management, data governance framework—featuring a centralized metadata catalog and integrated data and code versioning to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a data engineer with the Biomedical Data Sciences group at the Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences, providing targeted data engineering support for innovative health-related projects.
 
 Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through advanced data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis—and the Elgas project, which examined the impact of environmental conditions on human health.
 
