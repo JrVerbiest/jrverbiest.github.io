@@ -1,22 +1,32 @@
-# Joeri R. Verbiest - Engineer
+# Joeri R. Verbiest - Data Engineer
 
-## About
+## About me
 
-I hold two MSc degrees and a PhD in engineering, and I have over a decade of experience across various industries - microwave, preclinical, and medical sectors. In 2017, I began transitioning to the field of data through self-education, and in 2020, I returned to academia. Currently, I primarily work as an engineer on health-related data projects.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering, with over two decades of multidisciplinary experience spanning research and industry. 
+
+I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data governance framework—featuring a centralized metadata catalog and integrated versioning systems—to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a data engineer with the Biomedical Data Sciences group at the Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences, providing targeted data engineering support for innovative health-related projects.
+
+Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through advanced data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis—and the Elgas project, which examined the impact of environmental conditions on human health.
+
+In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust practical skill set, enabling me to effectively connect complex engineering challenges with market-driven solutions.
 
 ---
 
 ## 🛠️ Work Experience
 
-- **[Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences, Hasselt University, Belgium, part-time & fixed-term. **Current Employment** from September 2023.
+- **Data Engineer** @ Data Science Instiute, Faculty of Sciences - Mathematics & Statistcs, Hasselt University, Belgium, part-time (50%) & fixed-term. - **Current Employment** (from February 2025).
+  
+  Task: Develop a data management and governance strategy by implementing a proof-of-concept for a centralized metadata management solution, as well as creating a strategy and solution for data and code versioning.
 
-    Involved in:
+- **[Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** - Researcher @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - Immunology & Infection, Hasselt University, Belgium, part-time (30%) & fixed-term. - **Current Employment** (from September 2023).
 
-    - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
+  Research Group in Biomedical Data Sciences is affiliated to the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+
+  Data engineering support in different research projects, such as:
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
-    - PROSPeCD. In collaboration with project partners KU Leuven and the University of Antwerp, this initiative aims to learn from international Population Health Management (PHM) practices and implement them in Belgium.
+    - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
+    - [PROSPeCD Study](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/prospecd): Development of a Population Health Management Dashboard for Belgium
     
-    Task: data engineering.
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
     General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statical analysis.
@@ -220,4 +230,4 @@ I hold two MSc degrees and a PhD in engineering, and I have over a decade of exp
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 17 January 2025*
+*Last update: 17 February 2025*
