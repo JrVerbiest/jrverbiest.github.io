@@ -6,7 +6,7 @@ I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.
 
 I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data management, data governance framework—featuring a centralised metadata catalog and integrated data and code versioning to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
 
-Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through advanced data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis—and the Elgas project, which examined the impact of environmental conditions on human health.
+Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through advanced data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
 
 In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust, practical skill set, enabling me to effectively connect complex engineering challenges with market-driven solutions.
 
@@ -230,4 +230,4 @@ In addition to my academic background, I possess significant industry experience
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 7 March 2025*
+*Last update: 8 March 2025*
