@@ -4,9 +4,9 @@
 
 I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.), with over two decades of multidisciplinary experience spanning research and industry.
 
-I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data management, data governance framework—featuring a centralised metadata catalog and integrated data and code versioning to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
+I hold two fixed-term, part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, where I developed and implemented a proof-of-concept data management, data governance framework—featuring a metadata catalog and integrated data and code versioning to enhance data integrity and reproducibility. Simultaneously, since September 2023, I have been a engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
 
-Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through advanced data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
+Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
 
 In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust, practical skill set, enabling me to effectively connect complex engineering challenges with market-driven solutions.
 
@@ -14,11 +14,11 @@ In addition to my academic background, I possess significant industry experience
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Instiute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term. - **Current Employment** - from February 2025 (end of conntract June 26).
+- **Data Engineer** @ [Data Science Instiute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term. - **Current Employment** - from February 2025.
   
   Task: Develop a data management and governance strategy by implementing a metadata management solution and creating a strategy and solution for data and code versioning.
 
-- **[Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** - Researcher @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term. - **Current Employment** - from September 2023 (end of conntract Dec 25).
+- **[Data Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** - Researcher @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term. - **Current Employment** - from September 2023.
 
   Research Group in Biomedical Data Sciences is affiliated to the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -230,4 +230,4 @@ In addition to my academic background, I possess significant industry experience
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
 
 ---
-*Last update: 11 April 2025*
+*Last update: 13 April 2025*
