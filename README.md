@@ -227,7 +227,11 @@ In addition to my academic background, I possess significant industry experience
 
 ### Contributions
 
-- Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus. (contribution: data processing)
+- Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
+
+- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025 (poster)
+
+- [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 13 April 2025*
+*Last update: 14 April 2025*
