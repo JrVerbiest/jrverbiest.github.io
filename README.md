@@ -225,6 +225,10 @@ In addition to my academic background, I possess significant industry experience
 
 - **J.R. Verbiest** and G.A.E. Vandenbosch, "Development of a Finite-Difference Time-Domain model for the research on biological effects by electromagnetic fields", Proc. 10th URSI Forum, Brussels, Belgium, 13 December 2002.
 
+### Preprints
+
+-  Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
+
 ### Contributions
 
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
@@ -234,4 +238,4 @@ In addition to my academic background, I possess significant industry experience
 - [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 14 April 2025*
+*Last update: 4 May 2025*
