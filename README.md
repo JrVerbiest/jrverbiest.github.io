@@ -1,14 +1,12 @@
-# Joeri R. Verbiest - Data Engineer
+# Joeri R. Verbiest PhD MSc - Engineer with focus on Data Engineering
 
 ## About me
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.), with over two decades of multidisciplinary experience spanning research and industry.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.), with over two decades of multidisciplinary experience spanning research and industry, and today, I have two part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at the Data Science Institute, focusing mainly on data governance and data management. Simultaneously, since September 2023, I have been an engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
 
-Today, I have two part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at Data Science Institute, main focus on data governance and data management. Simultaneously, since September 2023, I have been a engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
+Previously, I served as an engineer-researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
 
-Previously, I served as an Engineer-Researcher and Technical Developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to FWO-funded research on auditory-motor coupling in individuals with cerebellar impairments through data and signal processing techniques. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
-
-In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust, practical skill set, enabling me to effectively connect complex engineering challenges with market-driven solutions.
+In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust, practical skill set, enabling me to connect complex engineering challenges with market-driven solutions.
 
 ---
 
@@ -231,13 +229,13 @@ In addition to my academic background, I possess significant industry experience
 
 ### Contributions
 
-- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium. (poster and oral presentation)
+- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium.
 
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
-- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025 (poster).
+- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025.
 
 - [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 15 May 2025*
+*Last update: 18 May 2025*
