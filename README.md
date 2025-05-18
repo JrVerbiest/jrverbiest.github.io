@@ -1,6 +1,5 @@
-# Joeri R. Verbiest PhD MSc - Engineer with focus on Data Engineering
-
-## About me
+# Joeri R. Verbiest PhD MSc
+## Engineer 👨‍💻 who focuses on data engineering.
 
 I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.), with over two decades of multidisciplinary experience spanning research and industry, and today, I have two part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at the Data Science Institute, focusing mainly on data governance and data management. Simultaneously, since September 2023, I have been an engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
 
