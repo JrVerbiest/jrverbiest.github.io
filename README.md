@@ -1,11 +1,12 @@
 # Joeri R. Verbiest PhD MSc
+
 ## Engineer 👨‍💻 who focuses on data engineering.
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir. ing.), with over two decades of multidisciplinary experience spanning research and industry, and today, I have two part-time positions at Hasselt University in Belgium. Since February 2025, I have been a data engineer at the Data Science Institute, focusing mainly on data governance and data management. Simultaneously, since September 2023, I have been an engineer with the Biomedical Data Sciences group, providing targeted data engineering support for innovative health-related projects.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I bring over two decades of multidisciplinary experience across both research and industry. Currently, I hold two part-time positions at Hasselt University in Belgium. Since February 2025, I have worked as a data engineer at the Data Science Institute. Since September 2023, I have also been part of the Biomedical Data Sciences group, where I provide targeted data engineering support for innovative, health-related projects.
 
-Previously, I served as an engineer-researcher and technical developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments. Before that, I worked on diverse projects at Karel de Grote University of Applied Science and Arts, including ML@E2dge—a study leveraging machine learning at the extreme edge for gait analysis.
+Previously, I served as an engineer-researcher and technical developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments.
 
-In addition to my academic background, I possess significant industry experience gained from 2007 to 2019, where I held various roles in consulting, project management, and engineering. These experiences have provided me with a robust, practical skill set, enabling me to connect complex engineering challenges with market-driven solutions.
+Beyond academia, I have substantial industry experience, having held various roles in engineering, consulting, and project management between 2007 and 2020. This background has equipped me with a strong, practical skill set, enabling me to bridge complex engineering challenges with market-oriented solutions.
 
 ---
 
@@ -237,4 +238,4 @@ In addition to my academic background, I possess significant industry experience
 - [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 18 May 2025*
+*Last update: 8 June 2025*
