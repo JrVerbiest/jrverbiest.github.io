@@ -6,7 +6,7 @@ I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing
 
 Previously, I served as an engineer-researcher and technical developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments.
 
-Beyond academia, I have substantial industry experience, having held various roles in engineering, consulting, and project management between 2007 and 2020. This background has equipped me with a strong, practical skill set, enabling me to bridge complex engineering challenges with market-oriented solutions.
+Beyond academia, I have substantial industry experience, having held various roles in engineering, consulting, and project management. This background has equipped me with a strong, practical skill set, enabling me to bridge complex engineering challenges with market-oriented solutions.
 
 ---
 
@@ -233,9 +233,7 @@ Beyond academia, I have substantial industry experience, having held various rol
 
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
-- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025.
-
-- [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
+- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 8 June 2025*
+*Last update: 16 July 2025*
