@@ -24,12 +24,16 @@ Beyond academia, I have substantial industry experience, having held various rol
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
     - [PROSPeCD Study](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/prospecd): Development of a Population Health Management Dashboard for Belgium
+
+  🔨 Software tools: Python and Pandas.
   
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
     General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statical analysis.
 
     As a researcher involved in the FWO-funded project (dr. Lousin Mumdjian, PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+
+     🔨 Software tools: Python, Pandas and SciPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
@@ -152,6 +156,10 @@ Beyond academia, I have substantial industry experience, having held various rol
 ---
 
 ## 🎓 Education
+
+- **Self-Education in Data Science, Machine Learning, and Data Engineering**
+  
+  I began my data journey in late 2017, completing a series of online courses in data science and machine learning (see my [Udacity](https://github.com/JrVerbiest/Udacity-Projects) projects here). Since then, I’ve honed my expertise toward data engineering — working hands-on with platforms like Databricks on Azure. To stay at the cutting edge, I continually explore emerging paradigms such as Data Mesh and Data Product thinking, ensuring my expertice align with modern architecture principles and evolving business needs.
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
 
