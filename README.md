@@ -2,7 +2,7 @@
 
 ## Engineer 👨‍💻 who focuses on data engineering.
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I bring over two decades of multidisciplinary experience across both research and industry. Currently, I hold two part-time positions at Hasselt University in Belgium. Since February 2025, I have worked as a data engineer at the Data Science Institute. Since September 2023, I have also been part of the Biomedical Data Sciences group, where I provide targeted data engineering support for innovative, health-related projects.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I bring over two decades of multidisciplinary experience across both research and industry. Currently, I hold two part-time positions at Hasselt University in Belgium. Since February 2025, I have worked as a data engineer at the Data Science Institute. Since September 2023, I have also been part of the Biomedical Data Sciences group, where I provide targeted data engineering support for innovative, health-related projects. 
 
 Previously, I served as an engineer-researcher and technical developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments.
 
@@ -12,11 +12,11 @@ Beyond academia, I have substantial industry experience, having held various rol
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Instiute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time & fixed-term. - **Current Employment** - from February 2025.
+- **Data Engineer** @ [Data Science Instiute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time & fixed-term, from February 2025 until 30 June 2026.
   
-  Task: Develop a data management and governance strategy by implementing a metadata management solution.
+  Task: Data Engineering.
 
-- **[Engineer](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7256915199603929090/?midToken=AQEM1XBX5O5--Q&midSig=34b0copnZf0Hw1&trk=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-entity~lockup~list~item-0-entity~heading-null-7mveb~m2u3tl3s~lq-null-null&eid=7mveb-m2u3tl3s-lq)** - Researcher @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time & fixed-term. - **Current Employment** - from September 2023.
+- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time & fixed-term, from September 2023 until 31 December 2025.
 
   Research Group in Biomedical Data Sciences is affiliated to the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -29,7 +29,7 @@ Beyond academia, I have substantial industry experience, having held various rol
 
     General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statical analysis.
 
-    As a researcher involved in the FWO-funded project from dr. Lousin Mumdjian (FWO postdoctoral mandate): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    As a researcher involved in the FWO-funded project (dr. Lousin Mumdjian, PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
@@ -236,4 +236,4 @@ Beyond academia, I have substantial industry experience, having held various rol
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 16 July 2025*
+*Last update: 1 Aug 2025*
