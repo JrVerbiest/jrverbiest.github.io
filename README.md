@@ -16,6 +16,8 @@ Beyond academia, I have substantial industry experience, having held various rol
   
   Task: Data Engineering.
 
+  🔨 Software tools: Python, Pandas and Polars.
+
 - **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time & fixed-term, from September 2023 until 31 December 2025.
 
   Research Group in Biomedical Data Sciences is affiliated to the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
@@ -159,7 +161,7 @@ Beyond academia, I have substantial industry experience, having held various rol
 
 - **Self-Education in Data Science, Machine Learning, and Data Engineering**
   
-  I began my data journey in late 2017, completing a series of online courses in data science and machine learning (see my [Udacity](https://github.com/JrVerbiest/Udacity-Projects) projects here). Since then, I’ve honed my expertise toward data engineering — working hands-on with platforms like Databricks on Azure. To stay at the cutting edge, I continually explore emerging paradigms such as Data Mesh and Data Product thinking, ensuring my expertice align with modern architecture principles and evolving business needs.
+  I began my data journey in late 2017, completing a series of online courses in data science and machine learning (see my [Udacity](https://github.com/JrVerbiest/Udacity-Projects) projects here). Since then, I have sharpen my expertise toward data engineering — working hands — for example using Databricks on Azure. To stay at the cutting edge, I continually explore emerging paradigms such as Data Mesh and Data Product thinking, ensuring my expertice align with modern principles.
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
 
