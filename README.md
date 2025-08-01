@@ -16,7 +16,7 @@ Beyond academia, I have substantial industry experience, having held various rol
   
   Task: Data Engineering.
 
-  🔨 Software tools: Python, Pandas and Polars.
+  🔨 Software tools: Python, Polars (a high-performance DataFrame library) and Airflow (a workflow orchestration tool).
 
 - **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (end @ 31 December 2025).
 
