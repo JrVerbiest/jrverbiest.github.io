@@ -165,7 +165,7 @@ Beyond academia, I have substantial industry experience, having held various rol
   
   I'm currently deepening my expertise in data engineering through a hands-on approach—working with platforms like Databricks on Azure, libraries such as Polars (a high-performance DataFrame library), and tools like Airflow (a workflow orchestration tool). To stay at the forefront of the field, I actively explore emerging paradigms — such as Data as a Product thinking — to ensure my skills stay aligned with modern data architecture principles.
 
-  Next on my journey: attending the [Dataminded Engineering Summer School 2025](https://www.dataminded.com/academy/winter-summer-school) to further deepen my knowledge and connect with industry experts. 
+  Next on my journey: attending, in Sept., the [Dataminded Engineering Summer School 2025](https://www.dataminded.com/academy/winter-summer-school), to further deepen my knowledge and connect with industry experts. 
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
 
