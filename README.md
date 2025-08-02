@@ -1,8 +1,6 @@
 # Joeri R. Verbiest PhD MSc
 
-I am an engineer 👨‍💻 and researcher 🔬 with a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I bring a multidisciplinary approach to solving complex technical challenges. Currently, I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group.
-
-Since 2017, I have been transitioning into the data field — now with a strong focus on data engineering. I work hands-on with tools like Databricks on Azure, the Polars DataFrame library, and Airflow for workflow orchestration. I am particularly interested in modern data architecture and emerging paradigms such as *Data as a Product*, which guide my approach to building scalable, maintainable data systems.
+I am an engineer 👨‍💻 and researcher 🔬 with a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I bring a multidisciplinary approach to solving complex technical challenges. Since 2017, I have been transitioning into the data field — now with a strong focus on data engineering. Currently, I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group.
 
 My earlier work spans engineering research, technical development, and consulting—experience that enables me to bridge academic insights with practical, real-world impact.
 
