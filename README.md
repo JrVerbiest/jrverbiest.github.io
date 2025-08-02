@@ -1,12 +1,10 @@
 # Joeri R. Verbiest PhD MSc
 
-## Engineer 👨‍💻 who focuses on data engineering.
+I am an engineer 👨‍💻 and researcher 🔬 with a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I bring a multidisciplinary approach to solving complex technical challenges. Currently, I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group.
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I bring over two decades of multidisciplinary experience across both research and industry. Currently, I hold two part-time positions at Hasselt University in Belgium. Since February 2025, I have worked as a data engineer at the Data Science Institute. Since September 2023, I have also been part of the Biomedical Data Sciences group, where I provide targeted data engineering support for innovative, health-related projects. 
+Since 2017, I have been transitioning into the data field — now with a strong focus on data engineering. I work hands-on with tools like Databricks on Azure, the Polars DataFrame library, and Airflow for workflow orchestration. I am particularly interested in modern data architecture and emerging paradigms such as *Data as a Product*, which guide my approach to building scalable, maintainable data systems.
 
-Previously, I served as an engineer-researcher and technical developer with the Research Group Reval (Faculty of Rehabilitation Sciences) at Hasselt University, contributing to research on auditory-motor coupling in individuals with cerebellar impairments.
-
-Beyond academia, I have substantial industry experience, having held various roles in engineering, consulting, and project management. This background has equipped me with a strong, practical skill set, enabling me to bridge complex engineering challenges with market-oriented solutions.
+My earlier work spans engineering research, technical development, and consulting—experience that enables me to bridge academic insights with practical, real-world impact.
 
 ---
 
@@ -159,14 +157,6 @@ Beyond academia, I have substantial industry experience, having held various rol
 
 ## 🎓 Education
 
-- **Self-Education in Data Science, Machine Learning, and Data Engineering**
-  
-  I began my data journey in late 2017, completing a series of online courses in data science and machine learning (see my [Udacity](https://github.com/JrVerbiest/Udacity-Projects) projects here). 
-  
-  I'm currently deepening my expertise in data engineering through a hands-on approach—working with platforms like Databricks on Azure, libraries such as Polars (a high-performance DataFrame library), and tools like Airflow (a workflow orchestration tool). To stay at the forefront of the field, I actively explore emerging paradigms — such as Data as a Product thinking — to ensure my skills stay aligned with modern data architecture principles.
-
-  Next on my journey: attending, in Sept., the [Dataminded Engineering Summer School 2025](https://www.dataminded.com/academy/winter-summer-school), to further deepen my knowledge and connect with industry experts. 
-
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
@@ -250,4 +240,4 @@ Beyond academia, I have substantial industry experience, having held various rol
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 1 Aug 2025*
+*Last update: 2 Aug 2025*
