@@ -156,20 +156,20 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
 ## 🎓 Self-Education
 
 ### Databricks
-- Fundamentals of the Databricks Lakehouse Platform Certificate. [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
-- Databricks Fundamentals Accreditation. [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
+- Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
 
 I am currently working on an exciting data engineering and machine learning project using Azure Databricks. Stay tuned for updates!
 
 ### Udacity
 
-- DevOps Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
-- Data Stewardship Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
-- Data Modeling Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
-- **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
-- **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
-- **[Machine Learning Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-engineer-nanodegree)** - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
-- **[AI Programming with Python Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#ai-programming-with-python-nanodegree)** - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+- DevOps Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
+- Data Stewardship Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
+- Data Modeling Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
+- Practical Statistics Course - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- Machine Learning DevOps Engineer Nanodegree - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+- Machine Learning Engineer Nanodegree - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- AI Programming with Python Nanodegree - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
 The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects)
 
