@@ -1,8 +1,8 @@
 # Joeri R. Verbiest PhD MSc
 
-I am an engineer 👨‍💻 and researcher 🔬 with a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I bring a multidisciplinary approach to solving complex technical challenges. Since 2017, I have been transitioning into the data field — now with a strong focus on data engineering. Currently, I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I work at the intersection of research, development, and engineering. With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.
 
-My earlier work spans engineering research, technical development, and consulting—experience that enables me to bridge academic insights with practical, real-world impact.
+Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I currently hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my expertise in data engineering to support a variety of research projects.
 
 ---
 
@@ -153,6 +153,25 @@ My earlier work spans engineering research, technical development, and consultin
 
 ---
 
+## 🎓 Self-Education
+
+### Databricks
+- Fundamentals of the Databricks Lakehouse Platform Certificate. [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
+- Databricks Fundamentals Accreditation. [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
+
+### Udacity
+
+- DevOps Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
+- Data Stewardship Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
+- Data Modeling Fluency. [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
+- **[Practical Statistics Course](https://github.com/JrVerbiest/Udacity-Projects#practical-statistics-course)** - [Certificate Of Completion](https://graduation.udacity.com/confirm/e/3cc99f4c-eb24-11ed-b8bc-0719af86f51f)
+- **[Machine Learning DevOps Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-devops-engineer-nanodegree)** - [Certificate Of Completion](https://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20DevOps%20Engineer.pdf)
+- **[Machine Learning Engineer Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#machine-learning-engineer-nanodegree)** - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
+- **[AI Programming with Python Nanodegree](https://github.com/JrVerbiest/Udacity-Projects#ai-programming-with-python-nanodegree)** - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
+
+The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects)
+
+
 ## 🎓 Education
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
@@ -238,4 +257,4 @@ My earlier work spans engineering research, technical development, and consultin
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 2 Aug 2025*
+*Last update: 3 Aug 2025*
