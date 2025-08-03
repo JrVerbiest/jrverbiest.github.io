@@ -1,6 +1,6 @@
 # Joeri R. Verbiest PhD MSc
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.), and I work at the intersection of research, development, and engineering. With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.
+I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.
 
 Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I currently hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my expertise in data engineering to support a variety of research projects.
 
