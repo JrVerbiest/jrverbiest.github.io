@@ -8,7 +8,7 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Instiute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (end @ 30 June 2026).
+- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (end @ 30 June 2026).
   
   Task: Data Engineering.
 
@@ -27,9 +27,7 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
   
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-    General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statical analysis.
-
-    As a researcher involved in the FWO-funded project (dr. Lousin Mumdjian, PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.”*.
+    General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis. As a researcher involved in the FWO-funded project, from dr. Lousin Mumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
 
      🔨 Software tools: Python, Pandas and SciPy.
 
@@ -42,7 +40,7 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
 
     ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
-    🔨 Software & hardware tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
+    🔨 Software & Hardware Tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
