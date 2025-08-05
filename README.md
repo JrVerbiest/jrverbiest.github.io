@@ -12,16 +12,16 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
   
   Task: data engineering.
 
-  🔨 Software tools: Python, Polars (a high-performance DataFrame library) and Airflow (a workflow orchestration tool).
+  🔨 Software tools: Python, Polars and Airflow.
 
 - **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (end at 31 December 2025).
 
   Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
-  Data engineering support in different research projects, such as:
+  Providing data engineering support for various research projects, including:
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
     - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
-    - [PROSPeCD Study](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/prospecd): Development of a Population Health Management Dashboard for Belgium
+    - [PROSPeCD Study](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/prospecd): Developing a Population Health Management Dashboard for Belgium.
 
   🔨 Software tools: Python and Pandas.
   
@@ -30,7 +30,7 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
     - General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
     - As a researcher involved in the FWO-funded project, from dr. Lousin Mumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
 
-     🔨 Software tools: Python, Pandas and SciPy.
+     🔨 Software tools: Python, Pandas, and SciPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
