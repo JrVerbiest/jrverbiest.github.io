@@ -4,6 +4,8 @@ I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing
 
 Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I currently hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my expertise in data engineering to support a variety of research projects.
 
+My personal research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.
+
 ---
 
 ## 🛠️ Work Experience
