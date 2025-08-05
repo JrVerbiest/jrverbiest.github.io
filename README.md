@@ -2,21 +2,21 @@
 
 I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.
 
-Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I currently hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my expertise in data engineering to support a variety of research projects.
+Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my data engineering expertise to support various research projects.
 
-My personal research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.
+My research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.
 
 ---
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (end at 30 June 2026).
+- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (until June 2026).
   
   Task: data engineering.
 
   🔨 Software tools: Python, Polars and Airflow.
 
-- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (end at 31 December 2025).
+- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (until December 2025).
 
   Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -47,7 +47,7 @@ My personal research interests focus on data engineering, with a particular emph
 
   - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
-    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the (IoT) platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the IoT platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
     
     ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
@@ -172,7 +172,7 @@ I am currently working on an exciting project using Databricks. Stay tuned for u
 - Machine Learning Engineer Nanodegree - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 - AI Programming with Python Nanodegree - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
-The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects)
+The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
 
 
 ## 🎓 Education
@@ -183,7 +183,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
   Thesis: Design of Antennas Used on the Human Body.
 
-- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholiek Universiteit Leuven, Leuven, Belgium, 2002
+- **Master of Science in Engineering Science (MSc, ir.)**, Cum Laude, electrical engineering option Telecommunication and Telematic, Katholieke Universiteit Leuven, Leuven, Belgium, 2002
 
   Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
 
