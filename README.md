@@ -8,15 +8,15 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (end @ 30 June 2026).
+- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (end at 30 June 2026).
   
-  Task: Data Engineering.
+  Task: data engineering.
 
   🔨 Software tools: Python, Polars (a high-performance DataFrame library) and Airflow (a workflow orchestration tool).
 
-- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (end @ 31 December 2025).
+- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (end at 31 December 2025).
 
-  Research Group in Biomedical Data Sciences is affiliated to the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+  Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
   Data engineering support in different research projects, such as:
     - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
@@ -27,7 +27,8 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
   
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-    General engineering support, data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis. As a researcher involved in the FWO-funded project, from dr. Lousin Mumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
+    - General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
+    - As a researcher involved in the FWO-funded project, from dr. Lousin Mumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
 
      🔨 Software tools: Python, Pandas and SciPy.
 
@@ -50,7 +51,7 @@ Since 2017, I have been transitioning into the data domain, with a growing focus
     
     🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
 
-- **Senior Consultant** @ VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
+- **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
   - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
 
@@ -257,4 +258,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 3 Aug 2025*
+*Last update: 5 Aug 2025*
