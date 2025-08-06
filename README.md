@@ -1,22 +1,22 @@
 # Joeri R. Verbiest PhD MSc
 
-I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.
+<p style="text-align: justify;">I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.</p>
 
-Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my data engineering expertise to support various research projects.
+<p style="text-align: justify;">Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my data engineering expertise to support various research projects.</p>
 
-My research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.
+<p style="text-align: justify;">My research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.</p>
 
 ---
 
 ## 🛠️ Work Experience
 
-- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences - Mathematics & Statistics - Research group Centre for Statistics - [CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45), Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (until June 2026).
+- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Centrum voor Statistiek ([CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45)), Faculteit Wetenschappen, Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 (until June 2026).
   
   Task: data engineering.
 
   🔨 Software tools: Python, Polars and Airflow.
 
-- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute (BIOMED), Faculty of Medicine and Life Sciences - [Research group Immunology & Infection](https://www.uhasselt.be/en/research/research-organisation/detail?id=12766), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (until December 2025).
+- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 (until December 2025).
 
   Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
 
@@ -260,4 +260,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 5 Aug 2025*
+*Last update: 6 Aug 2025*
