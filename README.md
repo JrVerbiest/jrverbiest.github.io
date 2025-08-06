@@ -30,7 +30,7 @@
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
     - General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
-    - As a researcher involved in the FWO-funded project, from dr. Lousin Mumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
+    - As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
 
      🔨 Software tools: Python, Pandas, and SciPy.
 
