@@ -2,7 +2,7 @@
 
 <p style="text-align: justify;">I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.</p>
 
-<p style="text-align: justify;">Since 2017, I have been transitioning into the data domain, with a growing focus on data engineering. I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my data engineering expertise to support various research projects.</p>
+<p style="text-align: justify;">Today, I hold two part-time positions at Hasselt University in Belgium — at the Data Science Institute and within the Biomedical Data Sciences group — where I apply my data expertise to support various research projects.</p>
 
 <p style="text-align: justify;">My research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.</p>
 
@@ -30,7 +30,7 @@
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
     - General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
-    - As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, (PI: prof. dr. Peter Feys).
+    - As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys.
 
      🔨 Software tools: Python, Pandas, and SciPy.
 
@@ -106,7 +106,7 @@
   - Hardware and software integration; 
   - System test, validation, and instrument control; 
   - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation. ✍🏻 Patent: [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf); 
+  - IP generation. ✍🏻 Patent (inventor): [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf); 
   - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
   - Member of the European Project (FP7) 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
 
@@ -160,7 +160,7 @@
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
 
-I am currently working on an exciting project using Databricks. Stay tuned for updates!
+I am currently working on an project using Azure Databricks. Stay tuned for updates!
 
 ### Udacity
 
