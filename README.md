@@ -16,10 +16,11 @@ Engineer – Researcher @ Biomedical Data Sciences Research Group, Faculty of Me
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-    - General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
-    - As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys.
+  General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
+  
+  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys.
 
-     🔨 Software tools: Python, Pandas, and SciPy.
+  🔨 Software tools: Python, Pandas, and SciPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
   Research Projects.
@@ -176,9 +177,9 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
   Followed extra courses in:
 
-  - Biomedical engineering (Human Physiology, Biology and Biochemistry of Human Systems, including Human Biotechnology, Biomedical Measurements and Stimulation, and Transport Phenomena in Biological Systems).
+  Biomedical engineering (Human Physiology, Biology and Biochemistry of Human Systems, including Human Biotechnology, Biomedical Measurements and Stimulation, and Transport Phenomena in Biological Systems).
   
-  - Energy engineering (Finite Elements for magnetic fields and optimisation).
+  Energy engineering (Finite Elements for magnetic fields and optimisation).
   
 - **Master of Science in Industrial Engineering (MSc, Ing.)**, Cum Laude, electricity option Electronics specialisation telecommunication, Institute for Higher Education in the Sciences & the arts, De Nayer Institute, Sint-Katelijne-Waver, Belgium, 1999
 
