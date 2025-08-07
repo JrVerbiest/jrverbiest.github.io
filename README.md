@@ -24,6 +24,8 @@
 
   🔨 Software tools: Python and Pandas.
 
+---
+
 ## 🛠️ Past Work Experience
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
