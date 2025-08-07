@@ -1,28 +1,24 @@
 # Joeri R. Verbiest PhD MSc
 
-<p style="text-align: justify;">I hold a PhD in Engineering Science and two MSc degrees in Engineering (ir., ing.). With over two decades of experience across academia and industry, I apply a multidisciplinary approach to tackling complex technical challenges. My background enables me to translate academic knowledge into practical, real-world solutions with measurable impact.</p>
+## About Me
 
-<p style="text-align: justify;">My research interests focus on data engineering, with a particular emphasis on Data Mesh and, more specifically, the concept of Data as a Product.</p>
+I hold a PhD in Engineering Science, along with two MSc degrees in Engineering (ir., ing.). With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. My focus lies in transforming research into practical, data-driven solutions that deliver real-world impact.
 
-<p style="text-align: justify;">Today, I hold two part-time, fixed-term positions at Hasselt University in Belgium:</p>
+My current research interests are centered on data engineering, particularly in the areas of Data Mesh and Data as a Product.
 
+At present, I hold two part-time, fixed-term positions at Hasselt University in Belgium:
 
-- **Data Engineer** @ [Data Science Institute](https://www.uhasselt.be/en/instituten-en/dsi), Centrum voor Statistiek ([CENSTAT](https://www.uhasselt.be/en/research/research-organisation/detail?id=45)), Faculteit Wetenschappen, Hasselt University, Belgium, part-time (50%) & fixed-term, from February 2025 until June 2026.
-  
-  Tasks: data engineering. Development of a platform for pandemic preparedness. 
+🔹 Data Engineer, Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, Feb 2025 – June 2026 | 50% appointment
 
-  🔨 Software tools: Python, Polars and Airflow.
+I’m involved in developing a platform aimed at improving pandemic preparedness, focusing on scalability, reliability, and efficient data workflows.
 
-- **Engineer - Researcher** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Hasselt University, Belgium, part-time (30%) & fixed-term, from September 2023 until December 2025.
+Technologies: Python, Polars, Airflow
 
-  Research Group in Biomedical Data Sciences is affiliated with the Biomedical Research Institute (BIOMED), the Data Science Institute of UHasselt (DSI) and the University MS Center (UMSC).
+🔹 Engineer – Researcher, Biomedical Data Sciences Research Group, Affiliated with BIOMED, DSI, and the University MS Center (UMSC), Sept 2023 – Dec 2025 | 30% appointment
 
-  Providing data engineering support for various research projects, including:
-    - [MS DataConnect](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/ms-dataconnect-and-medemotion). An initiative of the University MS Center to build a multidisciplinary data infrastructure that enhances care and research for individuals with multiple sclerosis.
-    - [BELTRIMS](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/beltrims) (BELgian TReatment in Multiple Sclerosis). The national MS registry project led by the Belgian MS Study Group aims to create a centralised registry using the Health Data platform.
-    - [PROSPeCD Study](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences/prospecd): Developing a Population Health Management Dashboard for Belgium.
+I provide data engineering expertise for several biomedical research initiatives, including projects in multiple sclerosis care, national health registries, and population health management.
 
-  🔨 Software tools: Python and Pandas.
+Technologies: Python, Pandas
 
 ---
 
