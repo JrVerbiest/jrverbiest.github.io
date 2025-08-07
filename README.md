@@ -2,13 +2,13 @@
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two degrees in Engineering. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. My current interests lie in data engineering, with a particular focus on Data Mesh and Data as a Product. I am currently enhancing my data engineering capabilities using Databricks, further strengthening my expertise in modern data platforms and scalable data solutions.
+I hold a PhD in Engineering Science, along with two degrees in Engineering. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. Currently, my professional focus is on data engineering, particularly in the areas of Data Mesh and Data as a Product — paradigms that emphasize decentralized ownership and product thinking in data architecture. I am actively enhancing my capabilities in this space through hands-on work with Databricks, deepening my proficiency in modern data platforms and scalable data solutions.
 
 At present, I hold two part-time, fixed-term positions at Hasselt University in Belgium:
 
 - Data Engineer, Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences - (50% appointment, Feb 2025 – June 2026)
 
-  I contribute to the development of a data platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows.
+  I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows.
   Technologies: Python, Polars, Airflow, Docker.
 
 - Engineer – Researcher, Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences - (30% appointment, Sept 2023 – Dec 2025)
