@@ -8,17 +8,13 @@ My current research interests are centered on data engineering, particularly in 
 
 At present, I hold two part-time, fixed-term positions at Hasselt University in Belgium:
 
-🔹 Data Engineer, Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, Feb 2025 – June 2026 | 50% appointment
+- Data Engineer, Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, Feb 2025 – June 2026 (50% appointment). 
+  
+  I am involved in developing a platform aimed at improving pandemic preparedness, focusing on scalability, reliability, and efficient data workflows. Technologies: Python, Polars, Airflow
 
-I’m involved in developing a platform aimed at improving pandemic preparedness, focusing on scalability, reliability, and efficient data workflows.
+- Engineer – Researcher, Biomedical Data Sciences Research Group, Affiliated with BIOMED, DSI, and the University MS Center (UMSC), Sept 2023 – Dec 2025 (30% appointment).
 
-Technologies: Python, Polars, Airflow
-
-🔹 Engineer – Researcher, Biomedical Data Sciences Research Group, Affiliated with BIOMED, DSI, and the University MS Center (UMSC), Sept 2023 – Dec 2025 | 30% appointment
-
-I provide data engineering expertise for several biomedical research initiatives, including projects in multiple sclerosis care, national health registries, and population health management.
-
-Technologies: Python, Pandas
+  I provide data engineering expertise for several biomedical research initiatives, including projects in multiple sclerosis care, national health registries, and population health management. Technologies: Python, Pandas
 
 ---
 
