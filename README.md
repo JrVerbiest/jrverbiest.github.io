@@ -2,13 +2,13 @@
 
 ## About Me
 
-I hold a **PhD in Engineering Science**, along with **two degrees in Engineering**. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. Currently, my professional **focus is on data engineering**, particularly in the areas of Data Mesh and **Data as a Product** — paradigms that emphasize decentralized ownership and product thinking in data architecture. I am actively enhancing my capabilities in this space through **hands-on** work with **Databricks**, deepening my proficiency in modern data platforms and scalable data solutions. 
+I hold a **PhD in Engineering Science**, along with **two degrees in Engineering**. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. Currently, my research interests **focus is on data engineering**, particularly in the areas of **Data Mesh** and **Data as a Product** — paradigms that emphasize decentralized data ownership and product thinking in data architecture. I am actively enhancing my capabilities in this space through **hands-on** work with **Databricks**, deepening my proficiency in modern data platforms and scalable data solutions. 
 
 **At present, I hold two part-time, fixed-term positions at Hasselt University in Belgium**.
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, Docker.
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, and Docker.
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, Pandas.
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, and Pandas.
 
 ---
 
