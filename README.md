@@ -2,9 +2,9 @@
 
 ## About Me
 
-I hold a **PhD in Engineering Science**, along with **two degrees in Engineering**. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. Currently, my research interests **focus is on data engineering**, particularly in the areas of **Data Mesh** and **Data as a Product** — paradigms that emphasize decentralized data ownership and product thinking in data architecture. I am actively enhancing my capabilities in this space through **hands-on** work with **Databricks**, deepening my proficiency in modern data platforms and scalable data solutions. 
+I hold a **PhD in Engineering Science**, along with **two degrees in Engineering**. With over 20 years of experience across both academia and industry, I bring a multidisciplinary perspective to complex technical challenges. Currently, my research interests **focus is on data engineering**, particularly in decentralized data ownership and **product thinking** (data as a product) in data architecture. I am actively enhancing my capabilities in this space through **hands-on** work with **Databricks**, deepening my proficiency in modern data platforms and scalable data solutions. 
 
-**At present, I hold two part-time, fixed-term positions at Hasselt University in Belgium**.
+At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
 
 **Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, and Docker.
 
@@ -18,7 +18,7 @@ I hold a **PhD in Engineering Science**, along with **two degrees in Engineering
 
   General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
   
-  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys.
+  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys. Co-author of several scientific publications (see publication list).
 
   🔨 Software tools: Python, Pandas, and SciPy.
 
@@ -44,60 +44,23 @@ I hold a **PhD in Engineering Science**, along with **two degrees in Engineering
 
 - **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
-  - ***Consultant @ Cochlear Technology Centre (CTC), Mechelen, Belgium.*** 
-
-    Tasks: 
-    - System engineering support;
-    - PCB design, assembly, and testing;
-    - R&D wireless power transfer (WPT). 
-    
-    🔨 Tools: SIMetrix Circuit Design and Simulation (Spice), Python, and Altium Designer (PCB design)
+  **Consultant @ Cochlear Technology Centre (CTC)**, Mechelen, Belgium — System engineering support, PCB design/assembly/testing, and R&D in wireless power transfer. Tools: SIMetrix (Spice), Python, Altium Designer.
 
 - **Project Manager** @ Peira, Turnhout, Belgium - Full-time, Aug 2017 - Dec 2017.
 
-  Project ownership from start to finish. Responsible for: 
-  - Formulation of technical solutions; 
-  - Communication with the stakeholders (customers, partners, and suppliers) involved in the project;
-  - Coordination of technicians and colleagues ; 
-  - Providing input for technical specifications, requirements, and documentation.
+  Project ownership from start to finish — developing technical solutions, communicating with stakeholders, coordinating teams, and contributing to specifications, requirements, and documentation.
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time, Feb 2016 - Jul 2017.
 
-  - ***@ Bruker Biospin*** - *Rheinstetten, Germany / Wissembourg, France / Kontich, Belgium.* - Mar 2017 - Jul 2017. 
+  **@ Bruker Biospin** — Rheinstetten (DE) / Wissembourg (FR) / Kontich (BE) — Mar 2017 – Jul 2017
+EPR application project involving sub-system electronic design with COTS high-power operational amplifiers, PCB design, and electronic simulation. Tools: Altium Designer, TINA & LTSpice.
 
-    Project with an application in Electron Paramagnetic Resonance (EPR).
-    Comprising:
-    - Sub-system electronic design using COTS high power operational amplifier; 
-    - PCB design; 
-    - electronic simulation.
-
-  - ***@ Bruker micro-CT*** - Kontich - Belgium, Feb 2016 - Jul 2017.
-
-    Responsible for electrical and electronic design for the optical X-ray imaging system inside the Optical Molecular Imaging (OMI) team.
-    Comprising:
-    
-    - Architecture definition
-    - System and sub-system technical requirement definition and design; 
-    - Integration and testing; 
-    - Contact person for electrical and electronic suppliers; 
-    - Firmware design for low-level control (e.g., stepper motor control (with encoder) using COTS (Nanotec) drivers) and monitoring of the instrument; 
-    - PCB design.
-    
-     🔨 Tools: Altium Designer (PCB design), TINA & LTSpice (simulation), and Python.
+  **@ Bruker micro-CT** — Kontich, Belgium — Feb 2016 – Jul 2017
+Electrical/electronic design for optical X-ray imaging systems in the OMI team: architecture definition, system/sub-system requirements, integration/testing, supplier liaison, firmware for low-level control (e.g., stepper motor with encoder via COTS drivers), and PCB design. Tools: Altium Designer, TINA & LTSpice, Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time, Mar 2012 - Jan 2016.
 
-  Responsible for the technology development of an ex-vivo tool for quantifying magnetic nanoparticles.
-  Comprising: 
-  - Architecture definition and (sub-)system technical requirement definition; 
-  - Project definition and follow-up; 
-  - Contact person for solution providers and suppliers (i.e., electrical, electronic, and mechanical design houses); 
-  - Hardware and software integration; 
-  - System test, validation, and instrument control; 
-  - RF design: surface coil design (300 MHz) mainly analytical and by experiment;
-  - IP generation. ✍🏻 Patent (inventor): [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf); 
-  - Provide input technology roadmap, R&D, budget, and planning, for projects (IWT) & business plan (venture capital); 
-  - Member of the European Project (FP7) 🔬 *[🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943)* and co-author of several scientific publications (see publication list).
+  Technology development of an ex-vivo tool for quantifying magnetic nanoparticles — architecture and system design, project definition/follow-up, supplier coordination, hardware/software integration, system testing/validation, and RF surface coil design (300 MHz). IP generation, patent (inventor): [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf). Contributed to technology roadmap, R&D planning/budgeting, and business plans. Member of EU FP7 [🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943). Co-author of several scientific publications (see publication list).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time, Aug 2009 - Mar 2012.
 
@@ -107,15 +70,7 @@ I hold a **PhD in Engineering Science**, along with **two degrees in Engineering
 
 - **Product Generation Engineer** @ NMDG, Bornem, Belgium - Full-time, Apr 2007 - Jul 2009.
 
-  Responsible for translation of prototype to a product; 
-  Comprising:
-  - Contact person for hardware (electronic and mechanical) suppliers and EMC/Safety test house;
-  - Project follow-up; 
-  - Stock and order flow-up (‘procurement’); 
-  - Support in tests and measurements; 
-  - R&D next-generation phase reference generator (IWT O&O project).
-
-  🔨 Tools: Advanced Design System, Mathematica, Vector Network Analyzer, signal and (arbitrary) waveform generator, power meter, (sampling) oscilloscope, spectrum analyser.
+  Prototype-to-product transition — supplier and test house contact person, project follow-up, procurement management, test/measurement support, and R&D on next-generation phase reference generator (IWT O&O project). Tools: Advanced Design System, Mathematica, VNA, waveform generators, power meter, oscilloscopes, spectrum analyser.
 
 - **Project 🔬: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007. 
 
@@ -130,16 +85,11 @@ I hold a **PhD in Engineering Science**, along with **two degrees in Engineering
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
-  Other activities: 
-  - Treasurer IEEE Student Branch Leuven (2003-2005);
-  - Supervision projects in the course Wireless and Mobile Communications;
-  - Supervised different (Master's) thesis.
+  Other activities — Treasurer, IEEE Student Branch Leuven (2003–2005); supervised projects in Wireless and Mobile Communications course and multiple Master’s theses.
 
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium, August 2001.
 
-  Task:
-  - Solves component failure by lightning (surge immunity);
-  - Feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
+  Task: solves component failure by lightning (surge immunity) and a feasibility study of wireless communications inside a church (communication between electronic bell ringing systems).
 
 ---
 
