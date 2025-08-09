@@ -8,7 +8,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 **Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, and Docker.
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, and Pandas.
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, and Pandas. Co-author of several scientific publications (see publication list).
 
 ---
 
@@ -146,7 +146,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 - System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020  
 
-### Articles in Journals
+### Journals
 
 - Muhammad Bergas Nur Fayyad, **Joeri R. Verbiest**, Anna Ivanova, Mario Manto, Lousin Moumdjian, *"Feature derivation and classification of auditory-motor coupling dynamics in healthy and neurologically impaired adults."*, PLOS ONE, December 16, 2024. [**Paper**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315607) - cat. A1
 
@@ -166,7 +166,11 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 - **J.R. Verbiest** and G.A.E. Vandenbosch, "Development of Optimal Radiated Structures in the Surrounding of Biological Tissues", Revue HF, Belgian Journal of Electronics and Communication, no. 2, p. 18, 2004
 
-### Articles in Conference Proceedings
+### Conferences
+
+- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium.
+
+- Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
 - Detection of superparamagnetic iron oxide nanoparticles (SPION’s) in the pig lung using the particle electron paramagnetic resonance (pEPR) technique, Christine M Shortt, Deirdre Edge, Eric Roskin, **Joeri R Verbiest**, Farouk Markos, Stephanie Teughels, WMIC 2014, Seoul; Sept 17-20.
 
@@ -188,11 +192,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 -  Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
 
-### Contributions
-
-- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium.
-
-- Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
+### Zenodo Records
 
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
