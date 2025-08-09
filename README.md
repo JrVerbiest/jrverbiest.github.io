@@ -2,7 +2,7 @@
 
 ## About Me
 
-I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. Currently, my research focuses on **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product — within data architecture. I am actively developing **both my theoretical knowledge and practical skills** through hands-on work with **Databricks**, deepening my expertise in modern data platforms and scalable data solutions.
+I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. Currently, my research focuses on **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product — within data architecture. I am actively developing **both my theoretical knowledge and practical skills** through hands-on work using different tools, like for example **Databricks**, deepening my expertise in modern data platforms and scalable data solutions.
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
 
