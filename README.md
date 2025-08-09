@@ -52,11 +52,9 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 - **Senior Electronic Engineer** @ Bruker microCT & Bruker Biospin - Full-time, Feb 2016 - Jul 2017.
 
-  **@ Bruker Biospin** — Rheinstetten (DE) / Wissembourg (FR) / Kontich (BE) — Mar 2017 – Jul 2017
-EPR application project involving sub-system electronic design with COTS high-power operational amplifiers, PCB design, and electronic simulation. Tools: Altium Designer, TINA & LTSpice.
+  **@ Bruker Biospin** — Rheinstetten (DE) / Wissembourg (FR) / Kontich (BE) (Mar 2017 – Jul 2017): EPR application project involving sub-system electronic design with COTS high-power operational amplifiers, PCB design, and electronic simulation. Tools: Altium Designer, TINA & LTSpice.
 
-  **@ Bruker micro-CT** — Kontich, Belgium — Feb 2016 – Jul 2017
-Electrical/electronic design for optical X-ray imaging systems in the OMI team: architecture definition, system/sub-system requirements, integration/testing, supplier liaison, firmware for low-level control (e.g., stepper motor with encoder via COTS drivers), and PCB design. Tools: Altium Designer, TINA & LTSpice, Python.
+  **@ Bruker micro-CT** — Kontich, Belgium (Feb 2016 – Jul 2017):  Electrical/electronic design for optical X-ray imaging systems in the OMI team: architecture definition, system/sub-system requirements, integration/testing, supplier liaison, firmware for low-level control (e.g., stepper motor with encoder via COTS drivers), and PCB design. Tools: Altium Designer, TINA & LTSpice, Python.
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time, Mar 2012 - Jan 2016.
 
