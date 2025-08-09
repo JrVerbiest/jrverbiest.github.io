@@ -6,7 +6,7 @@ I hold a **PhD in Engineering Science**, along with **two engineering degrees**.
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, and Docker.
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform - the data management layer - aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Polars, Airflow, and Docker.
 
 **Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, and Pandas. Co-author of several scientific publications (see publication list).
 
