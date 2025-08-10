@@ -6,9 +6,9 @@ I hold a **PhD in Engineering Science**, along with **two engineering degrees**.
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform - the data management layer - aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies: Python, Pandas, Polars, Airflow, , DuckDB, R and Docker.
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform - the data management layer - aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies like Python, Pandas, Polars, Airflow, DuckDB, R and Docker.
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python, and Pandas. Co-author of several scientific publications (see publication list).
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python and Pandas. Co-author of several scientific publications (see publication list).
 
 ---
 
@@ -40,7 +40,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
     
   ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
-  🔨 Tools: Python, Raspberry Pi, and Teltonika RUT955 router.
+  🔨 Software & Hardware: Python, Raspberry Pi, and Teltonika RUT955 router.
 
 - **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
