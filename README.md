@@ -2,9 +2,9 @@
 
 ## About Me
 
-I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. Currently, my research focuses on **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product — within data architecture. I am actively developing **both my theoretical knowledge and practical skills** through hands-on work using different tools, like for example **Databricks**, deepening my expertise in modern data platforms and scalable data solutions.
+I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. Currently, my research focuses on **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product — within data architecture. Besides, I am actively developing **my practical skills** through hands-on work using different tools, like for example **Databricks**. 
 
-At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
+At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium:
 
 **Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – until June 2026), building scalable, reliable, and high-efficiency data workflows. 
 
@@ -16,11 +16,10 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-  General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis. 
+  General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
   
   As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys. Co-author of several scientific publications (see publication list).
 
-  🔨 Software tools: Python, Pandas, and SciPy.
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
 
