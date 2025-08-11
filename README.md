@@ -18,7 +18,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
   General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
   
-  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian, *“Auditory-motor coupling in persons with a cerebellar impairment.”*, PI: prof. dr. P. Feys. Co-author of several scientific publications (see publication list).
+  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian (PI: prof. dr. P. Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications (see publication list).
 
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
@@ -31,7 +31,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
   ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
-  🔨 Software & Hardware Tools: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
+  🔨 Software & hardware tools used in this project are: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
@@ -39,7 +39,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
     
   ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
     
-  🔨 Software & Hardware: Python, Raspberry Pi, and Teltonika RUT955 router.
+  🔨 Software & hardware tools used in this project are: Python, Raspberry Pi, and Teltonika RUT955 router.
 
 - **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
