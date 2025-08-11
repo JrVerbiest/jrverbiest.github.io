@@ -6,9 +6,9 @@ I hold a **PhD in Engineering Science**, along with **two engineering degrees**.
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium:
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – until June 2026), building scalable, reliable, and high-efficiency data workflows. 
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – until June 2026), building scalable, and reliable data workflows. 
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – until Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – until Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 ---
 
@@ -78,11 +78,11 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 - **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium, Sep 2002 - Dec 2006. 
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
-  Author of several scientific publications (see publication list).
+  Author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
-  Other activities — Treasurer, IEEE Student Branch Leuven (2003–2005); supervised projects in Wireless and Mobile Communications course and multiple Master’s theses.
+  Other activities: treasurer IEEE Student Branch Leuven (2003–2005), supervised projects in Wireless and Mobile Communications course and multiple Master’s theses.
 
 - **Summer job**, Clock-o-Matic, Holsbeek, Belgium, August 2001.
 
