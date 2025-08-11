@@ -8,7 +8,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 **Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – until June 2026), building scalable, reliable, and high-efficiency data workflows. 
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – until Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Co-author of several scientific publications (see publication list).
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – until Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 ---
 
@@ -16,9 +16,9 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-  General engineering support. Data, signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
+  General engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
   
-  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian (PI: prof. dr. P. Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications (see publication list).
+  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian (PI: prof. dr. P. Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
@@ -57,7 +57,7 @@ At present, I hold **two part-time, fixed-term positions at Hasselt University**
 
 - **Research Engineer** @ Pepric, Leuven, Belgium - Full-time, Mar 2012 - Jan 2016.
 
-  Technology development of an ex-vivo tool for quantifying magnetic nanoparticles — architecture and system design, project definition/follow-up, supplier coordination, hardware/software integration, system testing/validation, and RF surface coil design (300 MHz). IP generation, patent (inventor): [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf). Contributed to technology roadmap, R&D planning/budgeting, and business plans. Member of EU FP7 [🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943). Co-author of several scientific publications (see publication list).
+  Technology development of an ex-vivo tool for quantifying magnetic nanoparticles — architecture and system design, project definition/follow-up, supplier coordination, hardware/software integration, system testing/validation, and RF surface coil design (300 MHz). IP generation, patent (inventor): [*🌐 System and method for determining a quantity of magnetic particles*](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf). Contributed to technology roadmap, R&D planning/budgeting, and business plans. Member of EU FP7 [🌐 Multifun - Multifunctional nanotechnology for selective detection and treatment of cancer](https://cordis.europa.eu/project/id/262943). Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 - **RF Engineer** @ Orban Microwave Products, Leuven, Belgium - Full-time, Aug 2009 - Mar 2012.
 
