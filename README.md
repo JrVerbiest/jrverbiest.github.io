@@ -6,9 +6,9 @@ I hold a **PhD in Engineering Science**, along with **two engineering degrees**.
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium.
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – June 2026), where I contribute to the development of a platform - the data management layer - aimed at improving pandemic preparedness, with a focus on scalability, reliability, and efficient data workflows using technologies like Python, Pandas, Polars, Airflow, DuckDB, R and Docker.
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – until June 2026), building scalable, reliable, and high-efficiency data workflows. 
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – Dec 2025), where I provide data engineering support for several biomedical research initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Used technologies: Python and Pandas. Co-author of several scientific publications (see publication list).
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – until Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis care, national health registries, and population health management. Co-author of several scientific publications (see publication list).
 
 ---
 
@@ -195,4 +195,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 10 Aug. 2025*
+*Last update: 11 Aug. 2025*
