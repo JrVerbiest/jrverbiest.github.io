@@ -2,7 +2,7 @@
 
 ## About Me
 
-I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. My current focus is **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product. Besides, I am actively developing **my practical skills** through hands-on work using different tools, like for example **Databricks**. 
+I hold a **PhD in Engineering Science**, along with **two engineering degrees**. With over 20 years of experience spanning academia and industry, I bring a multidisciplinary perspective to tackling complex technical challenges. My current focus is **data engineering**, with particular interest in **decentralized data ownership** and **data product thinking** — treating data as a product. Besides, I am actively developing **my practical skills** through hands-on work using different tools. 
 
 At present, I hold **two part-time, fixed-term positions at Hasselt University** in Belgium:
 
@@ -194,4 +194,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 12 Aug. 2025*
+*Last update: 17 Aug. 2025*
