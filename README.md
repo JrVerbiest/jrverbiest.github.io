@@ -2,7 +2,7 @@
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two engineering degrees, and bring  +20 years of experience across academia and industry. Currently, I serve in two part-time, fixed-term positions at Hasselt University:
+I hold a PhD in Engineering Science, along with two engineering degrees, and bring +20 years of experience across academia and industry. Currently, I serve in two part-time, fixed-term positions at Hasselt University:
 
 **Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences (50% appointment, Feb 2025 – end of contract June 2026), building scalable, and reliable data workflows. 
 
