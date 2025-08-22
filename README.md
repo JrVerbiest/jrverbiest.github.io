@@ -2,11 +2,11 @@
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two engineering degrees and have over 20 years of experience spanning academia and industry. At present, I hold two part-time, fixed-term positions at Hasselt University:
+I hold a PhD in Engineering Science, along with two engineering degrees, and bring over 20 years of experience across academia and industry. Currently, I serve in two part-time, fixed-term positions at Hasselt University:
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences, 50% appointment (Feb 2025 – end of contract June 2026), building scalable, and reliable data workflows. 
+**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences (50% appointment, Feb 2025 – end of contract June 2026), building scalable, and reliable data workflows. 
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, 30% appointment (Sept 2023 – end of contract Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
+**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, (30% appointment, Sept 2023 – end of contract Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 ---
 
