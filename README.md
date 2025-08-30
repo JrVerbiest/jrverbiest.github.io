@@ -8,6 +8,8 @@ I hold a PhD in Engineering Science, along with two engineering degrees, and bri
 
 **Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, (30% appointment, Sept 2023 – end of contract Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
+[My website](https://jrverbiest.eu/)
+
 ---
 
 ## 🛠️ Past Work Experience
@@ -192,4 +194,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 22 Aug. 2025*
+*Last update: 30 Aug. 2025*
