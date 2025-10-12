@@ -2,13 +2,13 @@
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two engineering degrees, and bring +20 years of experience across academia and industry. Currently, I serve in two part-time, fixed-term positions at Hasselt University:
+I hold a PhD in Engineering Science, along with two engineering degrees, and bring +20 years of experience across academia and industry. Currently, I serve as a data engineer in two part-time, fixed-term positions at Hasselt University:
 
-**Data Engineer** @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences (50% appointment, Feb 2025 – end of contract June 2026), building scalable, and reliable data workflows. 
+- @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences (50% appointment, Feb 2025 – end of contract June 2026), building scalable, and reliable data workflows. 
 
-**Engineer – Researcher** @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, (30% appointment, Sept 2023 – end of contract Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
+- @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, (30% appointment, Sept 2023 – end of contract Dec 2025), where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, and population health management. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
-[My website](https://jrverbiest.eu/)
+[🌐 My website](https://jrverbiest.eu/)
 
 ---
 
@@ -194,4 +194,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 30 Aug. 2025*
+*Last update: 12 Oct. 2025*
