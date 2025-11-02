@@ -1,13 +1,14 @@
-# Joeri R. Verbiest
+# Joeri R. Verbiest, PhD MSc
+# Data Engineer 
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two engineering degrees, and bring +20 years of experience across academia and industry. Currently, I serve as a data engineer (fixed-term positions (80%) @ Hasselt University):
+I hold a PhD in Engineering Science, along with two engineering degrees MSc, and bring +20 years of experience across academia and industry. Currently, I serve as a data engineer, two fixed-term positions (80% in total) @ Hasselt University:
 
 - Since Feb 2025 @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences. Develop a data-driven framework for pandemic preparedness, utilising the ‘data as a product’ principles. Using software tools 🔨 such as Python, SQLMesh, pandas and R.
 
 - Since Sept 2023 @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, population health management. Besides, I am also involved in the development of a on-premise research data platform that enables the creation of data products, including a marketplace using the [Dataminded Data Product Portal](https://github.com/conveyordata/data-product-portal).<br>
-Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).<br>
+<br>
 
 [🌐 My website](https://jrverbiest.eu/)
 
@@ -195,4 +196,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 30 Oct. 2025*
+*Last update: 2 Nov. 2025*
