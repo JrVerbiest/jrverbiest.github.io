@@ -3,13 +3,15 @@
 
 ## About Me
 
-I hold a PhD in Engineering Science, along with two engineering degrees MSc, and bring +20 years of experience across academia and industry. Currently, I serve as a data engineer, two fixed-term positions (80% in total) @ Hasselt University:
+Data engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two MSc degrees in engineering, and focus on transforming complex health and research data into reliable, actionable insights.
 
-- Since Feb 2025 @ Data Science Institute (DSI), Centrum voor Statistiek (CENSTAT), Faculty of Sciences. Develop a data-driven framework for pandemic preparedness, utilising the ‘data as a product’ principles. Using software tools 🔨 such as Python, SQLMesh, pandas and R.
+Since February 2025, I have worked at the Data Science Institute (DSI) at Centrum voor Statistiek (CENSTAT), Faculty of Sciences, where I am developing a data framework for pandemic preparedness, built around the SQLMesh data transformation framework.
 
-- Since Sept 2023 @ Biomedical Data Sciences Research Group, Faculty of Medicine and Life Sciences, where I provide data engineering support for several initiatives, including projects related to multiple sclerosis, national health registries, population health management. Besides, I am also involved in the development of a on-premise research data platform that enables the creation of data products, including a marketplace using the [Dataminded Data Product Portal](https://github.com/conveyordata/data-product-portal).<br>
+Since September 2023, I have also been a member of the Biomedical Data Sciences Research Group in the Faculty of Medicine and Life Sciences, providing data engineering support for projects related to multiple sclerosis, national health registries and population health management.
+
+I am particularly interested in data platforms that enable data mesh principles, data-as-a-product thinking and modern data engineering practices.
+
 <br>
-
 [🌐 My website](https://jrverbiest.eu/)
 
 ---
@@ -196,4 +198,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 2 Nov. 2025*
+*Last update: 8 Nov. 2025*
