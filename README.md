@@ -3,9 +3,9 @@
 
 ## About Me
 
-Data engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two MSc degrees in engineering, and focus on transforming complex health and research data into reliable, actionable insights.
+Data engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two MSc degrees in engineering, and focus on transforming complex research data into reliable, actionable insights.
 
-Since February 2025, I have worked at the Data Science Institute (DSI) at Centrum voor Statistiek (CENSTAT), Faculty of Sciences, where I am developing a data framework for pandemic preparedness, built around the SQLMesh data transformation framework.
+Since February 2025, I have worked at the Data Science Institute (DSI), where I am developing a data framework for pandemic preparedness, built around the SQLMesh data transformation framework.
 
 Since September 2023, I have also been a member of the Biomedical Data Sciences Research Group in the Faculty of Medicine and Life Sciences, providing data engineering support for projects related to multiple sclerosis, national health registries and population health management.
 
