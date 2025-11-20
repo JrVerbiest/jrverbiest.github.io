@@ -9,8 +9,6 @@ Since February 2025, I have worked at the Data Science Institute (DSI), where I 
 
 Since September 2023, I have also been a member of the Biomedical Data Sciences Research Group in the Faculty of Medicine and Life Sciences, providing data engineering support for projects related to multiple sclerosis, national health registries and population health management.
 
-I am particularly interested in data platforms that enable data mesh principles, data-as-a-product thinking and modern data engineering practices.
-
 <br>
 [🌐 My website](https://jrverbiest.eu/)
 
