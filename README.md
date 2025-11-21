@@ -167,7 +167,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 ### Conferences
 
-- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium.
+- Sariga Kakkamani1, Frederic Jung, **Joeri Verbiest**, Liesbet Peeters, "RAG-Enhanced LLM Pipeline for Semantic Mapping of Context-based Features to OMOP Vocabulary.", OHDSI Symposium 2025, Hasselt, Belgium. [**Poster**](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/lit/102_RAG-LLM_Poster_Sariga%20Kakkamani%20-%20sariga%20k.pdf)
 
 - Moumdjian, L. **Verbiest, J**., Moens, B., Rosso, M., Feys, P., "Dynamic adaptation responses to auditory perturbations during walking in progressive multiple sclerosis.", RIMS SIG mobility meeting, 4th Oct 2024, Aarhus.
 
@@ -196,4 +196,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 8 Nov. 2025*
+*Last update: 21 Nov. 2025*
