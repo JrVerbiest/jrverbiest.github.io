@@ -3,11 +3,9 @@
 
 ## About Me
 
-Data engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two MSc degrees in engineering, and focus on transforming complex research data into reliable, actionable insights.
+I work as a data engineer at Hasselt University, drawing on 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two MSc engineering degrees, and my work centres on designing data pipelines and architectures that make complex research data reliable, reproducible and ready for analysis.
 
-Since February 2025, I have worked at the Data Science Institute (DSI), where I am developing a data framework for pandemic preparedness, built around the SQLMesh data transformation framework.
-
-Since September 2023, I have also been a member of the Biomedical Data Sciences Research Group in the Faculty of Medicine and Life Sciences, providing data engineering support for projects related to multiple sclerosis, national health registries and population health management.
+At the Data Science Institute (DSI), where I have been a member since February 2025, I am developing a data framework for pandemic preparedness. I also support the Biomedical Data Sciences Research Group (since September 2023) in the Faculty of Medicine and Life Sciences, providing data engineering expertise for projects on multiple sclerosis, national health registries and population health management.
 
 <br>
 [🌐 My website](https://jrverbiest.eu/)
@@ -196,4 +194,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 21 Nov. 2025*
+*Last update: 28 Nov. 2025*
