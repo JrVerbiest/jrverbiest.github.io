@@ -5,9 +5,13 @@
 🛠️ **Current Work Experience** as Data Engineer at Hasselt University.
 
 - @ Data Science Institute (DSI) – member since Feb 2025.
-- @ Research Group Biomedical Data Sciences – member since Sep 2023.
+  <br> Developing a data platform for pandemic preparedness, built around the SQLMesh data transformation framework.
 
-Design and implement robust data architectures and pipelines that support scientific research.
+- @ Research Group Biomedical Data Sciences – member since Sep 2023.
+  <br> Data engineering support for projects related to multiple sclerosis, national health registries and population health management.
+  <br> Involved in:
+  - MS-Observe – Belgium-wide real-world evidence study.
+  - Remote Clinical Monitoring Center (RCMC)
 
 ---
 
@@ -140,7 +144,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 ### Patent
 
-- System and method for determining a quantity of magnetic particles. (Inventor) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020  
+- System and method for determining a quantity of magnetic particles. (**Inventor**) Pub. No.: [WO/2016/128353](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20210707/patents/EP3256842NWB1/document.pdf), Filed: February 8, 2016 - Date of Patent: March 31, 2020  
 
 ### Journals
 
@@ -193,4 +197,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 1 Dec. 2025*
+*Last update: 13 Dec. 2025*
