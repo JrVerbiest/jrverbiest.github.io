@@ -1,16 +1,18 @@
-# Joeri R. Verbiest, PhD MSc
+# Joeri R. Verbiest, PhD MSc - Data Engineer
 
 [🌐 My website](https://jrverbiest.eu/)
 
 🛠️ **Current Work Experience** as Data Engineer at Hasselt University.
 
-- @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) – member since Feb 2025.
-  <br> Developing a data platform for pandemic preparedness, built around the SQLMesh data transformation framework.
+- Since Feb 2025 @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi).
+  - The development of a data framework for pandemic preparedness. This framework is build around SQLMesh and transform contact survey data into analytics-ready datasets.
 
-- @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) – member since Sep 2023.
+- Since Sep 2023 @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences).
   <br> Involved in:
-  - MS-Observe – Belgium-wide real-world evidence study. Responsible for data engineering, data management, and data quality assements.
-  - Remote Clinical Monitoring Center (RCMC). Building a data management and data platform to enable the design of data products.
+  - [MS-Observe: real world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and the data quality assements.
+  - The devlopment of a data management and an on-premise data platform that enables the design of data products for data science research.
+
+<br>
 
 ---
 
