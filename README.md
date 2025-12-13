@@ -2,16 +2,16 @@
 
 [🌐 My website](https://jrverbiest.eu/)
 
-🛠️ **Current Work Experience** as Data Engineer at Hasselt University.
+🛠️ **Current Work Experience** as a Data Engineer at Hasselt University.
 
-- Since Feb 2025 @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi).
+- Since Feb 2025, @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi). <br>PI: Prof. dr. Niel Hens
 <br> Involved in:
-  - The development of a data framework for pandemic preparedness. This framework transform contact survey data into analytics-ready data and is build around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/) a next-generation data transformation framework designed to ship data quickly.
+  - The development of a data framework for pandemic preparedness. This framework transforms contact survey data into analytics-ready data and is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework designed to ship data quickly.
 
-- Since Sep 2023 @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences).
+- Since Sep 2023, @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences). <br>PI: Prof. dr. ir. Liesbet M. Peeters
   <br> Involved in:
-  - [MS-Observe: real world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and the data quality assement.
-  - The devlopment of a data management and an on-premise data platform that enables the design of data products for data science research.
+  - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
+  - The development of a data management and an on-premise data platform that enables the design of data products for data science research.
 
 <br>
 
@@ -23,7 +23,7 @@
 
   General engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
   
-  As a researcher involved in the FWO-funded project, from dr. L. Moumdjian (PI: prof. dr. P. Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
+  As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian (PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
