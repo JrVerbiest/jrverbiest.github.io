@@ -6,11 +6,11 @@
 
 - Since Feb 2025 @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi).
 <br> Involved in:
-  - The development of a data framework for pandemic preparedness. This framework is build around SQLMesh and transform contact survey data into analytics-ready datasets.
+  - The development of a data framework for pandemic preparedness. This framework transform contact survey data into analytics-ready data and is build around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/) a next-generation data transformation framework designed to ship data quickly.
 
 - Since Sep 2023 @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences).
   <br> Involved in:
-  - [MS-Observe: real world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and the data quality assements.
+  - [MS-Observe: real world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and the data quality assement.
   - The devlopment of a data management and an on-premise data platform that enables the design of data products for data science research.
 
 <br>
