@@ -5,6 +5,7 @@
 🛠️ **Current Work Experience** as Data Engineer at Hasselt University.
 
 - Since Feb 2025 @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi).
+<br> Involved in:
   - The development of a data framework for pandemic preparedness. This framework is build around SQLMesh and transform contact survey data into analytics-ready datasets.
 
 - Since Sep 2023 @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences).
