@@ -1,6 +1,6 @@
 # Joeri R. Verbiest, PhD MSc
 
-Data Engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two Master of Science (MSc) degrees in engineering. I specialise in transforming complex research data into reliable, well-structured FAIR-T datasets that support reproducible analysis and actionable insights.
+Data Engineer at Hasselt University with 20+ years of experience across academia and industry. I hold a PhD in Engineering Science and two Master of Science (MSc) degrees in engineering. I specialise in transforming complex research data into reliable, well-structured FAIR-T (Findable, Accessible, Interoperable, and Reusable and Trustworthy) datasets that support reproducible analysis and actionable insights.
 
 [🌐 My website](https://jrverbiest.eu/)
 
