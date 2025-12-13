@@ -8,7 +8,7 @@
   <br> Developing a data platform for pandemic preparedness, built around the SQLMesh data transformation framework.
 
 - @ Research Group Biomedical Data Sciences – member since Sep 2023.
-  <br> Data engineering support, involved in:
+  <br> Involved in:
   - MS-Observe – Belgium-wide real-world evidence study.
   - Remote Clinical Monitoring Center (RCMC)
 
