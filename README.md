@@ -1,24 +1,24 @@
 # Joeri R. Verbiest, PhD MSc
-## Senior Data Engineer
+## Data Engineer
 
-Senior Data Engineer at Hasselt University with 20+ years of experience across academia and industry, holding a PhD in Engineering Science and two MSc degrees in engineering. 
+Data Engineer at Hasselt University with 20+ years of experience across academia and industry, holding a PhD in Engineering Science and two MSc degrees in engineering. 
 
-I architect and deliver robust, scalable data solutions that accelerate scientific research, transforming complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) datasets and data products. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
+I architect and deliver robust, scalable data solutions that accelerate scientific research, transforming complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) data. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
 [🌐 My website](https://jrverbiest.eu/)
 
-🛠️ **Current Work Experience** as a Data Engineer at Hasselt University.
+## 🛠️ Current Work Experience
 
-- Since Feb 2025, @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi). <br>PI: Prof. dr. Niel Hens
-<br> Involved in:
+- @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025. 
+<br>PI: Prof. dr. Niel Hens
+<br>
   - The development of a data framework for pandemic preparedness. This framework transforms contact survey data into analytics-ready data and is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework designed to ship data quickly.
 
-- Since Sep 2023, @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences). <br>PI: Prof. dr. ir. Liesbet M. Peeters
-  <br> Involved in:
+- @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023. 
+<br>PI: Prof. dr. ir. Liesbet M. Peeters
+  <br>
   - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
   - The development of a data management and an on-premise data platform solution that enables the design of data products for data science research.
-
-<br>
 
 ---
 
