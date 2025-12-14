@@ -13,7 +13,7 @@ Data Engineer at Hasselt University with 20+ years of experience across academia
 - Since Sep 2023, @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences). <br>PI: Prof. dr. ir. Liesbet M. Peeters
   <br> Involved in:
   - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - The development of a data management and an on-premise data platform that enables the design of data products for data science research.
+  - The development of a data management and an on-premise data platform solution that enables the design of data products for data science research.
 
 <br>
 
