@@ -9,14 +9,11 @@ I architect and deliver robust, scalable data solutions that accelerate scientif
 
 ## 🛠️ Current Work Experience
 
-- @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025. 
-<br>PI: Prof. dr. Niel Hens
-<br>
-  - The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
+- @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.<br>
+The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
 
-- @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023. 
-<br>PI: Prof. dr. ir. Liesbet M. Peeters
-  <br>
+- @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.<br>
+Involvded in:<br>
   - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
   - The development of an data platform that enables the design of data products for data science research.
 
