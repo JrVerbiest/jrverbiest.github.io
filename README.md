@@ -12,13 +12,13 @@ I architect and deliver robust, scalable data solutions that accelerate scientif
 - @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025. 
 <br>PI: Prof. dr. Niel Hens
 <br>
-  - The development of a data framework for pandemic preparedness. This framework transforms contact survey data into analytics-ready data and is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework designed to ship data quickly.
+  - The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
 
 - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023. 
 <br>PI: Prof. dr. ir. Liesbet M. Peeters
   <br>
   - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - The development of a data management and an on-premise data platform solution that enables the design of data products for data science research.
+  - The development of an data platform that enables the design of data products for data science research.
 
 ---
 
@@ -204,4 +204,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 14 Dec. 2025*
+*Last update: 20 Dec. 2025*
