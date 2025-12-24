@@ -1,7 +1,7 @@
 # Joeri R. Verbiest, PhD MSc
-## Data Engineer
+## Engineer
 
-Data Engineer at Hasselt University with 20+ years of experience across academia and industry, holding a PhD in Engineering Science and two MSc degrees in engineering. 
+Engineer with 20+ years of experience across academia and industry, holding a PhD in Engineering Science and two MSc degrees in engineering. 
 
 I architect and deliver robust, scalable data solutions that accelerate scientific research, transforming complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) data. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
@@ -201,4 +201,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 20 Dec. 2025*
+*Last update: 24 Dec. 2025*
