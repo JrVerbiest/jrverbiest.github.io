@@ -19,7 +19,8 @@ tools
 @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) (Since Sep 2023) <br>PI: Prof. dr. ir. Liesbet M. Peeters.
   
   - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - 🔨 The development of a data platform that enables the design of data products for data science research.
+  - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
+  - 🔬 Contribute to the [pilot Research on the requirements of potential users for a population health management dashboard](https://zenodo.org/records/15165445).
   
 ---
 
