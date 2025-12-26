@@ -1,9 +1,8 @@
 # Joeri R. Verbiest, PhD MSc
-## Engineer
 
-Engineer with 20+ years of experience across academia and industry, holding a PhD in Engineering Science and two MSc degrees in engineering. 
+**Engineer | 20+ years across academia & industry | Turning complex research data into FAIR-T data.**
 
-I architect and deliver robust, scalable data solutions that accelerate scientific research, transforming complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) data. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
+Today, I work at Hasselt University, where I deliver robust, scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) data. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
 [🌐 My website](https://jrverbiest.eu/)
 
@@ -11,11 +10,14 @@ I architect and deliver robust, scalable data solutions that accelerate scientif
 
 - @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.<br>
 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
+tools 
 
 - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.<br>
 Involvded in:<br>
   - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - The development of an data platform that enables the design of data products for data science research.
+  - The development of a data platform that enables the design of data products for data science research.
+  
+<br>🔨 Tools and technology: Python, Pandas, SQLMesh, SQL, Duckdb, DuckLake, ....
 
 ---
 
@@ -201,4 +203,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 24 Dec. 2025*
+*Last update: 26 Dec. 2025*
