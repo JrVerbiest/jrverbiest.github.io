@@ -1,6 +1,6 @@
 # Joeri R. Verbiest, PhD MSc
 
-**Engineer** | **20+ years across academia & industry** | **Turning complex research data into FAIR-T data.**
+**Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.**
 
 Obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data science, machine learning, and data engineering.
 
@@ -56,7 +56,7 @@ Involvded in:<br>
 
   **Consultant @ Cochlear Technology Centre (CTC)**, Mechelen, Belgium — System engineering support, PCB design/assembly/testing, and R&D in wireless power transfer. Tools: SIMetrix (Spice), Python, Altium Designer.
 
-- **Project Manager** @ Peira, Turnhout, Belgium - Full-time, Aug 2017 - Dec 2017.
+- **Project Manager** @ Peira Scientific Instruments, Turnhout, Belgium - Full-time, Aug 2017 - Dec 2017.
 
   Project ownership from start to finish — developing technical solutions, communicating with stakeholders, coordinating teams, and contributing to specifications, requirements, and documentation.
 
