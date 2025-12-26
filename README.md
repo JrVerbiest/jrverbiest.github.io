@@ -11,7 +11,7 @@ Today, I work at Hasselt University, where I deliver robust, scalable data solut
 ## 🛠️ Current Work Experience
 
 - @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.<br>
-The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
+  - The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
 tools 
 
 - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.<br>
