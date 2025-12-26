@@ -8,7 +8,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 [🌐 My website](https://jrverbiest.eu/)
 
-## 🛠️ Current Work Experience
+## 🛠️ Current Work Experience @ Hasselt University
 
 - @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.
 
