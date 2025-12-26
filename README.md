@@ -1,6 +1,6 @@
 # Joeri R. Verbiest, PhD MSc
 
-**Engineer | 20+ years across academia & industry | Turning complex research data into FAIR-T data.**
+**Engineer** | **20+ years across academia & industry** | **Turning complex research data into FAIR-T data.**
 
 Today, I work at Hasselt University, where I deliver robust, scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR-T (Findable, Accessible, Interoperable, Reusable, and Trustworthy) data. By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
