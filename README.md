@@ -2,7 +2,7 @@
 
 ***Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.***
 
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data science, machine learning, and data engineering. 
+I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data science, machine learning, and data engineering.
 
 In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I deliver robust, scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
@@ -12,17 +12,16 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 - @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.
 
-  - The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
-tools 
+  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
+tools
 
 - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
 
-  Involvded in:<br>
-  - [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - The development of a data platform that enables the design of data products for data science research.
+  Involvded in:
   
-<br>🔨 Tools and technology: Python, Pandas, SQLMesh, SQL, Duckdb, DuckLake, ....
-
+  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
+  - 🔨 The development of a data platform that enables the design of data products for data science research.
+  
 ---
 
 ## 🛠️ Past Work Experience
