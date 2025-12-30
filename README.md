@@ -4,23 +4,24 @@
 
 I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data science, machine learning, and data engineering.
 
-In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I deliver robust, scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
+In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I primarily focus on data and analytics engineering, delivering robust and scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
 [🌐 My website](https://jrverbiest.eu/)
 
 ## 🛠️ Current Work Experience @ Hasselt University
 
-@ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) (Since Feb 2025) <br>PI: Prof. dr. Niel Hens.
+@ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) (Since Feb 2025)
+<br> PI: Prof. dr. Niel Hens.
 
-  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/), a next-generation data transformation framework.
-tools
+- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/). [Ongoing]
 <br>
 
-@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) (Since Sep 2023) <br>PI: Prof. dr. ir. Liesbet M. Peeters.
+@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) (Since Sep 2023) 
+<br> PI: Prof. dr. ir. Liesbet M. Peeters.
   
-  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
-  - 🔬 Contribute to the [pilot Research on the requirements of potential users for a population health management dashboard](https://zenodo.org/records/15165445).
+- 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment. [Ongoing]
+- 🔨 Involved in the development of a data platform that enables the design of data products for data science research. [Ongoing]
+- 🔬 Contributed to the [pilot Research on the requirements of potential users for a population health management dashboard](https://zenodo.org/records/15165445). [Finished]
   
 ---
 
@@ -31,7 +32,6 @@ tools
   General engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
   
   As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian (PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
-
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
 
@@ -48,9 +48,9 @@ tools
   **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
   Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the IoT platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
-    
+
   ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
-    
+
   🔨 Software & hardware tools used in this project are: Python, Raspberry Pi, and Teltonika RUT955 router.
 
 - **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
@@ -81,13 +81,13 @@ tools
 
   Prototype-to-product transition — supplier and test house contact person, project follow-up, procurement management, test/measurement support, and R&D on next-generation phase reference generator (IWT O&O project). Tools: Advanced Design System, Mathematica, VNA, waveform generators, power meter, oscilloscopes, spectrum analyser.
 
-- **Project 🔬: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007. 
+- **Project 🔬: Antenna design for medical implant** @ Client ‘X’ - Katholieke Universiteit Leuven (Esat-Telemic), a project under Non-Disclosure Agreement, Leuven, Belgium, Nov. 2006 - Mar 2007.
 
   Achievements: Proof of concept (TRL1) & prototype design (TRL2).
 
   🔨 Tools: CST Microwave Office, Matlab, and Advanced Design System
 
-- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium, Sep 2002 - Dec 2006. 
+- **Doctoral Research** @ Katholieke Universiteit Leuven (Esat-Telemic), Leuven Belgium, Sep 2002 - Dec 2006.
   Design of antennas used on the human body. This research focused on the design of small, low-cost ultra-wideband (UWB) 3.0-9.0 GHz antennas for wireless body area networks (WBAN). Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application).
 
   Author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
@@ -105,6 +105,7 @@ tools
 ## 🎓 Self-Education
 
 ### Databricks
+
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
 
@@ -120,10 +121,9 @@ tools
 
 The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
 
-
 ## 🎓 Education
 
-- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007. 
+- **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007.
 
   Funded by IWT PhD scholarship (active participation in drafting and preparation of the grant application)
 
@@ -133,7 +133,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
   Thesis: Exposure of Human Blood to an Electromagnetic Field and the numerical model.
 
-  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform. 
+  In the thesis, a numerical model (Finite-Difference Time-Domain method) was written in C on a Linux platform.
 
   Followed extra courses in:
 
@@ -161,7 +161,7 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 - **Joeri R. Verbiest**, Bruno Bonnechère, Wim Saey, Patricia Van de Walle, Steven Truijen, Pieter Meyns, *"Gait Stride Length Estimation Using Embedded Machine Learning"*, MDPI Sensors, 2023. [**Paper**](https://www.mdpi.com/1424-8220/23/16/7166) - cat. A1
 
-- Li X., Torfs G, Vandewege J, Bauwelinck J, **Verbiest J.R.**, "Sensitive and quantitative pEPR detection system for SPIO nanoparticles", Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles) 
+- Li X., Torfs G, Vandewege J, Bauwelinck J, **Verbiest J.R.**, "Sensitive and quantitative pEPR detection system for SPIO nanoparticles", Electronics Letters, pp. 1600-1601, Volume 49, Issue 25, 2013. [**Paper**](https://www.researchgate.net/publication/260616748_Sensitive_and_quantitative_pEPR_detection_system_for_SPIO_nanoparticles)
 
 - **J.R. Verbiest** and G.A.E. Vandenbosch, "A low cost small size tapered slot antenna for lower band UWB applications", IEE Electronics Letters, Volume 42, Issue 12, pp. 670-671, 2006. [**Paper**](https://www.researchgate.net/publication/3388916_Low-cost_small-size_tapered_slot_antenna_for_lower_band_UWB_applications)
 
@@ -199,11 +199,11 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 
 ### Preprints
 
--  Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
+- Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
 
 ### Zenodo Records
 
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 26 Dec. 2025*
+*Last update: 30 Dec. 2025*
