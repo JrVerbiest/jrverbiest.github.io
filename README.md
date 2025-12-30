@@ -10,18 +10,19 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ## 🛠️ Current Work Experience @ Hasselt University
 
-@ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) (Since Feb 2025)
+@ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025
 <br> PI: Prof. dr. Niel Hens.
 
-- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/). [Ongoing]
+- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
 <br>
 
-@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) (Since Sep 2023) 
+@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023
 <br> PI: Prof. dr. ir. Liesbet M. Peeters.
   
-- 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment. [Ongoing]
-- 🔨 Involved in the development of a data platform that enables the design of data products for data science research. [Ongoing]
-- 🔬 Contributed to the [pilot Research on the requirements of potential users for a population health management dashboard](https://zenodo.org/records/15165445). [Finished]
+- 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
+- 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
+- 🔨 Involved in Remote Clinical Monitoring Center [(RCMC)](https://www.researchportal.be/en/project/remote-clinical-monitoring-time-next-level)
+- ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
   
 ---
 
@@ -103,6 +104,10 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 ---
 
 ## 🎓 Self-Education
+
+### dbt
+
+- **Current focus:** learning dbt for data transformation using Databricks as the data platform.
 
 ### Databricks
 
