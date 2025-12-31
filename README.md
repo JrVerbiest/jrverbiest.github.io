@@ -2,37 +2,34 @@
 
 ***Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.***
 
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data science, machine learning, and data engineering.
+I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data analytics, data science, machine learning, and data engineering. In 2020, I returned to academia, applying my accumulated expertise in data.
 
-In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I primarily focus on data and analytics engineering, delivering robust and scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
+Today, I work at Hasselt University, where I primarily focus on data and analytics engineering, delivering robust and scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
 
 [🌐 My website](https://jrverbiest.eu/)
 
-## 🛠️ Current Work Experience @ Hasselt University
+## 🛠️ Work Experience @ Hasselt University
 
-@ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025
-<br> PI: Prof. dr. Niel Hens.
+- Data Engineer @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.
 
-- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
-<br>
+  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
 
-@ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023
-<br> PI: Prof. dr. ir. Liesbet M. Peeters.
+- Data Engineer - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
   
-- 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-- 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
-- 🔨 Involved in Remote Clinical Monitoring Center [(RCMC)](https://www.researchportal.be/en/project/remote-clinical-monitoring-time-next-level)
-- ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
-  
+  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
+  - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
+  - 🔨 Involved in Remote Clinical Monitoring Center [(RCMC)](https://www.researchportal.be/en/project/remote-clinical-monitoring-time-next-level)
+  - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
+
 ---
 
 ## 🛠️ Past Work Experience
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-  General engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis, using different tools 🔨: Python, Pandas and SciPy.
+  General (data) engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis.
   
-  As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian (PI: prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
+  As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian (PI: Prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
 - **Researcher** @ Karel de Grote University of Applied Science and Arts (KdG), Campus Hoboken, Antwerp, Belgium - part-time & fixed-term, Jan 2020 - Aug 2023.
 
@@ -40,9 +37,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
   
   **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 Dec 2021 -  31 Aug 2023 (14 person-month).
 
-  Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices.
-
-  ✍🏻 Publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
+  Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices, ✍🏻 publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
   🔨 Software & hardware tools used in this project are: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
@@ -211,4 +206,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 30 Dec. 2025*
+***Last update: 31 Dec. 2025***
