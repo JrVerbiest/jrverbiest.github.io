@@ -100,9 +100,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 ## 🎓 Self-Education
 
-### dbt
-
-- **Current focus:** learning dbt for data transformation using Databricks as the data platform.
+- **Current focus:** Databricks + data build tool (dbt) for data transformations.
 
 ### Databricks
 
