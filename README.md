@@ -13,18 +13,18 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 - **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.
 
   - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
-
+  <br>
   <div style="text-align: center;">
   <img src="img/Pandemic_Preparedness.png" 
        style="max-width: 75%; height: auto;" 
        alt="Pandemic_Preparedness"/>
   </div>
-
+  <br>
 - **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
   
   - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
   - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
-
+    <br>
    <div style="text-align: center;">
   <img src="img/data_platform.png" 
        style="max-width: 75%; height: auto;"
