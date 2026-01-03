@@ -115,13 +115,15 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 ## 🎓 Self-Education
 
-### dbt
+### Data Analytics Engineering with dbt & Databricks
 
 <div style="text-align: center;">
   <img src="img/dbt_databricks.png" 
        style="max-width: 60%; height: auto;" 
        alt="dbt_databricks "/>
 </div>
+<br>
+Focus on expanding expertise in data analytics engineering, with particular emphasis on dbt (data build tool) and Databricks SQL Warehouses. Design and implement modular, maintainable, and scalable data transformation pipelines that convert raw data into clean, reliable, and analytics-ready datasets. Apply software engineering best practices—including version control, automated testing, and comprehensive documentation—to data workflows. Embrace data-as-a-product principles to deliver high-quality, consumer-centric data solutions that reliably meet the needs of downstream analytics and business users.
 
 ### Databricks
 
