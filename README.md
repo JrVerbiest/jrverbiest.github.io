@@ -102,6 +102,12 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 **Current focus:** dbt with Databricks as data/AI platform.
 
+<div style="text-align: center;">
+  <img src="img/dbt_databricks.png" 
+       style="max-width: 60%; height: auto;" 
+       alt="dbt_databricks "/>
+</div>
+
 ### Databricks
 
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
@@ -204,4 +210,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 31 Dec. 2025***
+***Last update: 3 Jan. 2025***
