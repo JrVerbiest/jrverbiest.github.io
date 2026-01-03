@@ -17,7 +17,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
   <br>
   <div style="text-align: center;">
   <img src="img/Pandemic_Preparedness.png" 
-       style="max-width: 75%; height: auto;" 
+       style="max-width: 90%; height: auto;" 
        alt="Pandemic_Preparedness"/>
   </div>
   <br>
@@ -30,7 +30,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
   
   <div style="text-align: center;">
   <img src="img/data_platform.png" 
-       style="max-width: 75%; height: auto;"
+       style="max-width: 85%; height: auto;"
        alt="data_platform"/>
   </div>
 
@@ -118,7 +118,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 <div style="text-align: center;">
   <img src="img/dbt_databricks.png" 
-       style="max-width: 75%; height: auto;" 
+       style="max-width: 90%; height: auto;" 
        alt="dbt_databricks "/>
 </div>
 <br>
