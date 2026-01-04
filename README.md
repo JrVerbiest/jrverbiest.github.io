@@ -14,7 +14,6 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
   - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
   
-  <br>
   <div style="text-align: center;">
   <img src="img/Pandemic_Preparedness.png" 
        style="max-width: 90%; height: auto;" 
@@ -229,4 +228,4 @@ The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Pro
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 3 Jan. 2025***
+***Last update: 4 Jan. 2025***
