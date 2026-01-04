@@ -112,8 +112,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 ## 🎓 Self-Education
 
-### Data Analytics Engineering 
-#### 🔨 dbt & Databricks SQL Warehouse
+### Analytics engineering
 
 <div style="text-align: center;">
   <img src="img/dbt_databricks.png" 
@@ -122,7 +121,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 </div>
 <br>
 
-Enhance further my skills in **data analytics engineering**, with a particular focus on **dbt** (data build tool) and **Databricks SQL Warehouse**. Design and implement modular, maintainable, and scalable data transformation pipelines that convert raw data into clean, reliable datasets, ready for analysis. Apply software engineering best practices—including version control, automated testing, and comprehensive documentation—to data workflows.
+Enhance further my skills in **[analytics engineering](https://www.getdbt.com/blog/what-is-analytics-engineering)**, with a particular focus on **dbt** (data build tool) and **Databricks SQL Warehouse**. THe goal is to design and implement modular, maintainable, and scalable data transformation pipelines that convert raw data into clean, reliable datasets, ready for analysis. Apply software engineering best practices—including version control, automated testing, and comprehensive documentation—to data workflows.
 
 The project will be documented on my GitHub - **work in progress**.
 
@@ -141,7 +140,7 @@ The project will be documented on my GitHub - **work in progress**.
 - Machine Learning Engineer Nanodegree - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 - AI Programming with Python Nanodegree - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
-The projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
+All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
 
 ## 🎓 Education
 
