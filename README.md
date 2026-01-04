@@ -113,7 +113,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 ## 🎓 Self-Education
 
 ### Data Analytics Engineering 
-#### 🔨 dbt & Databricks SQL Warehouses
+#### 🔨 dbt & Databricks SQL Warehouse
 
 <div style="text-align: center;">
   <img src="img/dbt_databricks.png" 
