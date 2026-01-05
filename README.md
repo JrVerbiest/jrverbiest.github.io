@@ -220,6 +220,10 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
 
+### Under Review
+
+- Lousin Moumdjian, **Joeri R. Verbiest**, Nele Vanbilsen, Bart Moens, Mattia Rosso, Daphne Kos, Bart Van Wijmeersch, Peter Feys, *Dynamic adaptation responses to auditory perturbations during walking in multiple sclerosis with progressive subtypes*.
+
 ### Zenodo Records
 
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
