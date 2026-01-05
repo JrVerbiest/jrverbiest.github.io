@@ -121,9 +121,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 </div>
 <br>
 
-Enhance further my skills in **[analytics engineering](https://www.getdbt.com/blog/what-is-analytics-engineering)**, with a particular focus on **dbt** (data build tool) and **Databricks SQL Warehouse**. THe goal is to design and implement modular, maintainable, and scalable data transformation pipelines that convert raw data into clean, reliable datasets, ready for analysis. Apply software engineering best practices—including version control, automated testing, and comprehensive documentation—to data workflows.
-
-The project will be documented on my GitHub - **work in progress**.
+Enhance further my skills in **[analytics engineering](https://www.getdbt.com/blog/what-is-analytics-engineering)**, with a particular focus on **dbt** (data build tool) and **Databricks**.
 
 ### Databricks
 
@@ -227,4 +225,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 4 Jan. 2025***
+***Last update: 5 Jan. 2025***
