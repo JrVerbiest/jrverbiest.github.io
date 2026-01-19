@@ -142,7 +142,7 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 
 ## 🎓 Data Engineering
 
-- Attend the Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school), Leuven 2 february - 6 february 2026.
+- Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school), Leuven 2 february - 6 february 2026.
 
   Topics covered: Data World, git, Linux, bash, Devops using Docker, Data Analytics (Snowflake and dbt), Data Processing (spark and polars), Automate using Airflow and finalized with a Capstone project.
 
