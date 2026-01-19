@@ -116,7 +116,7 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 <div style="text-align: center;">
   <img src="img/dbt_databricks.png" 
-       style="max-width: 50%; height: auto;" 
+       style="max-width: 25%; height: auto;" 
        alt="dbt_databricks "/>
 </div>
 <br>
