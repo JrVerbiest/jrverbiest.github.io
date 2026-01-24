@@ -112,16 +112,9 @@ Today, I work at Hasselt University, where I primarily focus on data and analyti
 
 ## 🎓 Self-Education
 
-### Analytics engineering
+### Data Engineering
 
-<div style="text-align: center;">
-  <img src="img/dbt_databricks.png" 
-       style="max-width: 20%; height: auto;" 
-       alt="dbt_databricks "/>
-</div>
-<br>
-
-Enhance further my skills in **[analytics engineering](https://www.getdbt.com/blog/what-is-analytics-engineering)**, with a particular focus on **dbt** (data build tool) and **Databricks**.
+- Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
 ### Databricks
 
@@ -139,12 +132,6 @@ Enhance further my skills in **[analytics engineering](https://www.getdbt.com/bl
 - AI Programming with Python Nanodegree - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
 All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
-
-## 🎓 Data Engineering
-
-- Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
-
-  Topics: Data World, git, Linux, bash, Devops using Docker, Data Analytics (Snowflake and dbt), Data Processing (spark and polars), Automate using Airflow and finalized with a Capstone project.
 
 ## 🎓 Education
 
@@ -235,4 +222,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 19 Jan. 2025***
+***Last update: 24 Jan. 2025***
