@@ -2,9 +2,9 @@
 
 ***Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.***
 
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data analytics, data science, machine learning, and data engineering. In 2020, I returned to academia, applying my accumulated expertise in data.
+I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data analytics, data science, machine learning, and, with a focus today, on data engineering.
 
-Today, I work at Hasselt University, where I primarily focus on data and analytics engineering, delivering robust and scalable data solutions that accelerate scientific research. These solutions transform complex, heterogeneous research data into rigorously governed FAIR (Findable, Accessible, Interoperable, and Reusable) data, ensuring it is also Trustworthy (T). By embedding rich metadata, end-to-end provenance, and stringent quality controls, I enable reproducible analysis and decision-ready insights that researchers and stakeholders can trust.
+In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I primarily focus on data and analytics engineering.
 
 [🌐 My website](https://jrverbiest.eu/)
 
@@ -222,4 +222,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 24 Jan. 2025***
+***Last update: 30 Jan. 2025***
