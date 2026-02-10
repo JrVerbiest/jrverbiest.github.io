@@ -114,6 +114,17 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ### Data Engineering
 
+- Analytics engineering with dbt and Databricks SQL Warehouse
+
+Build analytics-ready data models using dbt on Databricks SQL Warehouse, applying software engineering best practices — version control and testing..
+<br>
+
+<div style="text-align: center;">
+  <img src="img/dbt.png" 
+       style="max-width: 30%; height: auto;"
+       alt="tools"/>
+  </div>
+
 - Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
  <div style="text-align: center;">
