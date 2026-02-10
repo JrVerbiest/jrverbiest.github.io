@@ -112,18 +112,18 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ## 🎓 Self-Education
 
-### Data Engineering
+### Data & Analytics Engineering
 
 - Analytics engineering with dbt and Databricks SQL Warehouse
 
-Build analytics-ready data models using dbt on Databricks SQL Warehouse, applying software engineering best practices — version control and testing..
-<br>
+  Build analytics-ready data models using dbt on Databricks SQL Warehouse, applying software engineering best practices — version control and testing.
+  <br>
 
-<div style="text-align: center;">
-  <img src="img/dbt.png" 
-       style="max-width: 30%; height: auto;"
-       alt="tools"/>
-  </div>
+  <div style="text-align: center;">
+    <img src="img/dbt.png" 
+        style="max-width: 40%; height: auto;"
+        alt="tools"/>
+    </div>
 
 - Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
@@ -239,4 +239,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-***Last update: 10 Feb. 2026***
+*Last update: 10 Feb. 2026*
