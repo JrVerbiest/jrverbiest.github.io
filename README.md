@@ -114,16 +114,19 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ### Data & Analytics Engineering
 
-- Analytics engineering with dbt and Databricks SQL Warehouse
+- Data & Analytics Engineering PET Project
 
-  Build analytics-ready data models using dbt on Databricks SQL Warehouse, applying software engineering best practices — version control and testing.
+  Demonstrating data and analytics engineering practices through a real-world air quality monitoring system.
+
   <br>
 
   <div style="text-align: center;">
-    <img src="img/dbt.png" 
+    <img src="img/openaq_project.png" 
         style="max-width: 50%; height: auto;"
         alt="tools"/>
     </div>
+
+  *A "pet project", a personal endeavor or favorite activity someone works on out of passion and interest, not duty, often in their spare time.*
 
 - Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
