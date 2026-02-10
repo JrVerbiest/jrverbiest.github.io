@@ -122,7 +122,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
   <div style="text-align: center;">
     <img src="img/openaq_project.png" 
-        style="max-width: 70%; height: auto;"
+        style="max-width: 90%; height: auto;"
         alt="tools"/>
     </div>
 
