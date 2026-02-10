@@ -118,7 +118,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
  <div style="text-align: center;">
   <img src="img/tools.png" 
-       style="max-width: 85%; height: auto;"
+       style="max-width: 80%; height: auto;"
        alt="tools"/>
   </div>
 
