@@ -116,7 +116,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 - Data & Analytics Engineering PET Project
 
-  Demonstrating data and analytics engineering practices through a real-world air quality monitoring system.
+  Demonstrating data and analytics engineering practices through a real-world air quality monitoring system. In the project we use Databricks Data Intelligence Platform (with Spark and Polars) and dbt. The transformed data will be stored in the Databricks SQL warehouse.
 
   <br>
 
@@ -242,4 +242,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 10 Feb. 2026*
+*Last update: 12 Feb. 2026*
