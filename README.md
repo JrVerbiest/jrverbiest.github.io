@@ -114,19 +114,15 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ### Data & Analytics Engineering
 
-- Data & Analytics Engineering PET Project
-
-  Demonstrating data and analytics engineering practices through a real-world air quality monitoring system. In the project we use Databricks Data Intelligence Platform (with Spark and Polars) and dbt. The transformed data will be stored in the Databricks SQL warehouse.
-
-  <br>
+- Analytics Engineering: dbt & Databricks SQL warehouse
 
   <div style="text-align: center;">
-    <img src="img/openaq_project.png" 
-        style="max-width: 90%; height: auto;"
+    <img src="img/dbt_databricks.png" 
+        style="max-width: 50%; height: auto;"
         alt="tools"/>
     </div>
 
-  *A "pet project", a personal endeavor or favorite activity someone works on out of passion and interest, not duty, often in their spare time.*
+
 
 - Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
@@ -242,4 +238,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 12 Feb. 2026*
+*Last update: 13 Feb. 2026*
