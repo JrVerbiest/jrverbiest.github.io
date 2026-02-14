@@ -14,24 +14,11 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
   - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
   
-  <div style="text-align: center;">
-  <img src="img/Pandemic_Preparedness.png" 
-       style="max-width: 90%; height: auto;" 
-       alt="Pandemic_Preparedness"/>
-  </div>
-  <br>
-
 - **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
   
   - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
   - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
   - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
-  
-  <div style="text-align: center;">
-  <img src="img/data_platform.png" 
-       style="max-width: 85%; height: auto;"
-       alt="data_platform"/>
-  </div>
 
 ---
 
@@ -113,16 +100,6 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 ## 🎓 Self-Education
 
 ### Data & Analytics Engineering
-
-- Analytics Engineering: dbt & Databricks SQL warehouse
-
-  <div style="text-align: center;">
-    <img src="img/dbt_databricks.png" 
-        style="max-width: 50%; height: auto;"
-        alt="tools"/>
-    </div>
-
-
 
 - Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
 
@@ -238,4 +215,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 13 Feb. 2026*
+*Last update: 14 Feb. 2026*
