@@ -101,7 +101,8 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ### Analytics Engineering: dbt + Databricks
 
-<br><div style="text-align: center;">
+  <br>
+  <div style="text-align: center;">
   <img src="img/dbt_ae.png" 
        style="max-width: 50%; height: auto;"
        alt="tools"/>
