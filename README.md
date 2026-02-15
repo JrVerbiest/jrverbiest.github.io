@@ -2,7 +2,7 @@
 
 ***Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.***
 
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my expertise in data analytics, data science, machine learning, and, with a focus today, on data engineering.
+I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my knowledge in data analytics, data science, machine learning, and, with a focus today, on data engineering.
 
 In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I primarily focus on data and analytics engineering.
 
@@ -10,15 +10,15 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ## 🛠️ Work Experience @ Hasselt University
 
-- **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - Since Feb 2025 - PI: Prof. dr. Niel Hens.
+- **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - part-time & fixed-term - since Feb 2025 - PI: Prof. dr. Niel Hens.
 
-  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data. The framework is built around [SQLMesh](https://sqlmesh.readthedocs.io/en/stable/).
+  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data.
   
-- **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - Since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
+- **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - - part-time & fixed-term - since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
   
+  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br>Responsible for data engineering, data management, and data quality assessment.
+  - 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
   - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
-  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium (Research)](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-  - 🔨 Involved in the development of a data platform that enables the design of data products for data science research.
 
 ---
 
@@ -26,7 +26,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 - **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
-  General (data) engineering support. Data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis.
+  Data and analytics engineering support: data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis.
   
   As a researcher involved in the FWO-funded project, from dr. Lousin Moumdjian (PI: Prof. dr. Peter Feys): “*Auditory-motor coupling in persons with a cerebellar impairment.*”. Co-author of several scientific publications ([see publication list](https://github.com/JrVerbiest/jrverbiest.github.io?tab=readme-ov-file#-publications)).
 
@@ -34,19 +34,19 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
   Research Projects:
   
-  **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 Dec 2021 -  31 Aug 2023 (14 person-month).
+  - **[🌐 ML@E2dge](https://mlate2dge.github.io)** - 🔬PWO-project,  1 Dec 2021 -  31 Aug 2023 (14 person-month).
 
-  Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices, ✍🏻 publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
+    Machine Learning at the Extreme Edge (ML@E2dge) examines applying machine learning to develop intelligent devices, ✍🏻 publication: [🌐 Gait Stride Length Estimation Using Embedded Machine Learning](https://www.mdpi.com/1424-8220/23/16/7166)
 
-  🔨 Software & hardware tools used in this project are: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
+    🔨 Software & hardware tools used in this project are: Python, Pandas, NumPy, SciPy, TensorFlow, TensorFlow Lite, Keras, Weights & Biases (MLOps platform), Edge Impulse Development Studio, (Xsens) IMU sensor.
 
-  **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
+  - **[🌐 Elgas](https://www.kdg.be/ELGAS)** - 🔬 TETRA-project, 1 Jan 2020 - 30 Nov 2021 (23 person-months).
 
-  Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the IoT platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
+    Effects of air quality in ships' accommodations on human health: monitoring environmental parameters, risk analysis, and recommendations. Project partners: Hogere Zeevaartschool (HZS), Karel De Grote Hogeschool (KdG) and Vlaamse Instelling voor Technologisch Onderzoek (VITO). KdG was responsible for the IoT platform (system integration, software, and firmware design). This research was funded by Flanders Innovation & Entrepreneurship (TETRA Fund).
 
-  ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
+    ✍🏻 Tutorial: [🌐 Cloud-Based Data Logger](https://tetra-elgas.github.io/Cloud_Based_Data_Logger/)
 
-  🔨 Software & hardware tools used in this project are: Python, Raspberry Pi, and Teltonika RUT955 router.
+    🔨 Software & hardware tools used in this project are: Python, Raspberry Pi, and Teltonika RUT955 router.
 
 - **Senior Consultant** at VeroTech, Leuven, Belgium - Full-time, Jan 2018 - Dec 2019.
 
@@ -97,25 +97,22 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ---
 
-## 🎓 Self-Education
+## 🎓 Education: Online Courses & Self-education
 
-### Data & Analytics Engineering
+### Data Engineering
 
-- Data Engineering Winter School 2026, organized by the [Dataminded](https://www.dataminded.com/academy/winter-summer-school).
-
- <div style="text-align: center;">
+- **Data Engineering Winter School** (Feb. 2026) - **[Dataminded](https://www.dataminded.com/academy/winter-summer-school)**.
+<br>Focus on: 
+<div style="text-align: center;">
   <img src="img/tools.png" 
-       style="max-width: 80%; height: auto;"
+       style="max-width: 70%; height: auto;"
        alt="tools"/>
   </div>
 
-### Databricks
+### Online courses (self-education)
 
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
-
-### Udacity
-
 - DevOps Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
 - Data Stewardship Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
 - Data Modeling Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
@@ -126,7 +123,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
 
-## 🎓 Education
+## 🎓 Education: PhD & MSc
 
 - **Doctoral degree in Engineering Science (PhD, dr.)**, Katholieke Universiteit Leuven, Leuven, Belgium, 2007.
 
@@ -215,4 +212,4 @@ All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 14 Feb. 2026*
+*Last update: 15 Feb. 2026*
