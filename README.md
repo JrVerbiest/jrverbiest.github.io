@@ -97,22 +97,33 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ---
 
-## 🎓 Education: Online Courses & Self-education
+## 🎓 Education: Online Courses, Self-education & Projects
+
+### Analytics Engineering: dbt + Databricks
+
+<br><div style="text-align: center;">
+  <img src="img/dbt_ae.png" 
+       style="max-width: 50%; height: auto;"
+       alt="tools"/>
+  </div>
 
 ### Data Engineering
 
 - **Data Engineering Winter School** (Feb. 2026) - **[Dataminded](https://www.dataminded.com/academy/winter-summer-school)**.
-<br>Focus on: 
-<div style="text-align: center;">
-  <img src="img/tools.png" 
-       style="max-width: 70%; height: auto;"
-       alt="tools"/>
-  </div>
+
+  Focus on:
+  <div style="text-align: center;">
+    <img src="img/tools.png" 
+        style="max-width: 70%; height: auto;"
+        alt="tools"/>
+    </div>
 
 ### Online courses (self-education)
 
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
+
+<br>
 - DevOps Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
 - Data Stewardship Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
 - Data Modeling Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
@@ -121,7 +132,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 - Machine Learning Engineer Nanodegree - [Certificate Of Completion](http://jrverbiest.eu/docs/Certificate%20Machine%20Learning%20Engineer%20Nanodegree.pdf)
 - AI Programming with Python Nanodegree - [Certificate Of Completion](http://www.jrverbiest.eu/docs/Certificate%20AI%20Programming%20with%20Python%20Nanodegree.pdf)
 
-All the projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
+All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerbiest/Udacity-Projects).
 
 ## 🎓 Education: PhD & MSc
 
