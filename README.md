@@ -97,14 +97,14 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ---
 
-## 🎓 Education: Online Courses, Self-education & Projects
+## 🎓 (Online) Courses, Self-Education & Projects
 
-### Analytics Engineering: dbt + Databricks
+### Analytics Engineering Using dbt & Databricks
 
   <br>
   <div style="text-align: center;">
   <img src="img/dbt_ae.png" 
-       style="max-width: 50%; height: auto;"
+       style="max-width: 40%; height: auto;"
        alt="tools"/>
   </div>
 
@@ -224,4 +224,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 15 Feb. 2026*
+*Last update: 21 Feb. 2026*
