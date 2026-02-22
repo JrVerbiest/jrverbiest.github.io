@@ -10,11 +10,11 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ## 🛠️ Work Experience @ Hasselt University
 
-- **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi) - part-time & fixed-term - since Feb 2025 - PI: Prof. dr. Niel Hens.
+- **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) - part-time & fixed-term - since Feb 2025 - PI: Prof. dr. Niel Hens.
 
   - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data.
   
-- **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences) - - part-time & fixed-term - since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
+- **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences - part-time & fixed-term - since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
   
   - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br>Responsible for data engineering, data management, and data quality assessment.
   - 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
@@ -24,7 +24,7 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ## 🛠️ Past Work Experience
 
-- **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/nl/onderzoeksgroepen/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
+- **Engineer - Researcher - Technical Developer** @ [Research group Reval](https://www.uhasselt.be/en/onderzoeksgroepen-en/reval), Faculty of Rehabilitation Sciences, Hasselt University, Belgium, part-time & fixed-term, Jan 2022 - Dec 2024.
 
   Data and analytics engineering support: data and signal processing (time series), sensor data cleansing and data preparation for statistical analysis.
   
@@ -224,4 +224,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmend, Bert Vaes, Liesbet M. Peeters, Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard, EQuiP 2025. [Pilot Research on the Requirements of Potential Users for a Population Health Management Dashboard](https://zenodo.org/records/15165445).
 
 ---
-*Last update: 21 Feb. 2026*
+*Last update: 22 Feb. 2026*
