@@ -1,14 +1,6 @@
 # Joeri R. Verbiest, PhD MSc
 
-***Engineer - 20+ years across academia & industry - Turning complex research data into FAIR-T data.***
-
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my knowledge in data analytics, data science, machine learning, and, with a focus today, on data engineering.
-
-In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University, where I primarily focus on data and analytics engineering.
-
-[🌐 My website](https://jrverbiest.eu/)
-
-## 🛠️ Work Experience @ Hasselt University
+I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my knowledge in data analytics, data science, machine learning, and, with a focus today, on data engineering. In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University as:
 
 - **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) - part-time & fixed-term - since Feb 2025 - PI: Prof. dr. Niel Hens.
 
@@ -19,6 +11,8 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
   - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br>Responsible for data engineering, data management, and data quality assessment.
   - 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
   - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
+
+[🌐 My website](https://jrverbiest.eu/)
 
 ---
 
