@@ -97,9 +97,9 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 ---
 
-## 🎓 (Online) Courses, Self-Education & Projects
+## 🎓 (Online) Courses
 
-### Data Engineering
+### Courses
 
 - **Data Engineering Winter School** (Feb. 2026) - **[Dataminded](https://www.dataminded.com/academy/winter-summer-school)**.
 
@@ -113,8 +113,6 @@ In 2020, I returned to academia, applying my accumulated expertise in data. Toda
 
 - Fundamentals of the Databricks Lakehouse Platform Certificate - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Certificate.pdf)
 - Databricks Fundamentals Accreditation - [Certificate Of Completion](https://github.com/JrVerbiest/jrverbiest.github.io/blob/master/databricks/Databricks%20Fundamentals%20Accreditation.pdf)
-
-<br>
 - DevOps Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/DevOps%20Fluency.pdf)
 - Data Stewardship Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Stewardship%20Fluency.pdf)
 - Data Modeling Fluency - [Certificate Of Completion](https://github.com/JrVerbiest/Udacity-Projects/blob/main/certifications/Data%20Modeling%20Fluency.pdf)
