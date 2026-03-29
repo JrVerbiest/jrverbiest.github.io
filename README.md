@@ -6,9 +6,7 @@ Engineer by training, data professional by evolution.
 
 📊 From 2017 onward, I made a deliberate pivot toward the data space, progressively building expertise in data analytics, data science, machine learning, and — where my focus lies today — data engineering. In 2020, I brought that combined industry and data experience back to academia.
 
-🔧 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. My mission: democratise data and analytics engineering for researchers.
-
-I build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable products, but also build their own analytical workflows on top — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+🔧 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. My mission is to build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable products, but also build their own analytical workflows on top — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
 
 💡 It's where data platform thinking meets product thinking — and where engineering discipline turns research data into a first-class asset: FAIR-T and ready to drive the next discovery.
 
