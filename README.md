@@ -1,18 +1,30 @@
 # Joeri R. Verbiest, PhD MSc
 
-I obtained an MSc in Industrial Engineering (Ing.) from the De Nayer Institute in Belgium in 1999, followed by an MSc in Engineering Science (ir.) in 2002 and a PhD in Engineering Science in 2007, both from KU Leuven in Belgium. After completing my PhD, I moved into industry, working in the microwave, preclinical, and healthcare sectors. From 2017 onward, I systematically expanded my knowledge in data analytics, data science, machine learning, and, with a focus today, on data engineering. In 2020, I returned to academia, applying my accumulated expertise in data. Today, I work at Hasselt University as:
+Engineer by training, data professional by evolution.
 
-- **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) - part-time & fixed-term - since Feb 2025 - PI: Prof. dr. Niel Hens.
+🎓 I hold a PhD in Engineering Science from KU Leuven (2007), built on earlier engineering degrees — an MSc in Engineering Science (ir., 2002) from KU Leuven and an MSc in Industrial Engineering (Ing., 1999) from the De Nayer Institute in Belgium. After my PhD, I spent a decade in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
 
-  - 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data.
-  
-- **Data Engineer** - @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences - part-time & fixed-term - since Sep 2023 - PI: Prof. dr. ir. Liesbet M. Peeters.
-  
-  - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br>Responsible for data engineering, data management, and data quality assessment.
-  - 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
-  - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium - [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
+📊 From 2017 onward, I made a deliberate pivot toward the data space, progressively building expertise in data analytics, data science, machine learning, and — where my focus lies today — data engineering. In 2020, I brought that combined industry and data experience back to academia.
 
-[🌐 My website](https://jrverbiest.eu/)
+🔧 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. My mission: democratise data and analytics engineering for researchers.
+
+I build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable products, but also build their own analytical workflows on top — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+
+💡 It's where data platform thinking meets product thinking — and where engineering discipline turns research data into a first-class asset: FAIR-T and ready to drive the next discovery.
+
+---
+
+## Current Roles
+
+**Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — part-time & fixed-term — since Feb 2025 — PI: Prof. dr. Niel Hens.
+
+- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data.
+
+**Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
+
+- 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
+- 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
+- ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium — [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
 
 ---
 
@@ -207,4 +219,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 7 March 2026
+Last update: 29 March 2026
