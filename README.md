@@ -20,6 +20,7 @@ Engineer by training, data professional by evolution.
 
 **Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
 
+- 🔬 [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en) - Involved in WP Technical Tools
 - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
 - 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
 - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium — [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
@@ -217,4 +218,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 29 March 2026
+Last update: 31 March 2026
