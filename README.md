@@ -8,7 +8,7 @@
 
 🏫 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. 
 
-🚀 My mission: build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+🚀 My mission: build tools and self-serve platform capabilities that empower domain experts to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
  
 💡 It's where data platform thinking meets product thinking — and where engineering discipline turns research data into a first-class asset: FAIR-T and ready to drive the next discovery.
 
