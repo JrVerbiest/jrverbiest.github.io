@@ -1,13 +1,15 @@
 # Joeri R. Verbiest, PhD MSc
 
-Engineer by training, data professional by evolution.
+👨🏻‍💻 Engineer by training, data professional by evolution.
 
-🎓 I hold a PhD in Engineering Science from KU Leuven (2007), built on earlier engineering degrees — an MSc in Engineering Science (ir., 2002) from KU Leuven and an MSc in Industrial Engineering (Ing., 1999) from the De Nayer Institute in Belgium. After my PhD, I spent a decade in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
+🎓 I hold a PhD in Engineering Science from KU Leuven, built on earlier engineering degrees from the De Nayer Institute and KU Leuven in Belgium. After my PhD, I spent a decade in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
 
 📊 From 2017 onward, I made a deliberate pivot toward the data space, progressively building expertise in data analytics, data science, machine learning, and — where my focus lies today — data engineering. In 2020, I brought that combined industry and data experience back to academia.
 
-🔧 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. My mission is to build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable products, but also build their own analytical workflows on top — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+🏫 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. 
 
+🚀 My mission: build tools and self-serve platform capabilities that empower researchers to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+ 
 💡 It's where data platform thinking meets product thinking — and where engineering discipline turns research data into a first-class asset: FAIR-T and ready to drive the next discovery.
 
 ---
@@ -218,4 +220,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 31 March 2026
+Last update: 5 April 2026
