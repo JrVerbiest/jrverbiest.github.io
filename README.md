@@ -1,14 +1,14 @@
 # Joeri R. Verbiest, PhD MSc
 
-👨🏻‍💻 Engineer by training, data professional by evolution.
+👨🏻‍💻 Electrical Engineer by training, data professional by evolution.
 
-🎓 I hold a PhD in Engineering Science from KU Leuven, built on earlier engineering degrees from the De Nayer Institute and KU Leuven in Belgium. After my PhD, I spent a decade in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
+🎓 I hold a PhD in Engineering Science from KU Leuven, built on earlier engineering degrees from the De Nayer Institute and KU Leuven in Belgium. After my PhD, I spent 13 years in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
 
 📊 From 2017 onward, I made a deliberate pivot toward the data space, progressively building expertise in data analytics, data science, machine learning, and — where my focus lies today — data engineering. In 2020, I brought that combined industry and data experience back to academia.
 
-🏫 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products. 
+🏫 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products.
 
-🚀 My mission: build tools and self-serve platform capabilities that empower domain experts to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about pipeline architecture, storage and serving layer design, data contracts, quality enforcement, versioning, and observability — the engineering foundations that make self-serve not just possible, but reliable at scale.
+🚀 My mission: build tools and self-serve platform capabilities that empower domain experts to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about the data pipeline architecture, storage and serving layer design, data contracts, quality enforcement, and versioning — the engineering foundations that make self-serve not just possible, but reliable at scale.
 
 [🌐 My website](https://jrverbiest.eu/)
 
@@ -18,15 +18,14 @@
 
 **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — part-time & fixed-term — since Feb 2025 — PI: Prof. dr. Niel Hens.
 
-- The development of a data framework for pandemic preparedness.<br>
+- The development of a data framework - by applying a Data-as-a-Product mindset - for pandemic preparedness.<br>
   🔨 Tools: dbt (data build tool), duckdb and the on-premise research data platform
 
 **Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
 
 - [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en)<br>
-  Involved in WP Technical Tools.<br> 
-  Apply a Data-as-a-Product mindset to achieve readiness for the European Health Data Space (EHDS) by building a Multiple Sclerosis (MS) core data product (demonstrator) - secondary use of data - using Synthea™, an open-source synthetic patient generator, to simulate electronic health records (EHR).<br>
-  Adopt a data contract–first design, ensuring clear schemas, semantics, and SLAs. Emphasize on data quality, and interoperability.<br>
+  Apply a Data-as-a-Product mindset to achieve readiness for the European Health Data Space (EHDS) - secondary use of data - by building a Multiple Sclerosis (MS) core data product demonstrator using Synthea™, an open-source synthetic patient generator, to simulate electronic health records (EHR).<br>
+  Adopt a data contract–first design - ensuring clear schemas, semantics, and SLAs. Emphasize on data quality, and interoperability (using Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM)).<br>
   🔨 Tools: dbt (data build tool) and Databricks.
 - Involved in the development of an on-premise research data platform leveraging Dell hardware infrastructure, designed to facilitate the creation of scalable data products for data science research, in close collaboration with Dataminded.
 - [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br> 
