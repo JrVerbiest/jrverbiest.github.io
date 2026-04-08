@@ -19,14 +19,14 @@
 **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — part-time & fixed-term — since Feb 2025 — PI: Prof. dr. Niel Hens.
 
 - The development of a data framework - by applying a Data-as-a-Product mindset - for pandemic preparedness.<br>
-  🔨 Tools: dbt (data build tool), duckdb and the on-premise research data platform
+  🔨 Tools: dbt (data build tool), DuckDB and the on-premise research data platform
 
 **Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
 
 - [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en)<br>
   Apply a Data-as-a-Product mindset to achieve readiness for the European Health Data Space (EHDS) - secondary use of data - by building a Multiple Sclerosis (MS) core data product demonstrator using Synthea™, an open-source synthetic patient generator, to simulate electronic health records (EHR).<br>
   Adopt a data contract–first design - ensuring clear schemas, semantics, and SLAs. Emphasize on data quality, and interoperability (using Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM)).<br>
-  🔨 Tools: dbt (data build tool) and Databricks.
+  🔨 Tools: dbt (data build tool), DuckDB and Databricks.
 - Involved in the development of an on-premise research data platform leveraging Dell hardware infrastructure, designed to facilitate the creation of scalable data products for data science research, in close collaboration with Dataminded.
 - [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235).<br> 
   Responsible for data engineering, data management, and data quality assessment.
