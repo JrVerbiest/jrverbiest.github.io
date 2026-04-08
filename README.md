@@ -18,13 +18,15 @@
 
 **Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — part-time & fixed-term — since Feb 2025 — PI: Prof. dr. Niel Hens.
 
-- 🔨 The development of a data framework for pandemic preparedness, a framework that transforms contact survey data into analytics-ready data.
+- 🔨 The development of a data framework for pandemic preparedness.<br>
+     Tools: dbt (data build tool) and duckdb
 
 **Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
 
-- 🔬 [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en) - Involved in WP Technical Tools
+- 🔬 [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en)<br>
+     Involved in WP Technical Tools. Apply a Data-as-a-Product mindset to achieve readiness for the European Health Data Space (EHDS) by building a Multiple Sclerosis (MS) core data product - secondary use of data - using Synthea™, an open-source synthetic patient generator, to simulate electronic health records (EHR).<br>Adopt a data contract–first design, ensuring clear schemas, semantics, and SLAs. Emphasize on data quality, and interoperability.
 - 🔬 [MS-Observe: real-world insights into ofatumumab treatment in Belgium](https://www.uhasselt.be/en/projects/detail/31240-project-r-16235). Responsible for data engineering, data management, and data quality assessment.
-- 🔨 Involved in the development of a research data platform that enables the design of data products for (data science) research.
+- 🔨 Involved in the development of an on-premise research data platform that enables the design of data products for (data science) research.
 - ✍🏻 Contributed to PROSPeCD Study: Development of a Population Health Management Dashboard for Belgium — [Report](https://gbiomed.kuleuven.be/english/research/50000687/50000695/NL/afbeeldingen/research-images/copy_of_prospecd-report_final-report_081124.pdf)
 
 ---
@@ -220,4 +222,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 6 April 2026
+Last update: 8 April 2026
