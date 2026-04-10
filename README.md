@@ -1,6 +1,6 @@
 # Joeri R. Verbiest, PhD MSc
 
-👨🏻‍💻 Electrical Engineer by training, data professional by evolution.
+👨🏻‍💻 Electrical Engineer by training, ⛁ data professional by evolution.
 
 🎓 I hold a PhD in Engineering Science from KU Leuven, built on earlier engineering degrees from the De Nayer Institute and KU Leuven in Belgium. After my PhD, I spent 13 years in industry across the microwave, preclinical, and healthcare sectors — roles that sharpened both my technical and cross-domain problem-solving skills.
 
@@ -8,7 +8,9 @@
 
 🏫 I currently work at Hasselt University, where I focus on data and analytics engineering — bridging the gap between raw research data and FAIR-T data products.
 
-🚀 My mission: build tools and self-serve platform capabilities that empower domain experts to not only engineer their data into trustworthy, reusable data products, but also build their own analytical workflows — without needing a data or analytics engineer at their side. This means thinking deeply about the data pipeline architecture, storage and serving layer design, data contracts, quality enforcement, and versioning — the engineering foundations that make self-serve not just possible, but reliable at scale.
+🚀 My mission: create tools and platforms that let domain experts own their data — end to end. That means designing the foundations they stand on: pipeline architecture, storage and serving layers, data contracts, quality enforcement, and versioning — so that self-serve isn't just a buzzword, but something that actually works at scale. 
+
+🎯 The goal is simple: domain experts should be able to engineer trustworthy, reusable data products and build their own analytical workflows — without a data or analytics engineer holding their hand.
 
 [🌐 My website](https://jrverbiest.eu/)
 
@@ -225,4 +227,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 8 April 2026
+Last update: 10 April 2026
