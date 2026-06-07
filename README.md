@@ -215,6 +215,8 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ### Preprints
 
+- Parciak T, **Verbiest J**, Gesquiere E, Descamps F, Peeters L, *"Piloting the automatic transformation of real-world data to the OMOP common data model: the MS core dataset to OMOP SwitchBox"*, JMIR Preprints. 05/06/2026:103713, DOI: 10.2196/preprints.103713. [**Paper**](https://preprints.jmir.org/preprint/103713)
+
 - Marie Van de Putte, Laura Christiaens, Laura Goetschalckx, Stefan Morreel, **Joeri R. Verbiest**, Mare Claeys, Josefien Van Olmen, Bert Vaes, Liesbet M. Peeters, *"Developing a Population Health Management Dashboard for Belgium: a focus group study with mock-up design."*, medRxiv preprint, April 2025. [**Paper**](https://www.medrxiv.org/content/10.1101/2025.04.25.25326410v1)
 
 ### Under Review
@@ -227,4 +229,4 @@ All the **Udacity** projects are listed on my [GitHub](https://github.com/JrVerb
 
 ---
 
-Last update: 10 April 2026
+Last update: 7 June 2026
