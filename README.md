@@ -18,12 +18,12 @@
 
 ## Current Roles
 
-**Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — part-time & fixed-term — since Feb 2025 — PI: Prof. dr. Niel Hens.
+**Data Engineer** @ [Data Science Institute (DSI)](https://www.uhasselt.be/en/instituten-en/dsi), Faculty of Sciences (Research group Centre for Statistics) — since Feb 2025 (part-time & fixed-term until Dec 2026).
 
 - The development of a data framework - by applying a Data-as-a-Product mindset - for pandemic preparedness.<br>
   🔨 Tools: dbt (data build tool), DuckDB and the on-premise research data platform
 
-**Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — part-time & fixed-term — since Sep 2023 — PI: Prof. dr. ir. Liesbet M. Peeters.
+**Data Engineer** @ [Research Group Biomedical Data Sciences](https://www.uhasselt.be/en/instituten-en/biomed-en/immunology/biomedical-data-sciences), Biomedical Research Institute, Faculty of Medicine and Life Sciences — since Sep 2023 (part-time & fixed-term until Dec 2026).
 
 - [GET REHDY — Getting Ready for the European Health Data Space](https://getrehdy.be/en)<br>
   Apply a Data-as-a-Product mindset to achieve readiness for the European Health Data Space (EHDS) - secondary use of data - by building a Multiple Sclerosis (MS) core data product demonstrator using Synthea™, an open-source synthetic patient generator, to simulate electronic health records (EHR).<br>
